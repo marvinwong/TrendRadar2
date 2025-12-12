@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:46:52.202464+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2025-12-12T21:36:14.504476+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 20时46分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 21时36分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时39分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[11时39分 ~ 21时36分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 20时46分]"
+          "appearance_count": 15,
+          "time_info": "[09时59分 ~ 21时36分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -102,8 +102,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时12分 ~ 21时36分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -308,6 +308,30 @@
           "time_info": "[11时39分 ~ 13时24分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
           "title": "全面解析ChatGPT5.2",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
           "source": "bilibili 热搜",
@@ -352,18 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时31分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时46分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -412,18 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时29分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时46分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
@@ -586,7 +586,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -718,7 +718,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
