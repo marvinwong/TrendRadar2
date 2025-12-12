@@ -1,8 +1,3 @@
-美股
-A股票
-美元
-+指数
-
 图书
 书籍
 小说
@@ -17,3 +12,4 @@ chatgpt
 openai
 Claude
 AI Coding
+
