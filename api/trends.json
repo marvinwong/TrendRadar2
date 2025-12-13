@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T06:20:45.621059+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-12-14T07:20:12.965951+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,24 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
-        },
-        {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
             3,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -76,11 +76,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -92,8 +93,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -103,8 +104,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -117,8 +118,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时20分]"
         }
       ]
     }
