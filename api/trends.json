@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T20:41:22.890856+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-12-13T21:29:05.766378+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时40分 ~ 20时41分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时21分 ~ 20时41分]"
+          "appearance_count": 19,
+          "time_info": "[06时21分 ~ 21时29分]"
         },
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -58,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时40分 ~ 20时41分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 21时29分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -71,11 +71,12 @@
             5,
             8,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 20时41分]"
+          "appearance_count": 18,
+          "time_info": "[07时21分 ~ 21时29分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -101,11 +102,12 @@
             9,
             11,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 20时41分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 21时29分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -130,6 +132,22 @@
           "time_info": "[02时34分 ~ 06时21分]"
         },
         {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            4,
+            7,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 21时29分]"
+        },
+        {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3761222",
           "source": "华尔街见闻",
@@ -140,21 +158,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            4,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -307,6 +310,17 @@
           "time_info": "[04时25分 ~ 07时21分]"
         },
         {
+          "title": "甲骨文暴跌重燃AI泡沫论，但几乎无人敢做空！",
+          "url": "https://wallstreetcn.com/articles/3761300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
           "url": "https://www.cls.cn/detail/2228546",
           "source": "财联社热门",
@@ -327,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时25分]"
+        },
+        {
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
