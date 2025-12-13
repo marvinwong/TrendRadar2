@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T16:29:07.981742+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-12-13T17:21:54.917337+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时40分 ~ 17时21分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时21分 ~ 16时29分]"
+          "appearance_count": 13,
+          "time_info": "[06时21分 ~ 17时21分]"
         },
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时40分 ~ 17时21分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -67,11 +67,12 @@
             7,
             5,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 17时21分]"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
@@ -82,11 +83,12 @@
             6,
             8,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 16时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 17时21分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -286,6 +288,18 @@
           "time_info": "[04时25分 ~ 07时21分]"
         },
         {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时21分]"
+        },
+        {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
           "url": "https://www.cls.cn/detail/2228546",
           "source": "财联社热门",
@@ -306,17 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时25分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
