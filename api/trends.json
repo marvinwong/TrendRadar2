@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:21:18.452620+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-12-15T20:51:02.713194+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 13时27分]"
+        },
+        {
+          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
+          "url": "https://www.cls.cn/detail/2229902",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时51分]"
         },
         {
           "title": "短剧女演员都快美成AI了",
@@ -130,24 +142,13 @@
           "time_info": "11时43分"
         },
         {
-          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
-          "url": "https://www.cls.cn/detail/2229902",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "紫光国微：成立中央研究院，主要的研究发展方向为开展面向自动驾驶、具身机器人、低空飞行器等应用的端侧AI芯片新架构、新模型和高效算法研究；开展基于二维材料器件的新型存储器和特种芯片研究；开展高性能特种传感器芯片研究",
           "url": "https://wallstreetcn.com/livenews/3020928",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -158,7 +159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
