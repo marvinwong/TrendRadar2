@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T22:28:03.388463+08:00",
-  "total_titles_processed": 1794,
+  "generated_at": "2025-12-15T23:26:44.237200+08:00",
+  "total_titles_processed": 1896,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时28分]"
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时26分]"
         },
         {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
@@ -71,6 +72,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 13时27分]"
+        },
+        {
+          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
+          "url": "https://www.cls.cn/detail/2229723",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时26分]"
         },
         {
           "title": "短剧女演员都快美成AI了",
@@ -96,17 +108,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
-          "url": "https://www.cls.cn/detail/2229723",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "花旗：将标普500指数2026年目标定为7700点，预计AI仍将是关键主题。预计，在牛市情景下，标普500指数可能升至8300点，而在熊市情景下则可能跌至5700点。",
@@ -172,7 +173,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
