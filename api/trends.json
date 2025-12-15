@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T20:51:02.713194+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-12-15T21:42:46.049945+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时42分]"
         },
         {
           "title": "短剧女演员都快美成AI了",
@@ -162,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "花旗：将标普500指数2026年目标定为7700点，预计AI仍将是关键主题。预计，在牛市情景下，标普500指数可能升至8300点，而在熊市情景下则可能跌至5700点。",
+          "url": "https://wallstreetcn.com/livenews/3021002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
