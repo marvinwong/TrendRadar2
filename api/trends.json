@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:42:15.429810+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-12-15T13:27:50.682365+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时27分]"
         },
         {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时27分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
