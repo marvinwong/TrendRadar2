@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T07:22:03.519931+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2025-12-16T09:47:30.397925+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 07时22分]"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 09时47分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -42,18 +55,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 07时22分]"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -131,6 +132,28 @@
           "time_info": "[00时45分 ~ 01时26分]"
         },
         {
+          "title": "哪里有AI，哪里就有资金，谁在担心泡沫？",
+          "url": "https://www.cls.cn/detail/2230174",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "你信任的装修博主可能是AI夫妻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%A3%85%E4%BF%AE%E5%8D%9A%E4%B8%BB%E5%8F%AF%E8%83%BD%E6%98%AFAI%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "摩根大通：甲骨文激进AI投入引发债市担忧",
           "url": "https://flash.jin10.com/detail/20251216004022333800",
           "source": "金十数据",
@@ -189,8 +212,19 @@
     },
     {
       "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "古籍圈内容错误再引关注：中华书局再度致歉并下架相关图书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32181765",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
         {
           "title": "一万本金庸小说传送到古代，只比对应时代晚一个世纪，比如天龙八部放到南宋，射雕英雄传放到元末，会怎样？",
           "url": "https://www.zhihu.com/question/1983613449964631636",
