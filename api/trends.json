@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:28:52.856057+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2025-12-16T18:28:21.607654+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -35,21 +35,6 @@
           "time_info": "[00时45分 ~ 07时22分]"
         },
         {
-          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
-          "url": "https://www.zhihu.com/question/1982854147905691963",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 17时28分]"
-        },
-        {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
           "url": "https://wallstreetcn.com/articles/3761466",
           "source": "华尔街见闻",
@@ -59,8 +44,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 18时28分]"
+        },
+        {
+          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
+          "url": "https://www.zhihu.com/question/1982854147905691963",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            6,
+            7,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 18时28分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -72,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 18时28分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -194,6 +195,17 @@
           "time_info": "[11时26分 ~ 12时37分]"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
           "source": "凤凰网",
@@ -239,15 +251,15 @@
           "time_info": "14时36分"
         },
         {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时28分"
         },
         {
           "title": "DeepSeek崩了",
@@ -256,9 +268,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "华尔街传来预警：AI繁荣将在明年“衰落”，标普500料大跌超20%！",
+          "url": "https://www.cls.cn/detail/2230952",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "意大利企业AI技术使用率翻倍",
@@ -384,8 +407,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 18时28分]"
         },
         {
           "title": "一万本金庸小说传送到古代，只比对应时代晚一个世纪，比如天龙八部放到南宋，射雕英雄传放到元末，会怎样？",
