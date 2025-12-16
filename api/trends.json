@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T09:47:30.397925+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2025-12-16T11:26:28.890704+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 09时47分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 11时26分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -132,13 +132,46 @@
           "time_info": "[00时45分 ~ 01时26分]"
         },
         {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
+          "url": "https://wallstreetcn.com/articles/3761403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
+          "url": "https://www.zhihu.com/question/1982854147905691963",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "哪里有AI，哪里就有资金，谁在担心泡沫？",
           "url": "https://www.cls.cn/detail/2230174",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -149,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -221,9 +254,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时26分]"
         },
         {
           "title": "一万本金庸小说传送到古代，只比对应时代晚一个世纪，比如天龙八部放到南宋，射雕英雄传放到元末，会怎样？",
