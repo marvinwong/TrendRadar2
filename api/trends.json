@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:25:35.358812+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-12-16T16:32:59.734309+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时32分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 16时32分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -67,11 +67,12 @@
           "ranks": [
             10,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 16时32分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -360,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 16时32分]"
         },
         {
           "title": "一万本金庸小说传送到古代，只比对应时代晚一个世纪，比如天龙八部放到南宋，射雕英雄传放到元末，会怎样？",
