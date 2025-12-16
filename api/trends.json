@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-16T22:26:42.966707+08:00",
-  "total_titles_processed": 2082,
+  "generated_at": "2025-12-16T23:27:08.999364+08:00",
+  "total_titles_processed": 2176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 39,
       "titles": [
+        {
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[13时24分 ~ 23时27分]"
+        },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
           "url": "https://www.cls.cn/detail/2230375",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[06时22分 ~ 15时25分]"
-        },
-        {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时24分 ~ 22时26分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -57,11 +58,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时26分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[11时26分 ~ 23时27分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -87,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时26分]"
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -146,6 +148,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时28分 ~ 22时26分]"
+        },
+        {
+          "title": "成都35所中小学试点AI批改作业",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时39分 ~ 23时27分]"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -209,18 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "成都35所中小学试点AI批改作业",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时26分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：就业市场近期出现周期动态，而非受到人工智能（AI）的冲击。 的确认为美国处于所谓的K型经济。",
@@ -319,7 +322,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
