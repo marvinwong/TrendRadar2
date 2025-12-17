@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T14:36:29.512638+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2025-12-17T15:24:40.365186+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -39,11 +39,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 15时24分]"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -92,6 +93,18 @@
           "time_info": "[02时35分 ~ 04时26分]"
         },
         {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时24分]"
+        },
+        {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
           "url": "https://wallstreetcn.com/livenews/3021924",
           "source": "华尔街见闻-快讯",
@@ -113,18 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时25分]"
-        },
-        {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时36分]"
         },
         {
           "title": "虞书欣ThaiMu",
@@ -220,6 +221,17 @@
           "time_info": "[11时21分 ~ 11时22分]"
         },
         {
+          "title": "百度升级发布文心健康管家 推原子计划开放AI能力",
+          "url": "https://wallstreetcn.com/livenews/3022229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
           "url": "https://flash.jin10.com/detail/20251217000241230800",
           "source": "金十数据",
@@ -281,7 +293,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -292,7 +304,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
