@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T07:21:58.989653+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2025-12-17T09:43:17.082702+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 09时43分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -161,6 +161,17 @@
           "time_info": "[00时32分 ~ 01时25分]"
         },
         {
+          "title": "小米新模型媲美DeepSeekV3.2",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AA%B2%E7%BE%8EDeepSeekV3.2%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
           "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
           "url": "https://flash.jin10.com/detail/20251217000241230800",
           "source": "金十数据",
@@ -217,7 +228,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
