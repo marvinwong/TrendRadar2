@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T20:49:02.098641+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2025-12-17T21:35:39.716115+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -155,6 +155,18 @@
           "time_info": "[00时31分 ~ 01时25分]"
         },
         {
+          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
+          "url": "https://www.zhihu.com/question/1970631480595190298",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 21时35分]"
+        },
+        {
           "title": "虞书欣ThaiMu",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -177,17 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
-          "url": "https://www.zhihu.com/question/1970631480595190298",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "成都35所中小学试点AI批改作业",
@@ -342,9 +343,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "何小鹏：当前没有AI泡沫，未来AI的市场有着巨大机遇",
