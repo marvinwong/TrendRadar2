@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T17:30:07.154837+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2025-12-17T18:26:43.258945+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时31分 ~ 12时35分]"
+        },
+        {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 18时26分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -45,20 +60,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时21分 ~ 15时24分]"
-        },
-        {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时30分]"
         },
         {
           "title": "我会努力跑在AI的前面",
@@ -105,17 +106,6 @@
           "time_info": "02时35分"
         },
         {
-          "title": "美股盘前，亚马逊涨超1%，报道称公司正洽谈投资OpenAI超100亿美元，并提供自研芯片；美光科技涨超2%，公司将于今日盘后发布最新季度财报；奈飞涨超1%，华纳兄弟据称本周将拒绝派拉蒙收购要约。",
-          "url": "https://wallstreetcn.com/livenews/3022308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
-        },
-        {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
           "url": "https://wallstreetcn.com/livenews/3021857",
           "source": "华尔街见闻-快讯",
@@ -139,6 +129,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "美股盘前，亚马逊涨超1%，报道称公司正洽谈投资OpenAI超100亿美元，并提供自研芯片；美光科技涨超2%，公司将于今日盘后发布最新季度财报；奈飞涨超1%，华纳兄弟据称本周将拒绝派拉蒙收购要约。",
+          "url": "https://wallstreetcn.com/livenews/3022308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时26分]"
         },
         {
           "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
