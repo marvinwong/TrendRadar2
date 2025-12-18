@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T04:23:05.541486+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-12-19T05:23:36.978211+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -41,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
@@ -64,11 +64,12 @@
             9,
             10,
             17,
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -119,6 +120,30 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3023316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时23分]"
+        },
+        {
+          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
+          "url": "https://wallstreetcn.com/livenews/3023315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时23分]"
+        },
+        {
           "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
           "url": "https://wallstreetcn.com/livenews/3023277",
           "source": "华尔街见闻-快讯",
@@ -161,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -183,29 +208,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3023316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
-          "url": "https://wallstreetcn.com/livenews/3023315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -227,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -238,7 +241,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -249,7 +252,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -260,7 +263,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
