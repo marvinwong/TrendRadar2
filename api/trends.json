@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:38:03.386574+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2025-12-18T22:25:12.950765+08:00",
+  "total_titles_processed": 2047,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时21分 ~ 21时38分]"
+          "appearance_count": 22,
+          "time_info": "[06时21分 ~ 22时25分]"
         },
         {
           "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时35分 ~ 21时38分]"
+          "appearance_count": 14,
+          "time_info": "[14时35分 ~ 22时25分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -129,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 22时25分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时25分]"
         },
         {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
@@ -217,17 +228,6 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时46分]"
-        },
-        {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
@@ -237,6 +237,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 12时36分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 22时25分]"
         },
         {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
@@ -322,17 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时21分]"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
