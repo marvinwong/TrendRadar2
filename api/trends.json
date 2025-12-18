@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:25:42.127188+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-12-18T19:21:33.497707+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时21分 ~ 18时25分]"
+          "appearance_count": 17,
+          "time_info": "[06时21分 ~ 19时21分]"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            6,
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时24分 ~ 19时21分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -34,20 +51,17 @@
           "time_info": "[09时43分 ~ 16时32分]"
         },
         {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10,
-            7,
+            8,
             6,
-            3,
             5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时24分 ~ 18时25分]"
+          "time_info": "[14时35分 ~ 19时21分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -63,6 +77,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 13时24分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时21分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -91,32 +120,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时35分 ~ 17时29分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 18时25分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -214,6 +217,17 @@
           "time_info": "[11时22分 ~ 12时36分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
+        },
+        {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
@@ -261,17 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 18时25分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -349,7 +352,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -481,7 +484,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -492,7 +495,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
