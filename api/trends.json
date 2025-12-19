@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T14:34:39.914302+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2025-12-19T15:24:06.164205+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -173,6 +173,17 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3023316",
           "source": "华尔街见闻-快讯",
@@ -183,6 +194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时23分]"
+        },
+        {
+          "title": "蚂蚁阿福下载量猛增引爆市场 AI医疗领域有望迎需求爆发",
+          "url": "https://www.cls.cn/detail/2234132",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
