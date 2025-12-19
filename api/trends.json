@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T19:20:59.986031+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2025-12-19T20:44:20.071663+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,18 @@
           "time_info": "[00时32分 ~ 09时46分]"
         },
         {
+          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
+          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 20时44分]"
+        },
+        {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
@@ -75,18 +87,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时32分 ~ 07时21分]"
-        },
-        {
-          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
-          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 19时20分]"
         },
         {
           "title": "谢兴阳用AI复原了刘维妈妈",
