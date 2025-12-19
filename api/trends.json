@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:44:20.071663+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2025-12-19T21:34:57.900396+08:00",
+  "total_titles_processed": 2072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -31,6 +31,19 @@
           "time_info": "[00时32分 ~ 09时46分]"
         },
         {
+          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
+          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时34分]"
+        },
+        {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
           "url": "https://www.zhihu.com/question/1984925319061267264",
           "source": "知乎",
@@ -46,18 +59,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 09时46分]"
-        },
-        {
-          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
-          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 20时44分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -527,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
