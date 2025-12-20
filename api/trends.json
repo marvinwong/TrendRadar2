@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T14:33:30.888967+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2025-12-20T15:20:14.713572+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时21分 ~ 14时33分]"
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 15时20分]"
         },
         {
           "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
@@ -61,30 +61,6 @@
           "time_info": "[00时29分 ~ 11时16分]"
         },
         {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
-          "url": "https://flash.jin10.com/detail/20251220123029184800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
-          "url": "https://flash.jin10.com/detail/20251220122308239800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
           "url": "https://www.zhihu.com/question/1984644910364774911",
           "source": "知乎",
@@ -96,6 +72,58 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时21分 ~ 12时28分]"
+        },
+        {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
+          "url": "https://flash.jin10.com/detail/20251220123029184800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时20分]"
+        },
+        {
+          "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
+          "url": "https://flash.jin10.com/detail/20251220122308239800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时20分]"
+        },
+        {
+          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
+          "url": "https://wallstreetcn.com/livenews/3024247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "“四巫日”成交量创纪录，AI股助纳指收高，日元单日贬值超220点，白银新高破67",
@@ -121,30 +149,17 @@
           "time_info": "[09时40分 ~ 13时22分]"
         },
         {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 14时33分]"
-        },
-        {
           "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
           "url": "https://wallstreetcn.com/livenews/3024240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时20分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -157,6 +172,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时41分]"
+        },
+        {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 15时20分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -172,6 +199,19 @@
           "time_info": "[09时41分 ~ 12时28分]"
         },
         {
+          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
+          "url": "https://wallstreetcn.com/livenews/3024236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时20分]"
+        },
+        {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
           "url": "https://wallstreetcn.com/livenews/3024138",
           "source": "华尔街见闻-快讯",
@@ -182,29 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
-        },
-        {
-          "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
-          "url": "https://wallstreetcn.com/livenews/3024236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
