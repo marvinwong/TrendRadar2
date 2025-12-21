@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:22:18.671587+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-12-21T19:18:45.002582+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 19时18分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -129,11 +129,12 @@
             5,
             20,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 19时18分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -188,11 +189,12 @@
             18,
             19,
             29,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时28分 ~ 18时22分]"
+          "appearance_count": 18,
+          "time_info": "[02时28分 ~ 19时18分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
@@ -213,8 +215,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 19时18分]"
+        },
+        {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 19时18分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -226,19 +240,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 18时22分]"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时32分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 19时18分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -311,6 +314,17 @@
           "time_info": "[16时28分 ~ 18时22分]"
         },
         {
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时18分]"
+        },
+        {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
           "url": "https://wallstreetcn.com/articles/3761760",
           "source": "华尔街见闻",
@@ -332,17 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
@@ -379,11 +382,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时18分 ~ 18时22分]"
+          "appearance_count": 21,
+          "time_info": "[01时18分 ~ 19时18分]"
         }
       ]
     }
