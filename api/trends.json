@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T16:28:53.008316+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-12-21T17:22:36.669087+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -81,11 +81,12 @@
           "ranks": [
             2,
             5,
-            20
+            20,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 17时22分]"
         },
         {
           "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
@@ -99,8 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时22分]"
         },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -115,8 +116,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时22分]"
+        },
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时22分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -143,8 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 17时22分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -174,23 +190,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时28分 ~ 16时28分]"
-        },
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时28分]"
+          "appearance_count": 16,
+          "time_info": "[02时28分 ~ 17时22分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -200,8 +201,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时22分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
@@ -211,8 +212,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时22分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -224,8 +225,30 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 17时22分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时40分 ~ 16时28分]"
+          "time_info": "[14时32分 ~ 17时22分]"
+        },
+        {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 17时22分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -237,28 +260,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 04时22分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时28分]"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -320,6 +321,18 @@
           "time_info": "[12时38分 ~ 12时39分]"
         },
         {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时22分]"
+        },
+        {
           "title": "国家一级演奏员赏析AI歌曲",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%A5%8F%E5%91%98%E8%B5%8F%E6%9E%90AI%E6%AD%8C%E6%9B%B2",
           "source": "bilibili 热搜",
@@ -331,15 +344,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
           "source": "抖音",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "17时22分"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -367,8 +380,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时18分 ~ 16时28分]"
+          "appearance_count": 19,
+          "time_info": "[01时18分 ~ 17时22分]"
         }
       ]
     }
