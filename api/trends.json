@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T20:41:33.634549+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-12-21T21:29:51.229484+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[11时40分 ~ 21时29分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -131,11 +131,25 @@
             11,
             16,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 21时29分]"
+        },
+        {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 21时29分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -216,21 +230,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时52分 ~ 20时41分]"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 21时29分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -242,8 +243,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 21时29分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -255,6 +256,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时32分 ~ 17时22分]"
+        },
+        {
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时29分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -279,17 +291,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时28分 ~ 20时41分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时41分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -357,9 +358,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时29分]"
+        },
+        {
+          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
+          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时29分]"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
@@ -373,15 +385,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
-          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
           "source": "知乎",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "21时29分"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -409,11 +421,12 @@
             1,
             4,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时18分 ~ 20时41分]"
+          "appearance_count": 23,
+          "time_info": "[01时18分 ~ 21时29分]"
         }
       ]
     }
