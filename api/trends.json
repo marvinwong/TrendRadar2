@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T15:25:59.892721+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2025-12-23T16:32:29.670993+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时20分 ~ 15时25分]"
+          "appearance_count": 17,
+          "time_info": "[01时20分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -58,11 +58,12 @@
             13,
             20,
             25,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 15时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 16时32分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -77,6 +78,39 @@
           "time_info": "[00时28分 ~ 11时28分]"
         },
         {
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 16时32分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 16时32分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 16时32分]"
+        },
+        {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
           "url": "https://www.zhihu.com/question/1986466538639811812",
           "source": "知乎",
@@ -89,39 +123,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 06时23分]"
-        },
-        {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 15时25分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 15时25分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "曝英伟达计划春节前对华交付AI芯片",
@@ -326,8 +327,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时33分 ~ 15时25分]"
+          "appearance_count": 16,
+          "time_info": "[02时33分 ~ 16时32分]"
         },
         {
           "title": "拍卖翁氏藏书牟利？上海图书馆紧急发声",
@@ -337,8 +338,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 16时32分]"
         },
         {
           "title": "写小说的时候总是代入自己的情绪而不是小说人物的情绪怎么解决？",
