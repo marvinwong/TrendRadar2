@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T16:32:29.670993+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2025-12-23T17:27:33.891702+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时20分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[01时20分 ~ 17时27分]"
         },
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -59,11 +59,12 @@
             20,
             25,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 16时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 17时27分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -85,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时27分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -96,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时27分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -107,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 17时27分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -265,6 +266,17 @@
           "time_info": "[13时25分 ~ 14时37分]"
         },
         {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 17时27分]"
+        },
+        {
           "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
           "url": "https://flash.jin10.com/detail/20251223044006238800",
           "source": "金十数据",
@@ -274,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
@@ -327,8 +328,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时33分 ~ 16时32分]"
+          "appearance_count": 17,
+          "time_info": "[02时33分 ~ 17时27分]"
         },
         {
           "title": "拍卖翁氏藏书牟利？上海图书馆紧急发声",
