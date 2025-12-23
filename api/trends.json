@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T12:39:09.053627+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2025-12-23T13:25:57.188083+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[01时20分 ~ 13时25分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -42,11 +42,12 @@
             9,
             7,
             13,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 13时25分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -70,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -99,6 +100,50 @@
           "time_info": "[12时38分 ~ 12时39分]"
         },
         {
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时25分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时25分]"
+        },
+        {
+          "title": "用AI造谣中国女篮两男子被刑拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时25分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时25分]"
+        },
+        {
           "title": "利用AI造谣中国女篮两男子刑拘",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E5%88%91%E6%8B%98%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -108,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "美国企业今年发行了价值1.7万亿美元的投资级债券，这一数字接近历史最高水平。此次发债潮主要是为了筹集资金用于AI基础设施建设，但也引发了人们对债务过剩的担忧。",
+          "url": "https://flash.jin10.com/detail/20251223130540405800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "字节跳动豪掷千亿加码AI布局 预留850亿狂囤芯片",
@@ -121,50 +177,6 @@
           "time_info": "09时47分"
         },
         {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时39分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时39分]"
-        },
-        {
-          "title": "用AI造谣中国女篮两男子被刑拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时39分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时39分]"
-        },
-        {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
           "url": "https://www.cls.cn/detail/2236998",
           "source": "财联社热门",
@@ -173,8 +185,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时25分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -225,6 +237,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "千问发布 2025 十大 AI 提示词，股票意外排名第一，普通人如何用 AI 做好投资？",
+          "url": "https://www.zhihu.com/question/1986558985109792573",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
           "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
           "source": "澎湃新闻",
@@ -272,11 +295,12 @@
             14,
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时33分 ~ 12时39分]"
+          "appearance_count": 13,
+          "time_info": "[02时33分 ~ 13时25分]"
         },
         {
           "title": "拍卖翁氏藏书牟利？上海图书馆紧急发声",
@@ -286,8 +310,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时25分]"
         },
         {
           "title": "写小说的时候总是代入自己的情绪而不是小说人物的情绪怎么解决？",
@@ -297,8 +321,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 13时25分]"
         }
       ]
     }
