@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T01:22:35.405108+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-24T02:34:02.818131+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时34分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -26,20 +27,21 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 02时34分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 02时34分]"
         }
       ]
     }
