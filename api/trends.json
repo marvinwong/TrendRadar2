@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T21:37:42.648961+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2025-12-23T22:23:05.593296+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 21时37分]"
+          "appearance_count": 16,
+          "time_info": "[09时47分 ~ 22时23分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 21时37分]"
+          "appearance_count": 16,
+          "time_info": "[09时47分 ~ 22时23分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 21时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 22时23分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -107,11 +107,12 @@
             14,
             18,
             15,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 21时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 22时23分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
