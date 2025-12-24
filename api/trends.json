@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:26:07.737168+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2025-12-24T14:36:47.341837+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -76,11 +76,12 @@
           "url": "https://www.zhihu.com/question/1986826913436680279",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时36分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
@@ -92,6 +93,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
+          "url": "https://flash.jin10.com/detail/20251224133230351800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
