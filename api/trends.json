@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:37:35.546068+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-12-24T13:26:07.737168+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -70,6 +70,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 02时34分]"
+        },
+        {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
