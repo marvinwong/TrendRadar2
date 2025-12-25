@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-25T11:29:01.505425+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-12-25T12:39:33.846791+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 14,
       "titles": [
+        {
+          "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 12时39分]"
+        },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时47分]"
-        },
-        {
-          "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
