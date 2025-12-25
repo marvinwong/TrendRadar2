@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T01:19:59.034114+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-12-26T02:32:07.809810+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -38,8 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时32分]"
         }
       ]
     }
