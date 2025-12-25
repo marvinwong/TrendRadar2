@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T17:25:33.741439+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-12-25T18:24:28.902627+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 18时24分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -79,6 +79,19 @@
           "time_info": "[04时24分 ~ 06时22分]"
         },
         {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
+        },
+        {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
           "url": "https://flash.jin10.com/detail/20251225053135051800",
           "source": "金十数据",
@@ -89,18 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时25分]"
         },
         {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
