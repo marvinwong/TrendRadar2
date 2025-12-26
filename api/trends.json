@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T21:34:20.098127+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2025-12-26T22:22:07.322273+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
@@ -94,6 +94,17 @@
           "time_info": "[00时29分 ~ 17时25分]"
         },
         {
+          "title": "谷歌将允许用户更改Gmail邮箱地址",
+          "url": "https://flash.jin10.com/detail/20251226220031392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
           "url": "https://www.cls.cn/detail/2239926",
           "source": "财联社热门",
@@ -157,6 +168,19 @@
           "time_info": "[16时31分 ~ 17时25分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时22分]"
+        },
+        {
           "title": "UP主用AI挑战肉鸽游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -170,16 +194,15 @@
           "time_info": "[16时31分 ~ 18时24分]"
         },
         {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时34分]"
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "博士与AI联手造出千度阻燃新型材料",
