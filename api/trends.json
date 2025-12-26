@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:36:33.447473+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-12-26T13:24:21.762755+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 13时24分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 13时24分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -39,23 +52,12 @@
             13,
             14,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时36分]"
-        },
-        {
-          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
-          "url": "https://www.cls.cn/detail/2240453",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 12时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 13时24分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -67,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 12时36分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 13时24分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -76,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时24分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -88,11 +91,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时24分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -101,9 +105,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
