@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:24:21.762755+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-12-26T14:35:23.089340+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时35分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -53,11 +53,12 @@
             14,
             17,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -69,8 +70,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时35分]"
+        },
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时35分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -86,19 +100,6 @@
           "time_info": "[11时27分 ~ 13时24分]"
         },
         {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时24分]"
-        },
-        {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
           "url": "https://www.zhihu.com/question/1987780060753719586",
           "source": "知乎",
@@ -106,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时35分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
