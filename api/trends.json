@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:44:22.538334+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-12-26T21:34:20.098127+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -170,6 +170,18 @@
           "time_info": "[16时31分 ~ 18时24分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时34分]"
+        },
+        {
           "title": "博士与AI联手造出千度阻燃新型材料",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E5%A3%AB%E4%B8%8EAI%E8%81%94%E6%89%8B%E9%80%A0%E5%87%BA%E5%8D%83%E5%BA%A6%E9%98%BB%E7%87%83%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99",
           "source": "bilibili 热搜",
@@ -190,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
