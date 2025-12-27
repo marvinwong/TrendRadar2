@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T21:29:56.927236+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2025-12-27T22:20:21.073501+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
             15,
             7,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 22时20分]"
         },
         {
           "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
@@ -99,6 +100,20 @@
           "time_info": "[02时32分 ~ 11时25分]"
         },
         {
+          "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
+          "url": "https://wallstreetcn.com/livenews/3027558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
           "title": "科研创新 idea 要不要告诉 AI?",
           "url": "https://www.zhihu.com/question/1914008682825520046",
           "source": "知乎",
@@ -111,19 +126,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 07时21分]"
-        },
-        {
-          "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
-          "url": "https://wallstreetcn.com/livenews/3027558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时29分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
