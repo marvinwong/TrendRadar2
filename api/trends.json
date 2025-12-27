@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:22:44.668201+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-27T18:22:28.562873+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -32,11 +32,12 @@
             23,
             13,
             9,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -114,11 +115,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "华为悬赏300万元求解AI难题",
