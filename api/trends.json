@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:19:07.834139+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-12-28T20:43:01.304874+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 20时43分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -47,6 +47,33 @@
           "time_info": "[09时57分 ~ 13时26分]"
         },
         {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
+          "url": "https://wallstreetcn.com/livenews/3027613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            8,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 20时43分]"
+        },
+        {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
           "url": "https://wallstreetcn.com/articles/3762183",
           "source": "华尔街见闻",
@@ -61,20 +88,6 @@
           "time_info": "[07时20分 ~ 14时34分]"
         },
         {
-          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
-          "url": "https://wallstreetcn.com/livenews/3027613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时19分]"
-        },
-        {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
           "url": "https://flash.jin10.com/detail/20251228101016182800",
           "source": "金十数据",
@@ -86,17 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 13时26分]"
-        },
-        {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
