@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T14:34:30.488279+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2025-12-28T15:21:52.009399+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 15时21分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
