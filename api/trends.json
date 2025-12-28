@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:26:21.599605+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2025-12-28T14:34:30.488279+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 14时34分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时34分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -59,17 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 13时26分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时26分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
