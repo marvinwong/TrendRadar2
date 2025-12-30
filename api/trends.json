@@ -1,28 +1,12 @@
 {
-  "generated_at": "2025-12-30T19:21:16.883960+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-12-30T20:47:31.043167+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 27,
       "titles": [
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            12,
-            11,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时31分 ~ 19时21分]"
-        },
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
@@ -34,8 +18,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 20时47分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            12,
+            11,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 20时47分]"
         },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -93,6 +94,21 @@
           "time_info": "[00时28分 ~ 11时31分]"
         },
         {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 20时47分]"
+        },
+        {
           "title": "2025最全AI成果盘点",
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
@@ -124,31 +140,17 @@
           "time_info": "[01时20分 ~ 11时31分]"
         },
         {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 19时21分]"
-        },
-        {
           "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
           "url": "https://www.cls.cn/detail/2244074",
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时47分]"
         },
         {
           "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
@@ -219,6 +221,18 @@
           "time_info": "[18时26分 ~ 19时21分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时47分]"
+        },
+        {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
@@ -254,18 +268,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 09时48分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时21分]"
         },
         {
           "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
