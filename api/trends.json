@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-01-01T02:32:52.991719+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-01T03:18:27.537535+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 5,
       "titles": [
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
+        },
+        {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
+        },
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
           "url": "https://flash.jin10.com/detail/20260101000228879800",
@@ -18,39 +51,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
