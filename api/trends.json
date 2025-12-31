@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:20:53.784684+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2025-12-31T20:45:59.978810+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -68,19 +68,6 @@
           "time_info": "[00时29分 ~ 15时25分]"
         },
         {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
           "source": "澎湃新闻",
@@ -94,8 +81,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 20时45分]"
+        },
+        {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时20分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -163,6 +163,19 @@
           "time_info": "[11时28分 ~ 13时28分]"
         },
         {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时45分]"
+        },
+        {
           "title": "阿里千问Qwen Code更新至v0.5.0版本，推出VSCode插件，发布TypeScript SDK",
           "url": "https://wallstreetcn.com/livenews/3028853",
           "source": "华尔街见闻-快讯",
@@ -189,17 +202,17 @@
           "time_info": "[02时34分 ~ 04时26分]"
         },
         {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
           "source": "财联社热门",
           "ranks": [
+            13,
             11,
-            9,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时20分]"
+          "time_info": "[18时24分 ~ 20时45分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -225,18 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 16时32分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
