@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:21:07.423384+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-02T06:22:43.183967+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -60,11 +60,12 @@
             20,
             17,
             15,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -75,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -86,11 +87,12 @@
             8,
             12,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -100,11 +102,12 @@
             11,
             15,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
