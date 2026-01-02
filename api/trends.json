@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:23:58.808760+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-01-02T19:20:24.631390+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 19时20分]"
         },
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 19时20分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 18时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -82,11 +82,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -98,11 +99,12 @@
             11,
             22,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 18时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -111,11 +113,12 @@
           "ranks": [
             11,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 18时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -185,6 +188,18 @@
           "time_info": "16时32分"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 19时20分]"
+        },
+        {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
@@ -199,18 +214,6 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时23分]"
-        },
-        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -223,6 +226,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时20分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -249,18 +264,6 @@
           "time_info": "[09时49分 ~ 11时42分]"
         },
         {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时23分]"
-        },
-        {
           "title": "谷歌AI的逆风翻盘史",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
           "source": "bilibili 热搜",
@@ -270,6 +273,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苏州图书馆回应骄阳似我",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%9B%9E%E5%BA%94%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     }
