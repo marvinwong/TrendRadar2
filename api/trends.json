@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T17:26:59.595320+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-01-02T18:23:58.808760+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -20,20 +20,6 @@
           "time_info": "[00时29分 ~ 16时32分]"
         },
         {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时26分]"
-        },
-        {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
           "url": "https://www.zhihu.com/question/1990084005744362243",
           "source": "知乎",
@@ -48,6 +34,21 @@
           "time_info": "[11时41分 ~ 17时26分]"
         },
         {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时23分]"
+        },
+        {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
           "url": "https://wallstreetcn.com/articles/3762433",
           "source": "华尔街见闻",
@@ -58,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 18时23分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -71,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 17时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -84,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 18时23分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -100,8 +101,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 17时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -113,8 +114,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时29分 ~ 17时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 18时23分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -198,6 +199,18 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时23分]"
+        },
+        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -224,18 +237,6 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时26分]"
-        },
-        {
           "title": "终于懂老人分不清ai的无力感了",
           "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%87%82%E8%80%81%E4%BA%BA%E5%88%86%E4%B8%8D%E6%B8%85ai%E7%9A%84%E6%97%A0%E5%8A%9B%E6%84%9F%E4%BA%86&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -248,6 +249,18 @@
           "time_info": "[09时49分 ~ 11时42分]"
         },
         {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时23分]"
+        },
+        {
           "title": "谷歌AI的逆风翻盘史",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
           "source": "bilibili 热搜",
@@ -257,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         }
       ]
     }
