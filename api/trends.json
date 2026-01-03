@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T17:22:50.954893+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-03T18:22:53.381303+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -74,11 +74,12 @@
             24,
             8,
             12,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 18时22分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -99,11 +100,12 @@
             24,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 18时22分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -199,6 +201,19 @@
           "time_info": "00时28分"
         },
         {
+          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
+          "url": "https://wallstreetcn.com/articles/3762468",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 18时22分]"
+        },
+        {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
           "url": "https://wallstreetcn.com/livenews/3029913",
           "source": "华尔街见闻-快讯",
@@ -227,19 +242,6 @@
           "time_info": "[00时28分 ~ 03时15分]"
         },
         {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 17时22分]"
-        },
-        {
           "title": "市场消息：委内瑞拉北部重要港口La Guaira冒起浓烟。",
           "url": "https://flash.jin10.com/detail/20260103145744108800",
           "source": "金十数据",
@@ -250,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 16时29分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
@@ -265,16 +279,32 @@
           "time_info": "[00时28分 ~ 02时33分]"
         },
         {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价美国恐怖小说家史蒂芬·金？",
+          "url": "https://www.zhihu.com/question/66580798",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
