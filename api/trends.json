@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:21:15.901924+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-01-03T23:21:34.084587+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[14时33分 ~ 23时21分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -75,6 +75,19 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时28分 ~ 15时21分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            11,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -142,17 +155,17 @@
           "time_info": "[07时21分 ~ 17时22分]"
         },
         {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5,
-            2
+            9,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 23时21分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -175,19 +188,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时29分 ~ 22时21分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -309,8 +309,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时21分]"
         }
       ]
     }
