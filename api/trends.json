@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T04:25:28.091348+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-05T05:21:00.834155+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 05时21分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 05时21分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 05时21分]"
         }
       ]
     },
@@ -55,11 +55,12 @@
           "ranks": [
             19,
             14,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 05时21分]"
         }
       ]
     }
