@@ -1,231 +1,33 @@
 {
-  "generated_at": "2026-01-04T23:21:23.628823+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-01-05T00:27:13.123540+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时59分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 15时23分]"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            5,
-            8,
-            10,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时56分 ~ 23时21分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时59分]"
-        },
-        {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            15,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时20分]"
-        },
-        {
-          "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3030130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "AI如何让闪迪成为股王",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 18时22分]"
-        },
-        {
-          "title": "有网友称收到苹果AI国行版升级通知，官方回应",
-          "url": "https://flash.jin10.com/detail/20260104162200603800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时19分]"
-        },
-        {
-          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
-          "url": "https://wallstreetcn.com/articles/3762476",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 11时57分]"
-        },
-        {
-          "title": "国行版AI上线了？苹果回应",
-          "url": "https://wallstreetcn.com/livenews/3030272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时19分]"
-        },
-        {
-          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
-          "url": "https://www.zhihu.com/question/1990117220391622363",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时34分]"
-        },
-        {
-          "title": "Gemini向小胖道歉",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E5%90%91%E5%B0%8F%E8%83%96%E9%81%93%E6%AD%89&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
-          "url": "https://wallstreetcn.com/livenews/3030130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "iPhone国行版AI疑似灰度测试",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%9B%BD%E8%A1%8C%E7%89%88AI%E7%96%91%E4%BC%BC%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
         {
           "title": "年度抽象AI作品Top10",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
           "source": "bilibili 热搜",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "几毛钱学的AI魔改1条能赚上千",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%87%A0%E6%AF%9B%E9%92%B1%E5%AD%A6%E7%9A%84AI%E9%AD%94%E6%94%B91%E6%9D%A1%E8%83%BD%E8%B5%9A%E4%B8%8A%E5%8D%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "邓紫棋所著科幻小说入围银河奖",
-          "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%89%80%E8%91%97%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E5%85%A5%E5%9B%B4%E9%93%B6%E6%B2%B3%E5%A5%96",
-          "source": "百度热搜",
-          "ranks": [
-            27
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "腾讯回应用户被元宝AI辱骂",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时27分]"
         }
       ]
     }
