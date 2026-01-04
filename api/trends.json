@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:43:32.134956+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-01-04T21:32:06.103335+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -90,6 +90,19 @@
           "time_info": "[09时58分 ~ 18时22分]"
         },
         {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时32分]"
+        },
+        {
           "title": "有网友称收到苹果AI国行版升级通知，官方回应",
           "url": "https://flash.jin10.com/detail/20260104162200603800",
           "source": "金十数据",
@@ -126,18 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时21分 ~ 19时19分]"
-        },
-        {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时43分]"
         },
         {
           "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
