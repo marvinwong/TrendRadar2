@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-04T15:23:05.924802+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-01-04T16:29:55.776842+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 11,
       "titles": [
+        {
+          "title": "央视点名AI魔改乱象",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 16时29分]"
+        },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
           "url": "https://wallstreetcn.com/articles/3762468",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时59分]"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 15时23分]"
         },
         {
           "title": "美食博主手搓对抗AI的一年",
@@ -85,6 +86,18 @@
           "time_info": "[09时58分 ~ 11时57分]"
         },
         {
+          "title": "AI如何让闪迪成为股王",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 16时29分]"
+        },
+        {
           "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
           "url": "https://www.zhihu.com/question/1990117220391622363",
           "source": "知乎",
@@ -118,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "AI如何让闪迪成为股王",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "几毛钱学的AI魔改1条能赚上千",
