@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T00:30:17.022914+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2026-01-06T01:25:03.153639+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时25分]"
+        },
+        {
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "time_info": "[01时24分 ~ 01时25分]"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -25,7 +36,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         }
