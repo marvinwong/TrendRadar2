@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:21:15.730332+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-01-06T20:48:34.773707+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时22分 ~ 16时34分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 20时48分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -67,21 +83,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[02时35分 ~ 15时27分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 19时21分]"
         },
         {
           "title": "AirPods Pro3马年特别款开箱",
