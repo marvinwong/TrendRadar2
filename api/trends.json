@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-07T02:34:53.911890+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-07T03:19:07.117936+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时19分]"
+        },
         {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
           "url": "https://flash.jin10.com/detail/20260107010109299800",
@@ -19,18 +31,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3031787",
           "source": "华尔街见闻-快讯",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
+          "url": "https://wallstreetcn.com/livenews/3031856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -104,7 +115,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         },
