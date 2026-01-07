@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T11:41:01.370987+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-01-07T12:42:33.055982+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 05时23分]"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时42分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -33,18 +45,6 @@
           "time_info": "[01时24分 ~ 07时22分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时41分]"
-        },
-        {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
           "url": "https://wallstreetcn.com/livenews/3031871",
           "source": "华尔街见闻-快讯",
@@ -54,6 +54,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
@@ -78,6 +100,19 @@
           "time_info": "07时22分"
         },
         {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时42分]"
+        },
+        {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
           "url": "https://flash.jin10.com/detail/20260107040236649800",
           "source": "金十数据",
@@ -88,19 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时23分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时41分]"
         },
         {
           "title": "XAI：完成200亿美元的E轮融资。",
@@ -139,6 +161,17 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 12时42分]"
+        },
+        {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
           "url": "https://wallstreetcn.com/livenews/3031856",
           "source": "华尔街见闻-快讯",
@@ -162,15 +195,16 @@
           "time_info": "[11时40分 ~ 11时41分]"
         },
         {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
+          "title": "谷歌与XREAL宣布达成深度长期战略合作",
+          "url": "https://wallstreetcn.com/livenews/3032063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 12时42分]"
         },
         {
           "title": "联想发布下一代AI个人电脑、旗舰级摩托罗拉智能手机、感知AI概念项链及概念智能眼镜。",
@@ -204,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "谷歌与XREAL宣布达成深度长期战略合作",
-          "url": "https://wallstreetcn.com/livenews/3032063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
