@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T21:41:44.246358+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2026-01-07T22:26:28.720592+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时42分 ~ 19时22分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 22时26分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -45,20 +59,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时22分 ~ 14时37分]"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 21时41分]"
         },
         {
           "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
@@ -101,6 +101,18 @@
           "time_info": "[12时42分 ~ 14时37分]"
         },
         {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时30分 ~ 22时26分]"
+        },
+        {
           "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
           "url": "https://www.cls.cn/detail/2250185",
           "source": "财联社热门",
@@ -126,18 +138,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 07时22分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 21时41分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -221,6 +221,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时26分]"
+        },
+        {
           "title": "荣耀高管再度回应Air手机争议",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E5%86%8D%E5%BA%A6%E5%9B%9E%E5%BA%94Air%E6%89%8B%E6%9C%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -242,17 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时41分]"
         },
         {
           "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
