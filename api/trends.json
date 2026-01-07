@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-07T13:27:46.221639+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-01-07T14:37:06.908610+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 30,
       "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 14时37分]"
+        },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
           "url": "https://wallstreetcn.com/articles/3762605",
@@ -20,16 +32,42 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
           "source": "财联社热门",
           "ranks": [
-            6,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时37分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时37分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 14时37分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -45,40 +83,17 @@
           "time_info": "[01时24分 ~ 07时22分]"
         },
         {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时27分]"
-        },
-        {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时27分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时27分]"
+          "time_info": "[11时40分 ~ 14时37分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -160,18 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时27分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
