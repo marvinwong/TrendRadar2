@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T07:22:57.819321+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-07T09:49:38.971833+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -61,9 +61,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时49分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -114,6 +126,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时49分]"
+        },
+        {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
           "url": "https://wallstreetcn.com/livenews/3031856",
           "source": "华尔街见闻-快讯",
@@ -126,26 +150,15 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "联想发布下一代AI个人电脑、旗舰级摩托罗拉智能手机、感知AI概念项链及概念智能眼镜。",
+          "url": "https://flash.jin10.com/detail/20260107090626634800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时49分"
         },
         {
           "title": "百事可乐宣布，与西门子和英伟达围绕AI与数字孪生达成协议。",
@@ -157,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "联想携手英伟达推出吉瓦级AI工厂计划，加速企业级AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3032008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
