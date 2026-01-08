@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T17:31:33.527846+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-01-08T18:27:20.751578+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -72,6 +72,20 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 18时27分]"
+        },
+        {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
           "url": "https://wallstreetcn.com/livenews/3032657",
           "source": "华尔街见闻-快讯",
@@ -118,19 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时31分]"
         },
         {
           "title": "马斯克：中国AI算力领先世界",
@@ -234,7 +235,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -248,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "英国信息专员办公室：我们已联系X平台和xAI，要求其阐明为遵守英国数据保护法及保障个人权利所采取的具体措施。",
@@ -267,7 +279,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -281,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "乐聚机器人与阿里云达成全栈AI合作",
+          "url": "https://wallstreetcn.com/livenews/3033202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "Arm控股成立“Physical AI”部门，进军机器人领域。（路透）",
