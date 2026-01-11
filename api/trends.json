@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T09:59:02.375289+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-01-11T11:56:05.141078+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -35,8 +35,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 11时56分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时56分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时56分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -88,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时56分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -142,6 +142,18 @@
           "time_info": "[02时31分 ~ 07时21分]"
         },
         {
+          "title": "全球首次！印尼暂时封禁马斯克旗下AI",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 11时56分]"
+        },
+        {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
           "source": "华尔街见闻-快讯",
@@ -154,15 +166,15 @@
           "time_info": "[07时21分 ~ 09时59分]"
         },
         {
-          "title": "全球首次！印尼暂时封禁马斯克旗下AI",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
-          "source": "百度热搜",
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -171,7 +183,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
