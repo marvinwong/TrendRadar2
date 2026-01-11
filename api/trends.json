@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:19:23.783149+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-01-11T20:43:54.054880+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,23 @@
           "time_info": "[00时26分 ~ 09时59分]"
         },
         {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 20时43分]"
+        },
+        {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
@@ -33,11 +50,12 @@
             9,
             7,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时19分 ~ 19时19分]"
+          "appearance_count": 22,
+          "time_info": "[01时19分 ~ 20时43分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -51,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 19时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 20时43分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -91,8 +109,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 19时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 20时43分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -139,22 +157,6 @@
           "time_info": "[11时55分 ~ 16时29分]"
         },
         {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时27分 ~ 19时19分]"
-        },
-        {
           "title": "AI每回答一个问题要消耗多少水",
           "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
           "source": "百度热搜",
@@ -163,11 +165,12 @@
             9,
             8,
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 20时43分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -253,11 +256,12 @@
           "url": "https://flash.jin10.com/detail/20260111185158665800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -285,6 +289,18 @@
           "time_info": "[15时22分 ~ 17时23分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时43分]"
+        },
+        {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
           "url": "https://flash.jin10.com/detail/20260111150811201800",
           "source": "金十数据",
@@ -298,18 +314,6 @@
           "time_info": "[16时29分 ~ 18时23分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时19分]"
-        },
-        {
           "title": "疑似马斯克AI账号登顶LOL韩服",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D",
           "source": "bilibili 热搜",
@@ -319,6 +323,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "如何看待《英雄联盟》韩服出现神秘玩家，疑似马斯克的 AI（Grok），两天时间 93% 胜率杀进前三？",
@@ -352,17 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "Faker有信心战胜AI",
