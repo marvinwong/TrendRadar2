@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:32:08.608950+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-01-11T22:21:19.510004+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 22时21分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时19分 ~ 21时32分]"
+          "appearance_count": 25,
+          "time_info": "[01时19分 ~ 22时21分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -68,11 +68,12 @@
             18,
             25,
             26,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 22时21分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -86,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 21时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 22时21分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -126,8 +127,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 21时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -209,6 +210,18 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 22时21分]"
+        },
+        {
           "title": "AI时代还有学画画的必要吗",
           "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
           "source": "百度热搜",
@@ -253,16 +266,17 @@
           "time_info": "[09时58分 ~ 13时27分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            17,
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
@@ -301,18 +315,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 17时23分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时32分]"
         },
         {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
