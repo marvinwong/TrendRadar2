@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T11:56:05.141078+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-01-11T12:50:38.041800+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 11时56分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 12时50分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 11时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 12时50分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 11时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 12时50分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -88,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 11时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 12时50分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -147,11 +147,24 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 12时50分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 12时50分]"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -164,17 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时59分]"
-        },
-        {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
