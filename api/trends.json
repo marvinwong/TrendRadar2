@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T19:22:33.585221+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-01-12T20:51:48.519633+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -56,11 +56,24 @@
             15,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 19时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 20时51分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 20时51分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -150,6 +163,20 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 20时51分]"
+        },
+        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -164,29 +191,45 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 20时51分]"
         },
         {
-          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
-          "url": "https://www.cls.cn/detail/2254695",
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            22,
+            25,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 20时51分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
           "source": "财联社热门",
           "ranks": [
-            7,
+            9,
             3,
-            4,
-            5
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时35分 ~ 19时22分]"
+          "time_info": "[17时34分 ~ 20时51分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -201,33 +244,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时39分 ~ 19时22分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            22,
-            25,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时39分 ~ 19时22分]"
         },
         {
           "title": "AI会取代演员吗",
@@ -245,6 +261,18 @@
           "time_info": "[12时53分 ~ 18时28分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 20时51分]"
+        },
+        {
           "title": "用户与AI聊黄开发者获刑",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -256,29 +284,17 @@
           "time_info": "[12时53分 ~ 13时32分]"
         },
         {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时22分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时51分]"
         },
         {
           "title": "摩根大通：AI需求井喷将推动基建与机器人领域并购浪潮",
@@ -306,6 +322,20 @@
           "time_info": "[04时25分 ~ 07时21分]"
         },
         {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时51分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -317,18 +347,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时55分 ~ 13时32分]"
-        },
-        {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时22分]"
         },
         {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
@@ -356,8 +374,8 @@
           "time_info": "[14时40分 ~ 15时29分]"
         },
         {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
           "source": "财联社热门",
           "ranks": [
             10,
@@ -366,19 +384,7 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时22分]"
-        },
-        {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时22分]"
+          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
@@ -403,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时35分 ~ 17时34分]"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
         },
         {
           "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
@@ -505,17 +523,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
           "url": "https://wallstreetcn.com/livenews/3034780",
           "source": "华尔街见闻-快讯",
@@ -536,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -610,7 +628,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -621,7 +639,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -632,7 +650,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
