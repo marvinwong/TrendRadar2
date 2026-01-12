@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:24:10.618678+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-13T06:21:36.296913+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "张文宏：拒绝把AI引入医院病历系统",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -86,19 +86,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -108,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -123,8 +124,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -135,11 +136,12 @@
             22,
             28,
             26,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -149,8 +151,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -168,11 +181,12 @@
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -218,8 +232,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 06时21分]"
+        },
+        {
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时24分]"
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -246,15 +272,16 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时23分 ~ 05时24分]"
+          "time_info": "[05时24分 ~ 06时21分]"
         },
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
@@ -263,7 +290,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -274,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
@@ -323,17 +350,6 @@
           "time_info": "00时29分"
         },
         {
-          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035434",
           "source": "华尔街见闻-快讯",
@@ -343,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
+          "url": "https://flash.jin10.com/detail/20260113050153642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
