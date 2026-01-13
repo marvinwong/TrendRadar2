@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:27:01.435799+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-01-13T16:33:54.692840+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时33分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -64,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时33分]"
         },
         {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
@@ -144,8 +144,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时33分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -180,8 +180,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时33分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -207,8 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时33分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -224,15 +224,18 @@
           "time_info": "[04时28分 ~ 09时47分]"
         },
         {
-          "title": "苹果联姻谷歌意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            12,
+            16,
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 16时33分]"
         },
         {
           "title": "苹果接入Gemini模型想做啥",
@@ -317,19 +320,6 @@
           "time_info": "[09时47分 ~ 14时37分]"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 15时27分]"
-        },
-        {
           "title": "AI应用方向延续强势，引力传媒7天6板，易点天下、卓易信息、迪安诊断、利欧股份、省广集团均3连板。",
           "url": "https://wallstreetcn.com/livenews/3035696",
           "source": "华尔街见闻-快讯",
@@ -363,6 +353,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 12时42分]"
+        },
+        {
+          "title": "苹果联姻谷歌意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时33分]"
+        },
+        {
+          "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
+          "url": "https://flash.jin10.com/detail/20260113161050388800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -428,6 +441,19 @@
           "time_info": "[13时27分 ~ 14时37分]"
         },
         {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 16时33分]"
+        },
+        {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
           "url": "https://flash.jin10.com/detail/20260113001151493800",
           "source": "金十数据",
@@ -440,18 +466,6 @@
           "time_info": "[00时29分 ~ 01时25分]"
         },
         {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 15时27分]"
-        },
-        {
           "title": "张文宏称拒绝将AI引入医院病历系统",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -459,8 +473,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时33分]"
+        },
+        {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时33分]"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时33分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -497,28 +535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 14时37分]"
-        },
-        {
-          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
-          "url": "https://www.cls.cn/detail/2255569",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -600,6 +616,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
           "url": "https://flash.jin10.com/detail/20260113044010049800",
           "source": "金十数据",
@@ -620,6 +647,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
+          "url": "https://www.cls.cn/detail/2255684",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -721,6 +770,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "评论员谈中美AI大战",
+          "url": "https://www.toutiao.com/trending/7594658788020325929/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
           "url": "https://flash.jin10.com/detail/20260112232350979800",
           "source": "金十数据",
@@ -730,6 +790,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阅读的未来｜“一座难求”背后，图书馆如何守护“深度阅读”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366753",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     }
