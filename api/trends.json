@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T01:28:25.836849+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-14T02:34:11.481783+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -49,19 +49,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -72,19 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -94,8 +84,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -106,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -117,8 +119,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
+        },
+        {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
+        },
+        {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -133,16 +158,15 @@
           "time_info": "[00时34分 ~ 01时28分]"
         },
         {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
+          "title": "gemini3pro 真那么好用吗？",
+          "url": "https://www.zhihu.com/question/1990762235694434081",
+          "source": "知乎",
           "ranks": [
-            24,
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "time_info": "[02时33分 ~ 02时34分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -173,7 +197,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -183,17 +207,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -224,8 +237,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时34分]"
         }
       ]
     }
