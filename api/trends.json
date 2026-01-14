@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:37:46.881292+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-14T15:27:51.945284+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,20 @@
           "time_info": "[00时34分 ~ 05时23分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时27分]"
+        },
+        {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
           "url": "https://wallstreetcn.com/articles/3763151",
           "source": "华尔街见闻",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 11时49分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时37分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -126,11 +127,12 @@
             18,
             23,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 13时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -148,8 +150,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -175,8 +177,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时27分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -198,11 +200,12 @@
             17,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时27分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -241,6 +244,20 @@
           "time_info": "[00时34分 ~ 03时22分]"
         },
         {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 15时27分]"
+        },
+        {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
           "url": "https://wallstreetcn.com/livenews/3036406",
           "source": "华尔街见闻-快讯",
@@ -265,18 +282,16 @@
           "time_info": "[11时49分 ~ 12时48分]"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            15,
             13,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时27分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -300,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 12时48分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时37分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -407,7 +411,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
