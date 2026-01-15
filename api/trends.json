@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T14:36:54.239710+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-01-15T15:27:31.192677+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -86,8 +86,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时27分]"
+        },
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 15时27分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -97,11 +111,12 @@
             10,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时27分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -125,17 +140,17 @@
           "time_info": "[00时33分 ~ 14时36分]"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
           "source": "财联社热门",
           "ranks": [
-            6,
             4,
-            5
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时27分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -148,18 +163,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时28分 ~ 07时20分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时36分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -176,15 +179,18 @@
           "time_info": "[00时33分 ~ 07时20分]"
         },
         {
-          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
-          "url": "https://flash.jin10.com/detail/20260115041052630800",
-          "source": "金十数据",
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
           "ranks": [
-            2
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 15时27分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -194,11 +200,23 @@
             13,
             12,
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 15时27分]"
+        },
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -213,19 +231,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 07时20分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 14时36分]"
         },
         {
           "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
@@ -275,6 +280,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时42分 ~ 14时36分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时27分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -394,15 +411,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
+          "title": "赖清德称自己的“赖”里有AI被讽",
+          "url": "https://www.douyin.com/hot/2368133",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "15时27分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
@@ -414,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
+          "url": "https://www.cls.cn/detail/2258510",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -466,7 +494,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
