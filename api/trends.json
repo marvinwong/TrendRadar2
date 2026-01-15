@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T05:23:53.637057+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-01-16T06:24:15.354616+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -53,11 +53,12 @@
             10,
             7,
             4,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -69,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -83,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -98,8 +99,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -110,8 +111,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -124,8 +125,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 06时24分]"
         },
         {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
@@ -189,6 +190,18 @@
           "time_info": "[00时41分 ~ 01时34分]"
         },
         {
+          "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3038201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时24分]"
+        },
+        {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
           "url": "https://flash.jin10.com/detail/20260116013602991800",
           "source": "金十数据",
@@ -211,6 +224,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
+          "url": "https://flash.jin10.com/detail/20260116053652696800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
           "url": "https://flash.jin10.com/detail/20260116004856986800",
           "source": "金十数据",
@@ -220,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3038201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "OpenAI 布局美国供应链 全线扩张软硬件版图",
@@ -250,7 +263,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -293,8 +306,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时24分]"
         }
       ]
     }
