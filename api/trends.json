@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:26:39.685843+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-01-16T04:29:22.713753+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -50,11 +51,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -62,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -79,8 +82,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -92,8 +95,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -103,18 +118,6 @@
             26,
             24,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -145,6 +148,19 @@
           "time_info": "[01时34分 ~ 02时39分]"
         },
         {
+          "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
+          "url": "https://wallstreetcn.com/livenews/3038156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时29分]"
+        },
+        {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
           "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
@@ -155,18 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时34分]"
-        },
-        {
-          "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
-          "url": "https://wallstreetcn.com/livenews/3038156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时26分]"
         },
         {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
@@ -259,11 +263,12 @@
           "ranks": [
             4,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 04时29分]"
         }
       ]
     }
