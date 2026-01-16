@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:48:50.850102+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2026-01-16T21:39:52.785803+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -117,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时41分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[12时41分 ~ 21时39分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -269,6 +269,19 @@
           "time_info": "[09时51分 ~ 12时42分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时39分]"
+        },
+        {
           "title": "1月16日午间收评：沪指高开低走跌0.22%，AI应用端集体调整",
           "url": "https://wallstreetcn.com/livenews/3038441",
           "source": "华尔街见闻-快讯",
@@ -292,16 +305,29 @@
           "time_info": "[11时41分 ~ 12时42分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时39分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
           "source": "财联社热门",
           "ranks": [
-            11,
+            12,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时48分]"
+          "time_info": "[19时21分 ~ 21时39分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -317,18 +343,6 @@
           "time_info": "[02时39分 ~ 04时29分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时48分]"
-        },
-        {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
           "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
@@ -339,18 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时34分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时48分]"
         },
         {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
@@ -439,7 +441,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -450,7 +452,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -472,7 +474,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -543,6 +545,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "天理会不会是旅行者兄妹飞船的 ai？",
+          "url": "https://www.zhihu.com/question/1994797924039800329",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
           "url": "https://flash.jin10.com/detail/20260116004856986800",
           "source": "金十数据",
@@ -574,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "博主：AI应用将成2026年投资新风口",
+          "url": "https://www.toutiao.com/trending/7595899025040084543/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
