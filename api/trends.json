@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T21:31:46.257060+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-01-17T22:20:56.018303+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
       "match_count": 30,
       "titles": [
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时21分 ~ 22时20分]"
+        },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
           "url": "https://wallstreetcn.com/articles/3763449",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 13时22分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 21时31分]"
         },
         {
           "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
@@ -88,18 +88,6 @@
           "time_info": "[09时45分 ~ 15时21分]"
         },
         {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时31分]"
-        },
-        {
           "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
           "url": "https://flash.jin10.com/detail/20260117050916317800",
           "source": "金十数据",
@@ -125,6 +113,19 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
+          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://flash.jin10.com/detail/20260117195257548800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
           "url": "https://flash.jin10.com/detail/20260117034809871800",
           "source": "金十数据",
@@ -141,11 +142,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -226,6 +228,19 @@
           "time_info": "[05时23分 ~ 09时45分]"
         },
         {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://wallstreetcn.com/livenews/3039127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
@@ -289,18 +304,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 12时34分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时31分]"
         },
         {
           "title": "ChatGPT将加入广告",
@@ -378,7 +381,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
