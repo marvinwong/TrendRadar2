@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:32:06.509104+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-01-19T19:23:29.373801+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[00时27分 ~ 14时41分]"
         },
         {
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时52分 ~ 19时23分]"
+        },
+        {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
           "url": "https://wallstreetcn.com/articles/3763534",
           "source": "华尔街见闻",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时27分 ~ 16时35分]"
-        },
-        {
-          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
-          "url": "https://wallstreetcn.com/articles/3763553",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 18时32分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -106,8 +106,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时23分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
