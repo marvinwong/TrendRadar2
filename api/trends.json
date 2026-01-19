@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T17:37:28.710967+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-01-19T18:32:06.509104+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时52分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 18时32分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -96,6 +96,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时32分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -147,17 +159,6 @@
           "time_info": "[13时33分 ~ 14时41分]"
         },
         {
-          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
-          "url": "https://www.zhihu.com/question/1995464531351135851",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时37分]"
-        },
-        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -186,7 +187,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -219,7 +220,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
