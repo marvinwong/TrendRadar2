@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:31:22.509569+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-01-20T19:25:36.193514+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,18 @@
           "time_info": "[12时47分 ~ 15时29分]"
         },
         {
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 19时25分]"
+        },
+        {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
           "url": "https://www.cls.cn/detail/2262334",
           "source": "财联社热门",
@@ -94,16 +106,17 @@
           "time_info": "07时23分"
         },
         {
-          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996233131175462349",
-          "source": "知乎",
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            4
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时25分]"
         },
         {
           "title": "外媒谈AI竞争：中国会笑到最后",
@@ -130,19 +143,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时24分]"
-        },
-        {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时31分]"
         },
         {
           "title": "千问 App 接入淘宝、闪购测试 AI 购物，将如何影响消费习惯？",
@@ -370,7 +370,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
