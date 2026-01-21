@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:33:18.072634+08:00",
-  "total_titles_processed": 2089,
+  "generated_at": "2026-01-21T23:35:23.929140+08:00",
+  "total_titles_processed": 2186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -46,11 +46,12 @@
             12,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时34分 ~ 22时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时34分 ~ 23时35分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -64,11 +65,12 @@
             14,
             10,
             15,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时46分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[11时46分 ~ 23时35分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -82,11 +84,12 @@
             12,
             13,
             11,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时46分 ~ 22时33分]"
+          "appearance_count": 17,
+          "time_info": "[12时46分 ~ 23时35分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -106,11 +109,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时35分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -134,6 +138,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时54分 ~ 21时49分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            29,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 23时35分]"
         },
         {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
@@ -160,19 +178,6 @@
           "time_info": "[11时46分 ~ 12时46分]"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时33分]"
-        },
-        {
           "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
           "url": "https://www.cls.cn/detail/2264568",
           "source": "财联社热门",
@@ -189,11 +194,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 22时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 23时35分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -309,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
+          "url": "https://www.cls.cn/detail/2265088",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
@@ -452,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "黄仁勋谈过去一年AI模型的三大突破",
+          "url": "https://wallstreetcn.com/livenews/3041362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
