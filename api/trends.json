@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-21T15:31:35.419378+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-01-21T16:35:01.340156+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 16时35分]"
+        },
         {
           "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996233131175462349",
@@ -23,18 +35,6 @@
           "time_info": "[00时38分 ~ 07时24分]"
         },
         {
-          "title": "疑似AI玩家确认是Roamer",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时31分]"
-        },
-        {
           "title": "DeepSeek Model 1悄然现身",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 16时35分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -58,8 +58,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 16时35分]"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 16时35分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -71,17 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时31分]"
         },
         {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
@@ -143,6 +154,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
+          "url": "https://www.cls.cn/detail/2264568",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "郑钦文粉丝把AI天赋点满了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%B2%89%E4%B8%9D%E6%8A%8AAI%E5%A4%A9%E8%B5%8B%E7%82%B9%E6%BB%A1%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "拳头程序员分析人类对战AI胜算",
@@ -305,7 +339,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
