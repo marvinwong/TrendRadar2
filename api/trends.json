@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-22T22:32:35.351562+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-01-22T23:33:51.483796+08:00",
+  "total_titles_processed": 2112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时33分]"
+        },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
           "url": "https://www.cls.cn/detail/2265732",
@@ -68,19 +81,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时52分 ~ 13时31分]"
-        },
-        {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时24分 ~ 22时32分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -168,6 +168,19 @@
           "time_info": "[11时50分 ~ 18时29分]"
         },
         {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 23时33分]"
+        },
+        {
           "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
           "url": "https://www.cls.cn/detail/2265956",
           "source": "财联社热门",
@@ -181,19 +194,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时31分 ~ 18时31分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 22时32分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -434,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "传vivo叫停AI眼镜项目，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3042155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "Anthropic推出Claude的新版“constitution”，称是基本文件。",
