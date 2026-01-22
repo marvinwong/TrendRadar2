@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T07:28:16.765508+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-01-22T09:54:13.865647+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -17,8 +17,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 07时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 09时54分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 09时54分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -29,11 +43,12 @@
             3,
             12,
             9,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 07时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 09时54分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -87,17 +102,17 @@
           "time_info": "[00时52分 ~ 07时28分]"
         },
         {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            8,
-            29
+            12,
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 09时54分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -112,16 +127,37 @@
           "time_info": "[00时52分 ~ 01时56分]"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时28分]"
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 09时54分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -165,7 +201,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -176,7 +212,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -198,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
