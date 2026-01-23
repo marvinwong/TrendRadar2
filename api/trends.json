@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T05:23:47.716218+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-24T06:20:34.000927+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时20分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时20分]"
         },
         {
           "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时20分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -51,11 +52,12 @@
             20,
             17,
             7,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时20分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
