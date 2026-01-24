@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T03:18:47.313552+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-01-25T04:24:18.638347+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -41,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -62,11 +62,12 @@
           "ranks": [
             30,
             18,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 04时24分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -76,8 +77,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
