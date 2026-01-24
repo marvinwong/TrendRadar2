@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T12:37:07.170065+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-01-24T13:24:00.009547+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -61,30 +61,32 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 12时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 13时23分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
           "url": "https://www.cls.cn/detail/2268544",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时23分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
           "url": "https://flash.jin10.com/detail/20260124113127622800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时23分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -97,6 +99,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时37分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时23分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
+          "url": "https://www.toutiao.com/trending/7598238497476034602/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时23分]"
         },
         {
           "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
@@ -123,18 +149,6 @@
           "time_info": "[00时33分 ~ 01时27分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
-          "url": "https://wallstreetcn.com/livenews/3043204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时37分]"
-        },
-        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -157,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 12时37分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
-          "url": "https://www.toutiao.com/trending/7598238497476034602/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
