@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:35:17.079980+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-01-25T15:23:41.221662+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时23分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -53,6 +53,20 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 15时23分]"
+        },
+        {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
@@ -65,17 +79,16 @@
           "time_info": "[00时27分 ~ 10时01分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            7,
-            2
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 15时23分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -103,18 +116,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 14时35分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
@@ -146,11 +147,12 @@
           "url": "https://wallstreetcn.com/articles/3764092",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时23分]"
         }
       ]
     }
