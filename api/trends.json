@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T20:52:41.210458+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-01-26T21:46:34.932142+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -89,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时34分 ~ 20时52分]"
+          "appearance_count": 12,
+          "time_info": "[13时34分 ~ 21时46分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -171,6 +171,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时46分]"
+        },
+        {
           "title": "你怎么看iPhone Air降价",
           "url": "https://www.toutiao.com/trending/7599137251189800969/",
           "source": "今日头条",
@@ -183,15 +194,27 @@
           "time_info": "[13时34分 ~ 14时40分]"
         },
         {
-          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
-          "url": "https://wallstreetcn.com/articles/3764155",
-          "source": "华尔街见闻",
+          "title": "iPhoneAir暴降后卖断货",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir%E6%9A%B4%E9%99%8D%E5%90%8E%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时46分]"
+        },
+        {
+          "title": "高盛顶级贵金属交易员Binet Laisne离职。",
+          "url": "https://flash.jin10.com/detail/20260126210933742800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "21时46分"
         },
         {
           "title": "腾讯神秘AI项目曝光",
@@ -227,6 +250,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "英伟达(NVDA.O)与Coreweave(CRWV.O)达成协议，加速AI工厂的建设。Coreweave将采用英伟达的CPU和存储平台。",
+          "url": "https://flash.jin10.com/detail/20260126210142025800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
           "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
           "url": "https://flash.jin10.com/detail/20260126154144414800",
           "source": "金十数据",
@@ -236,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
-        },
-        {
-          "title": "iPhoneAir暴降后卖断货",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir%E6%9A%B4%E9%99%8D%E5%90%8E%E5%8D%96%E6%96%AD%E8%B4%A7%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
@@ -299,7 +322,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
