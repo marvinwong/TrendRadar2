@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:46:34.932142+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-01-26T22:31:48.707224+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -89,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时34分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[13时34分 ~ 22时31分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -171,15 +171,49 @@
           "time_info": "10时01分"
         },
         {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "苹果推出新款AirTag。",
+          "url": "https://wallstreetcn.com/livenews/3044055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)：全新AirTag今日上市，单个AirTag售价29美元，四件装售价99美元。",
+          "url": "https://flash.jin10.com/detail/20260126220730931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
           "url": "https://wallstreetcn.com/articles/3764155",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 22时31分]"
         },
         {
           "title": "你怎么看iPhone Air降价",
@@ -212,9 +246,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
+        },
+        {
+          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
+          "url": "https://wallstreetcn.com/livenews/3044053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "腾讯神秘AI项目曝光",
@@ -239,6 +284,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "苹果(AAPL.O)推出新款AirTag，其覆盖范围更广，查找功能更强大。",
+          "url": "https://flash.jin10.com/detail/20260126220348815800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
           "url": "https://www.cls.cn/detail/2269055",
           "source": "财联社热门",
@@ -256,7 +312,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -270,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "高盛贵金属交易主管Binet-Laisne据悉将离职",
+          "url": "https://wallstreetcn.com/livenews/3044044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
