@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:29:13.786819+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-01-26T19:22:50.530307+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,27 @@
             5,
             4,
             11,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 19时22分]"
+        },
+        {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 19时22分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -60,6 +76,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 15时30分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时34分 ~ 19时22分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -88,19 +118,6 @@
           "time_info": "[00时28分 ~ 12时03分]"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时34分 ~ 18时29分]"
-        },
-        {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
           "url": "https://www.cls.cn/detail/2269090",
           "source": "财联社热门",
@@ -114,20 +131,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时34分 ~ 17时37分]"
-        },
-        {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 18时29分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
