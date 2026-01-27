@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T19:25:26.479121+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-01-27T20:54:44.629317+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
@@ -15,11 +15,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时50分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[11时50分 ~ 20时54分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -31,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时56分 ~ 19时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时56分 ~ 20时54分]"
         },
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -112,6 +113,20 @@
           "time_info": "[00时37分 ~ 07时24分]"
         },
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时54分]"
+        },
+        {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
           "url": "https://www.cls.cn/detail/2270597",
           "source": "财联社热门",
@@ -125,6 +140,19 @@
           "time_info": "[11时50分 ~ 16时36分]"
         },
         {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时29分 ~ 20时54分]"
+        },
+        {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
           "url": "https://www.cls.cn/detail/2270449",
           "source": "财联社热门",
@@ -134,18 +162,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 12时49分]"
-        },
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时29分 ~ 19时25分]"
         },
         {
           "title": "Claude Skill 的思路并不复杂，为什么又是再次被 Claude 优先提出？",
@@ -174,19 +190,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时38分 ~ 18时31分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时25分]"
         },
         {
           "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
@@ -238,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
@@ -323,6 +337,18 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 20时54分]"
+        },
+        {
           "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
           "url": "https://www.cls.cn/detail/2270515",
           "source": "财联社热门",
@@ -400,6 +426,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "据CNBC：Meta Platforms(META.O)公司达成协议，拟为AI数据中心光纤电缆向康宁支付高达60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127203901765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美团魏巍：精致餐饮门店率先应用AI",
           "url": "https://wallstreetcn.com/livenews/3044691",
           "source": "华尔街见闻-快讯",
@@ -422,17 +459,6 @@
           "time_info": "17时36分"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "OpenAI首席信息安全官宣布将离职",
           "url": "https://flash.jin10.com/detail/20260127140630592800",
           "source": "金十数据",
@@ -453,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
@@ -538,7 +575,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -571,7 +608,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -593,7 +630,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
