@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:20:05.765156+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-01-28T06:25:08.964889+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -63,19 +63,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -199,7 +200,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
