@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:31:50.859661+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-28T19:25:08.562421+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 18时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -43,11 +43,12 @@
             3,
             2,
             1,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时47分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时47分 ~ 19时25分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -60,6 +61,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时46分 ~ 19时25分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -79,6 +94,18 @@
           "time_info": "[00时32分 ~ 16时35分]"
         },
         {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 19时25分]"
+        },
+        {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
           "url": "https://www.cls.cn/detail/2271472",
           "source": "财联社热门",
@@ -89,32 +116,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时24分]"
-        },
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 18时31分]"
-        },
-        {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 18时31分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -140,6 +141,20 @@
           "time_info": "[09时53分 ~ 13时32分]"
         },
         {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 19时25分]"
+        },
+        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -152,20 +167,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时24分 ~ 14时39分]"
-        },
-        {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时31分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -185,7 +186,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -196,9 +197,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时25分]"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -237,19 +252,6 @@
           "time_info": "[12时46分 ~ 13时32分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时31分]"
-        },
-        {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
           "url": "https://www.cls.cn/detail/2272037",
           "source": "财联社热门",
@@ -260,6 +262,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 17时36分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时25分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -361,7 +375,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -394,9 +408,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "亚马逊将裁员1.6万人 在AI竞争中精简架构",
+          "url": "https://flash.jin10.com/detail/20260128184459127800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "谷歌对英国竞争与市场管理局的搜索提案持乐观态度，认为双方有望找到前进之路。",
@@ -405,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -421,13 +446,24 @@
           "time_info": "15时28分"
         },
         {
+          "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片，推动家具、电视、扫地机器人等全面接入AI",
+          "url": "https://wallstreetcn.com/livenews/3045533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
           "url": "https://www.cls.cn/detail/2272560",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -471,7 +507,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -496,17 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "ASML第四季度订单额创新高 AI投资浪潮汹涌提振需求",
