@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:51:21.890741+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2026-01-28T22:33:16.267560+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时46分 ~ 21时51分]"
+          "appearance_count": 15,
+          "time_info": "[12时46分 ~ 22时33分]"
         },
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时53分 ~ 21时51分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 22时33分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -158,6 +158,20 @@
           "time_info": "[14时38分 ~ 20时54分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 22时33分]"
+        },
+        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -172,18 +186,18 @@
           "time_info": "[07时24分 ~ 14时39分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            10,
-            7,
-            8
+            27,
+            23,
+            12,
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时35分 ~ 21时51分]"
+          "time_info": "[18时31分 ~ 22时33分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -195,6 +209,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时46分 ~ 15时28分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
@@ -219,17 +244,17 @@
           "time_info": "18时31分"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            23,
-            12
+            13,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时51分]"
+          "time_info": "[18时31分 ~ 22时33分]"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -244,6 +269,18 @@
           "time_info": "[12时46分 ~ 13时32分]"
         },
         {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时33分]"
+        },
+        {
           "title": "刘强东在家乡打造了一个AI教室",
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
@@ -256,6 +293,18 @@
           "time_info": "[17时36分 ~ 18时31分]"
         },
         {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 22时33分]"
+        },
+        {
           "title": "AirPods实时翻译实用吗",
           "url": "https://search.bilibili.com/all?keyword=AirPods%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%AE%9E%E7%94%A8%E5%90%97",
           "source": "bilibili 热搜",
@@ -266,18 +315,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时46分 ~ 13时32分]"
-        },
-        {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 21时51分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -313,17 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时29分]"
-        },
-        {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时51分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -362,15 +388,15 @@
           "time_info": "[02时41分 ~ 03时29分]"
         },
         {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时51分]"
+          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
