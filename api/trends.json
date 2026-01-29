@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T01:39:16.309202+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-30T02:51:15.484239+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -38,19 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
-          "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
-          "url": "https://wallstreetcn.com/livenews/3046626",
-          "source": "华尔街见闻-快讯",
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
           "ranks": [
-            3
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -73,19 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
-        },
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -96,8 +86,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时51分]"
+        },
+        {
+          "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3046626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时51分]"
+        },
+        {
+          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130013359793800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3046630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
@@ -117,7 +141,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         }
