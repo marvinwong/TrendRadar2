@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:42:09.198453+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-01-29T17:45:09.150701+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时40分 ~ 10时07分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 17时45分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -88,16 +101,18 @@
           "time_info": "[00时40分 ~ 07时28分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时06分 ~ 16时42分]"
+          "time_info": "[12时28分 ~ 17时45分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -108,19 +123,6 @@
             7,
             15,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时42分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -147,7 +149,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -174,6 +176,19 @@
           "time_info": "07时28分"
         },
         {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 17时45分]"
+        },
+        {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
           "url": "https://wallstreetcn.com/livenews/3045737",
           "source": "华尔街见闻-快讯",
@@ -186,16 +201,16 @@
           "time_info": "[02时40分 ~ 03时31分]"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
           "ranks": [
-            13,
-            10
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 17时45分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -233,17 +248,6 @@
           "time_info": "[04时34分 ~ 05时31分]"
         },
         {
-          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2000172562634790267",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
           "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
           "url": "https://www.zhihu.com/question/1999819158431503971",
           "source": "知乎",
@@ -264,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 12时29分]"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -294,7 +309,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
