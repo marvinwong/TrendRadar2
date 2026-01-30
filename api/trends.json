@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T00:42:04.373487+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-31T01:36:10.298452+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 01时36分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -26,8 +26,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 01时36分]"
+        },
+        {
+          "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
+          "url": "https://www.zhihu.com/question/2000222256375227441",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "time_info": "[01时35分 ~ 01时36分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -36,7 +47,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
         }
