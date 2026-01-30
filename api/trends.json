@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T15:41:46.889190+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-01-30T16:42:04.027717+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -34,6 +34,17 @@
           "time_info": "[00时46分 ~ 07时28分]"
         },
         {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时42分]"
+        },
+        {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
           "url": "https://wallstreetcn.com/articles/3764497",
           "source": "华尔街见闻",
@@ -45,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 15时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 16时42分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -70,11 +81,12 @@
             5,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时46分 ~ 15时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 16时42分]"
         },
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -92,17 +104,6 @@
           "time_info": "[00时46分 ~ 10时07分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 15时41分]"
-        },
-        {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
           "url": "https://www.cls.cn/detail/2274202",
           "source": "财联社热门",
@@ -113,6 +114,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时28分]"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时42分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -137,13 +153,27 @@
           "time_info": "07时28分"
         },
         {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时42分]"
+        },
+        {
           "title": "原新加坡Sea AI Lab高级研究科学家庞天宇即将入职腾讯",
           "url": "https://wallstreetcn.com/livenews/3047095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -159,6 +189,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时06分 ~ 14时52分]"
+        },
+        {
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
+          "ranks": [
+            14,
+            9,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 16时42分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -198,33 +242,6 @@
           "time_info": "[06时31分 ~ 07时28分]"
         },
         {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时41分]"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时41分]"
-        },
-        {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
           "url": "https://wallstreetcn.com/livenews/3046652",
           "source": "华尔街见闻-快讯",
@@ -238,19 +255,6 @@
           "time_info": "[03时32分 ~ 05时29分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 15时41分]"
-        },
-        {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
@@ -261,6 +265,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时33分]"
+        },
+        {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
@@ -334,6 +349,17 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
+          "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999485506963075471",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
           "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
           "url": "https://flash.jin10.com/detail/20260130064632549800",
           "source": "金十数据",
@@ -351,7 +377,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
