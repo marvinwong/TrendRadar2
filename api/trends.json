@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T05:29:48.204971+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-01-31T06:28:56.019428+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时28分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时28分]"
+        },
+        {
+          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
+          "url": "https://flash.jin10.com/detail/20260131025828448800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时28分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -44,28 +56,17 @@
           "time_info": "[03时33分 ~ 05时29分]"
         },
         {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时29分]"
-        },
-        {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 06时28分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -90,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E6%8A%BC%E5%AE%9DAI+%E7%89%B9%E6%96%AF%E6%8B%89%E6%B2%A1%E5%BF%83%E6%80%9D%E9%80%A0%E8%BD%A6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -107,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时28分]"
         }
       ]
     }
