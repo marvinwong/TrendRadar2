@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T06:28:56.019428+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-01-31T07:27:56.472852+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时27分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -99,7 +99,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -116,11 +116,12 @@
           "ranks": [
             19,
             13,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时27分]"
         }
       ]
     }
