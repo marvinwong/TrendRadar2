@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:42:07.479537+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-01-31T15:31:38.379296+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             23,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 14时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 15时31分]"
         },
         {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
@@ -52,11 +53,12 @@
           "ranks": [
             27,
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 15时31分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -85,6 +87,21 @@
           "time_info": "[03时33分 ~ 05时29分]"
         },
         {
+          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3047621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时31分]"
+        },
+        {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
@@ -98,18 +115,17 @@
           "time_info": "[01时35分 ~ 06时28分]"
         },
         {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260131123614314800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            17,
-            21,
-            24
+            6,
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时31分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -125,27 +141,16 @@
           "time_info": "[03时33分 ~ 05时29分]"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260131123614314800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时42分]"
-        },
-        {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
           "url": "https://www.cls.cn/detail/2275533",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 15时31分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
