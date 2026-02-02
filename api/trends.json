@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T16:45:49.726268+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-02T17:53:20.055224+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 16时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 17时53分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -55,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 16时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 17时53分]"
         },
         {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
@@ -115,8 +115,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 17时53分]"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
@@ -158,7 +158,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -169,7 +169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         }
