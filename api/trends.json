@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:37:15.667504+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-02-02T21:03:33.710039+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -78,11 +78,12 @@
             13,
             14,
             15,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 21时03分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时46分 ~ 19时37分]"
+        },
+        {
+          "title": "消息称马斯克推进SpaceX、xAI合并，最快本周达成协议",
+          "url": "https://flash.jin10.com/detail/20260202204430933800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
