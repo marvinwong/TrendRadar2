@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T02:54:15.791003+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-02-05T03:40:10.648836+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
@@ -116,7 +116,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
