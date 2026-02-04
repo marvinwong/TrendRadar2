@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:56:03.837156+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-02-04T15:45:43.829593+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -34,17 +34,29 @@
           "time_info": "[00时55分 ~ 07时31分]"
         },
         {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 15时45分]"
+        },
+        {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
           "url": "https://wallstreetcn.com/articles/3764858",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 14时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 15时45分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -95,17 +107,6 @@
           "time_info": "[00时55分 ~ 07时31分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 14时56分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -118,6 +119,18 @@
           "time_info": "[07时30分 ~ 14时56分]"
         },
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 15时45分]"
+        },
+        {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
@@ -126,8 +139,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 15时45分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -185,17 +198,6 @@
           "time_info": "01时55分"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 14时56分]"
-        },
-        {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
           "url": "https://flash.jin10.com/detail/20260204012848095800",
           "source": "金十数据",
@@ -216,6 +218,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时45分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -278,18 +293,6 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
-          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
-          "url": "https://www.cls.cn/detail/2279757",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 14时56分]"
-        },
-        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -297,8 +300,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 15时45分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -505,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "千问宣布推出Qwen3-Coder-Next，一款专为编码代理与本地开发打造的开放权重的语言模型。",
