@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-06T17:44:35.947845+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-02-06T18:42:01.771346+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 18时42分]"
+        },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
           "url": "https://wallstreetcn.com/articles/3764901",
@@ -19,15 +30,16 @@
           "time_info": "[00时53分 ~ 06时29分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时09分 ~ 17时44分]"
+          "time_info": "[12时48分 ~ 18时42分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -52,18 +64,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 07时26分]"
-        },
-        {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时44分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -130,8 +130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 18时42分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -180,6 +180,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 13时55分]"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时42分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -304,6 +316,17 @@
           "time_info": "[02时52分 ~ 03时39分]"
         },
         {
+          "title": "千问“爆单”验证AI商业化前景",
+          "url": "https://www.toutiao.com/trending/7603578910895374387/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
           "title": "随时可以打扰的AI健康朋友",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%89%93%E6%89%B0%E7%9A%84AI%E5%81%A5%E5%BA%B7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -313,17 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
-          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
-          "url": "https://www.cls.cn/detail/2282814",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
@@ -401,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "xAI联合创始人豪掷5700万英镑购入伦敦顶层公寓",
+          "url": "https://flash.jin10.com/detail/20260206173641831800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
