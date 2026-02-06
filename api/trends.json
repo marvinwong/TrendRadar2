@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T13:55:29.536344+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-02-06T14:57:46.746956+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -53,8 +53,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 13时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 14时57分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -91,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 14时57分]"
         },
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -103,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 13时55分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 14时57分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -127,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 14时57分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -162,8 +162,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 14时57分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -173,8 +173,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 14时57分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -352,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "十大奶咖品牌求AI翻牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E5%A5%B6%E5%92%96%E5%93%81%E7%89%8C%E6%B1%82AI%E7%BF%BB%E7%89%8C%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
