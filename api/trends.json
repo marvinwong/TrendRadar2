@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:49:03.921240+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-02-06T13:55:29.536344+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "ranks": [
             3,
             2,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 12时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 13时55分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -83,6 +84,29 @@
           "time_info": "[00时53分 ~ 07时26分]"
         },
         {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时55分]"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 13时55分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -96,27 +120,15 @@
           "time_info": "[00时53分 ~ 06时29分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时49分]"
-        },
-        {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时55分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -130,17 +142,6 @@
           "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
-        },
-        {
           "title": "唐宫奇案剧宣闯入ai赛道",
           "url": "https://www.douyin.com/hot/2390538",
           "source": "抖音",
@@ -150,8 +151,30 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 12时49分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 13时55分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时55分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 13时55分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -167,17 +190,6 @@
           "time_info": "[03时39分 ~ 05时32分]"
         },
         {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时49分]"
-        },
-        {
           "title": "Anthropic发布新AI 金融服务公司承压",
           "url": "https://flash.jin10.com/detail/20260206032448754800",
           "source": "金十数据",
@@ -188,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时36分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 12时49分]"
         },
         {
           "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
@@ -212,6 +213,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时36分]"
+        },
+        {
+          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2002929122574373858",
+          "source": "知乎",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时55分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
@@ -260,17 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时52分]"
-        },
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2002929122574373858",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -325,7 +327,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
