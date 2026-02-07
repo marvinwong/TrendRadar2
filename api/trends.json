@@ -1,524 +1,55 @@
 {
-  "generated_at": "2026-02-07T23:27:49.907404+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-02-08T00:32:24.326311+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 51,
+      "match_count": 6,
       "titles": [
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
+          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
+          "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时28分]"
-        },
-        {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时29分 ~ 23时27分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 19时23分]"
-        },
-        {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 17时33分]"
-        },
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时44分 ~ 23时27分]"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19,
-            13,
-            12,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 16时34分]"
-        },
-        {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 19时23分]"
-        },
-        {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 10时05分]"
-        },
-        {
-          "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
-          "url": "https://flash.jin10.com/detail/20260207040949574800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时28分]"
-        },
-        {
-          "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
-          "url": "https://flash.jin10.com/detail/20260207040516386800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时28分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 06时26分]"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时28分]"
-        },
-        {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 21时45分]"
-        },
-        {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 17时33分]"
-        },
-        {
-          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
-          "url": "https://wallstreetcn.com/livenews/3051672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            15,
-            18,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 17时33分]"
-        },
-        {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 07时28分]"
-        },
-        {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            13,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 23时27分]"
-        },
-        {
-          "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
-          "url": "https://wallstreetcn.com/livenews/3051663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            21,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时33分]"
-        },
-        {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时39分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3051568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3051618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "00时32分"
         },
         {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            8,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 21时45分]"
-        },
-        {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://wallstreetcn.com/livenews/3051704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 20时52分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            22,
-            26,
-            21,
-            23
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 03时39分]"
-        },
-        {
-          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
-          "url": "https://wallstreetcn.com/livenews/3051609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时36分 ~ 06时26分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
-          "url": "https://flash.jin10.com/detail/20260207004458170800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时45分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
           "url": "https://wallstreetcn.com/articles/3765198",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 23时27分]"
-        },
-        {
-          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
-          "url": "https://flash.jin10.com/detail/20260207035802693800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时28分]"
-        },
-        {
-          "title": "AI 能救得了 SaaS 么？",
-          "url": "https://www.zhihu.com/question/658582077",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 02时54分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
-          "url": "https://flash.jin10.com/detail/20260207032751728800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时28分]"
-        },
-        {
-          "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
-          "url": "https://wallstreetcn.com/livenews/3051595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时33分]"
-        },
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时43分]"
-        },
-        {
-          "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3051561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时54分]"
-        },
-        {
-          "title": "百度AI生成他人虚假犯罪信息案开庭，百度答辩：系AI幻觉，非故意所为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32558072",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
-        },
-        {
-          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时28分]"
-        },
-        {
-          "title": "AI考验我人脉的时候到了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E8%80%83%E9%AA%8C%E6%88%91%E4%BA%BA%E8%84%89%E7%9A%84%E6%97%B6%E5%80%99%E5%88%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
-          "url": "https://flash.jin10.com/detail/20260207021443881800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时39分]"
-        },
-        {
-          "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550430",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
@@ -528,118 +59,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 23时27分]"
-        },
-        {
-          "title": "AI点外卖是伪需求吗",
-          "url": "https://www.toutiao.com/trending/7604015148365254198/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
-          "url": "https://wallstreetcn.com/articles/3765116",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "00时32分"
         },
         {
-          "title": "阿里如何用AI重新定义自己",
-          "url": "https://www.toutiao.com/trending/7603783138296204806/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "美媒：OpenAI正与阿布扎比企业洽谈，以为阿联酋打造一款专属ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260207010008525800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3051529",
+          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
+          "url": "https://wallstreetcn.com/livenews/3051719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3051568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：OpenAI正与阿布扎比的G42洽谈，为阿联酋打造专用版ChatGPT。",
-          "url": "https://flash.jin10.com/detail/20260207005142031800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼在社交平台发起投票，询问客户希望如何对Codex收费？选项包括固定的月费订阅以及按使用量计费，每段20美元。",
-          "url": "https://flash.jin10.com/detail/20260207005121782800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "媒体：AI之争又打成了奶茶大战",
-          "url": "https://www.toutiao.com/trending/7603738226825645604/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260207004917711800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "00时32分"
         }
       ]
     }
