@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T06:38:35.733323+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-10T07:38:58.423397+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "不要对AI说谢谢",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -27,41 +39,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
           "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
           "url": "https://wallstreetcn.com/articles/3765243",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -75,37 +90,16 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
-          "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
-          "url": "https://flash.jin10.com/detail/20260210060937090800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
-        },
-        {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
           "url": "https://www.cls.cn/detail/2284689",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -115,11 +109,24 @@
             12,
             25,
             23,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时38分]"
+        },
+        {
+          "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
+          "url": "https://flash.jin10.com/detail/20260210060937090800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时38分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -164,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "孩子沉迷于和 AI 聊天，甚至把它当成寒假里最好的朋友，这正常吗？",
+          "url": "https://www.zhihu.com/question/2001660645247051342",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "Anthropic考虑锁定10 GW算力。 该公司正低调地组建一支资深团队，并已讨论在未来数年内确保至少10 GW的发电容量。 包括两名曾经在谷歌公司担任高管的人员。（The Information）",
