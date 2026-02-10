@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-02-10T13:06:28.342153+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-02-10T15:07:01.628798+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "不要对AI说谢谢",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时15分 ~ 13时06分]"
-        },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
           "url": "https://wallstreetcn.com/articles/3765271",
@@ -29,6 +16,19 @@
             7,
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时15分 ~ 15时07分]"
+        },
+        {
+          "title": "不要对AI说谢谢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -92,11 +92,12 @@
             23,
             13,
             26,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时15分 ~ 13时06分]"
+          "appearance_count": 11,
+          "time_info": "[03时15分 ~ 15时07分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -133,6 +134,30 @@
           "time_info": "[03时15分 ~ 07时38分]"
         },
         {
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 15时07分]"
+        },
+        {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 15时07分]"
+        },
+        {
           "title": "不要对AI说谢谢",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -143,6 +168,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 13时06分]"
+        },
+        {
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 15时07分]"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 15时07分]"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -157,37 +206,39 @@
           "time_info": "[06时38分 ~ 07时38分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时06分]"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
+            8,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时06分]"
+          "time_info": "[13时06分 ~ 15时07分]"
         },
         {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 15时07分]"
+        },
+        {
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时06分]"
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "AI 恐怖",
@@ -212,26 +263,15 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
+          "title": "OpenAI冲刺千亿美元融资 奥尔特曼称ChatGPT月度增速重回10%以上",
+          "url": "https://www.cls.cn/detail/2285213",
           "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -262,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -311,6 +351,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "千问发布最新图像模型Qwen-Image-2.0，超长文字渲染，摄影级真实质感",
+          "url": "https://wallstreetcn.com/livenews/3052773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "AI应用端延续强势，荣信文化、掌阅科技2连板，中文在线接近涨停，捷成股份涨超10%，人民网、视觉中国等多股高开。",
           "url": "https://wallstreetcn.com/livenews/3052623",
           "source": "华尔街见闻-快讯",
@@ -344,15 +395,32 @@
           "time_info": "04时41分"
         },
         {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "阿里达摩院开源具身大脑基模RynnBrain 机器人首次拥有时空记忆",
+          "url": "https://wallstreetcn.com/livenews/3052752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "15时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Seedance让小说直接成片",
+          "url": "https://www.douyin.com/hot/2395720",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     }
