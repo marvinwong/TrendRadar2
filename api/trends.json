@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:49:53.482153+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-02-11T06:42:11.618513+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时42分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -27,11 +27,12 @@
             9,
             10,
             23,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时42分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -42,19 +43,46 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时42分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时42分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 06时42分]"
+        },
+        {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时42分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -67,18 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时01分]"
-        },
-        {
-          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
-          "url": "https://flash.jin10.com/detail/20260211042006504800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时49分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -103,19 +119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时57分]"
-        },
-        {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 05时49分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
