@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T07:32:42.850658+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-02-14T10:07:28.873274+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -13,19 +13,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.toutiao.com/trending/7605526928975659054/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -40,8 +27,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 10时07分]"
+        },
+        {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.toutiao.com/trending/7605526928975659054/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 10时07分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -58,24 +59,24 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 07时32分]"
-        },
-        {
           "title": "AI整活无底线,赛文演员急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
             8,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 10时07分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -108,13 +109,27 @@
           "time_info": "[00时50分 ~ 07时32分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 10时07分]"
+        },
+        {
           "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3055395",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -125,22 +140,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时43分 ~ 07时32分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -207,6 +209,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时40分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时07分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -295,15 +309,26 @@
           "time_info": "[00时50分 ~ 01时43分]"
         },
         {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "10时07分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -326,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
+          "url": "https://wallstreetcn.com/livenews/3055412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
