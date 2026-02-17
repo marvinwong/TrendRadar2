@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T10:11:59.086322+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-02-17T12:54:26.402500+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -32,6 +32,20 @@
           "time_info": "[00时45分 ~ 10时11分]"
         },
         {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
+        },
+        {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
           "url": "https://www.cls.cn/detail/2290600",
           "source": "财联社热门",
@@ -40,21 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -66,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -92,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -103,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -115,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 12时54分]"
         },
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -200,6 +201,20 @@
           "time_info": "[05时31分 ~ 10时11分]"
         },
         {
+          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
+          "url": "https://wallstreetcn.com/livenews/3055850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 12时54分]"
+        },
+        {
           "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
           "url": "https://wallstreetcn.com/livenews/3055839",
           "source": "华尔街见闻-快讯",
@@ -226,19 +241,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 03时33分]"
-        },
-        {
-          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
-          "url": "https://wallstreetcn.com/livenews/3055850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 10时11分]"
         },
         {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
@@ -291,6 +293,18 @@
           "time_info": "[05时31分 ~ 06时31分]"
         },
         {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时54分]"
+        },
+        {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
           "url": "https://flash.jin10.com/detail/20260217053748212800",
           "source": "金十数据",
@@ -327,6 +341,17 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "春晚AI率比我论文高",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
           "url": "https://flash.jin10.com/detail/20260217064752239800",
           "source": "金十数据",
@@ -338,15 +363,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
+          "title": "马年迎好运 AI定制新春祝福",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E8%BF%8E%E5%A5%BD%E8%BF%90+AI%E5%AE%9A%E5%88%B6%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F",
+          "source": "百度热搜",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "12时54分"
         },
         {
           "title": "据英国金融时报：欧盟隐私监管机构就AI生成性化图片问题对X平台展开调查。",
@@ -355,7 +380,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -377,9 +402,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "豆包：除夕豆包AI互动总数达19亿",
+          "url": "https://flash.jin10.com/detail/20260217114541307800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "博主：多数传统数字公司难享AI红利",
+          "url": "https://www.toutiao.com/trending/7607059889001512970/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     }
