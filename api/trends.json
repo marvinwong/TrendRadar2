@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T21:08:15.847855+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-02-18T22:46:35.007137+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时22分 ~ 21时08分]"
+          "appearance_count": 12,
+          "time_info": "[10时22分 ~ 22时46分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时08分 ~ 21时08分]"
+          "appearance_count": 21,
+          "time_info": "[01时08分 ~ 22时46分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 21时08分]"
+          "appearance_count": 10,
+          "time_info": "[12时55分 ~ 22时46分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时08分 ~ 21时08分]"
+          "appearance_count": 21,
+          "time_info": "[01时08分 ~ 22时46分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -67,11 +67,27 @@
             9,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时08分 ~ 21时08分]"
+          "appearance_count": 21,
+          "time_info": "[01时08分 ~ 22时46分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时52分 ~ 22时46分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -85,20 +101,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时08分 ~ 10时23分]"
-        },
-        {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时52分 ~ 21时08分]"
         },
         {
           "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
@@ -150,13 +152,25 @@
           "time_info": "[15时52分 ~ 19时40分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 22时46分]"
+        },
+        {
           "title": "沙特Humain公司向xAI公司投资30亿美元",
           "url": "https://flash.jin10.com/detail/20260218204955691800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -238,18 +252,6 @@
           "time_info": "07时31分"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 21时08分]"
-        },
-        {
           "title": "化妆师回应王菲春晚妆造：问就是AI",
           "url": "https://www.toutiao.com/trending/7607001857601257508/",
           "source": "今日头条",
@@ -264,6 +266,17 @@
           "time_info": "[12时55分 ~ 16时49分]"
         },
         {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 22时46分]"
+        },
+        {
           "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
           "url": "https://wallstreetcn.com/articles/3765811",
           "source": "华尔街见闻",
@@ -273,17 +286,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时22分 ~ 12时55分]"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时08分]"
         },
         {
           "title": "摩根大通：AI带来的扰动将推动小型银行合并",
@@ -434,7 +436,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -456,7 +458,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -566,7 +568,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -577,7 +579,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -643,6 +645,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "“5年前还是科幻小说里的情节”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C5%E5%B9%B4%E5%89%8D%E8%BF%98%E6%98%AF%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E6%83%85%E8%8A%82%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时46分]"
+        },
+        {
           "title": "看小说时莫名其妙的生理反应",
           "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E5%B0%8F%E8%AF%B4%E6%97%B6%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -664,17 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
-        },
-        {
-          "title": "“5年前还是科幻小说里的情节”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C5%E5%B9%B4%E5%89%8D%E8%BF%98%E6%98%AF%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E6%83%85%E8%8A%82%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
         }
       ]
     }
