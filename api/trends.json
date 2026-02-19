@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T16:47:15.992040+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-02-19T17:49:32.628829+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -46,6 +46,17 @@
           "time_info": "[01时05分 ~ 10时14分]"
         },
         {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 17时49分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -55,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时05分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[01时05分 ~ 17时49分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -69,17 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 06时35分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 16时47分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -95,6 +95,21 @@
           "time_info": "[02时57分 ~ 10时14分]"
         },
         {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时13分 ~ 17时49分]"
+        },
+        {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
@@ -104,11 +119,12 @@
             14,
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时05分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[01时05分 ~ 17时49分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -120,25 +136,12 @@
             20,
             23,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时05分 ~ 16时47分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 16时47分]"
+          "appearance_count": 18,
+          "time_info": "[01时05分 ~ 17时49分]"
         },
         {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
@@ -197,11 +200,12 @@
           "ranks": [
             1,
             11,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 17时49分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -279,6 +283,18 @@
           "time_info": "[06时35分 ~ 07时32分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时49分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -350,15 +366,15 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
+          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3056605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "17时49分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -554,7 +570,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
