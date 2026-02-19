@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T10:14:07.815163+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-02-19T12:54:10.568174+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 12时54分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 12时54分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -89,11 +89,12 @@
           "ranks": [
             8,
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 12时54分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -102,22 +103,35 @@
           "ranks": [
             14,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 12时54分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 12时54分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -132,6 +146,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时57分 ~ 06时35分]"
+        },
+        {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -158,6 +183,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时41分]"
+        },
+        {
+          "title": "印度AI峰会大学展示泡沫塑料版无人机",
+          "url": "https://www.toutiao.com/trending/7608301157190156351/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
@@ -266,6 +302,28 @@
           "time_info": "02时57分"
         },
         {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "网易有道LobsterAI宣布开源 打造国产版“OpenClaw”",
+          "url": "https://flash.jin10.com/detail/20260219120208739800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
           "url": "https://flash.jin10.com/detail/20260219000628825800",
           "source": "金十数据",
@@ -330,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
