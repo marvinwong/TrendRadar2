@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T17:43:36.138100+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-02-20T18:39:44.802456+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 18时39分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -82,8 +82,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时56分 ~ 18时39分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -114,11 +114,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 18时39分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月19日",
@@ -131,8 +132,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 18时39分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时39分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -168,17 +181,6 @@
           "time_info": "10时10分"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "巴克莱调查：谷歌今年发债规模料领跑超大规模云服务商",
           "url": "https://wallstreetcn.com/livenews/3056712",
           "source": "华尔街见闻-快讯",
@@ -205,6 +207,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 04时35分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 18时39分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -282,18 +296,6 @@
           "time_info": "[06时34分 ~ 10时10分]"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 17时43分]"
-        },
-        {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
           "url": "https://flash.jin10.com/detail/20260220020324756800",
           "source": "金十数据",
@@ -358,6 +360,42 @@
           "time_info": "[16时42分 ~ 17时43分]"
         },
         {
+          "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3056911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时39分]"
+        },
+        {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时39分]"
+        },
+        {
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://wallstreetcn.com/livenews/3056907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时39分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：推出安卓开发者验证机制以追究不良行为者责任。",
           "url": "https://flash.jin10.com/detail/20260220010501063800",
           "source": "金十数据",
@@ -394,17 +432,6 @@
           "time_info": "[03时40分 ~ 05时35分]"
         },
         {
-          "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
-          "url": "https://wallstreetcn.com/livenews/3056911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
           "url": "https://flash.jin10.com/detail/20260220043316320800",
           "source": "金十数据",
@@ -414,28 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        },
-        {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://wallstreetcn.com/livenews/3056907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
