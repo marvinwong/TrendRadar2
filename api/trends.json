@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T12:48:46.299790+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-02-20T13:56:04.412851+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -54,8 +54,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 12时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 13时56分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -67,8 +67,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 12时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 13时56分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -94,6 +94,18 @@
           "time_info": "[00时56分 ~ 10时10分]"
         },
         {
+          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
+          "url": "https://www.zhihu.com/question/2007991688078045862",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时56分]"
+        },
+        {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
           "url": "https://flash.jin10.com/detail/20260220070738269800",
           "source": "金十数据",
@@ -111,18 +123,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
-          "url": "https://www.zhihu.com/question/2007991688078045862",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -227,6 +228,19 @@
           "time_info": "[06时34分 ~ 10时10分]"
         },
         {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时56分]"
+        },
+        {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
           "url": "https://flash.jin10.com/detail/20260220020324756800",
           "source": "金十数据",
@@ -266,28 +280,28 @@
           "time_info": "[01时52分 ~ 03时40分]"
         },
         {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时48分]"
-        },
-        {
           "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
           "url": "https://wallstreetcn.com/livenews/3056838",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时56分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 13时56分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出安卓开发者验证机制以追究不良行为者责任。",
@@ -343,20 +357,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
+          "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
+          "url": "https://flash.jin10.com/detail/20260220132611953800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "13时56分"
         },
         {
           "title": "港股AI应用股走强",
@@ -365,7 +379,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -387,7 +401,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
