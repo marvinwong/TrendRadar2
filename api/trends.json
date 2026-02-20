@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:40:35.763364+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-02-20T23:40:11.865279+08:00",
+  "total_titles_processed": 1822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -99,8 +99,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时56分 ~ 22时40分]"
+          "appearance_count": 24,
+          "time_info": "[00时56分 ~ 23时40分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -114,8 +114,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时56分 ~ 22时40分]"
+          "appearance_count": 24,
+          "time_info": "[00时56分 ~ 23时40分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -150,8 +150,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 22时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时43分 ~ 23时40分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 23时40分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -163,6 +176,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时34分 ~ 23时40分]"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时34分 ~ 23时40分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -213,17 +250,6 @@
           "time_info": "12时48分"
         },
         {
-          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
           "title": "Gemini3.1 Pro上线",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -244,18 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
-        },
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时40分]"
         },
         {
           "title": "巴克莱调查：谷歌今年发债规模料领跑超大规模云服务商",
@@ -284,6 +298,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 04时35分]"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 23时40分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -335,6 +361,18 @@
           "time_info": "[07时32分 ~ 10时10分]"
         },
         {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时40分]"
+        },
+        {
           "title": "谷歌美股盘前涨超1%，此前发布Gemini 3.1 Pro，核心推理性能直接翻倍。",
           "url": "https://wallstreetcn.com/livenews/3056911",
           "source": "华尔街见闻-快讯",
@@ -373,30 +411,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时34分 ~ 10时10分]"
-        },
-        {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时40分]"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时40分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -464,16 +478,16 @@
           "time_info": "[10时10分 ~ 13时56分]"
         },
         {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            15
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时40分]"
+          "time_info": "[22时40分 ~ 23时40分]"
         },
         {
           "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
@@ -486,6 +500,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时42分 ~ 17时43分]"
+        },
+        {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出安卓开发者验证机制以追究不良行为者责任。",
@@ -574,7 +599,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -585,7 +610,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -607,7 +632,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -621,17 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
