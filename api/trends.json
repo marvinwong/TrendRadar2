@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:28:17.240780+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2026-02-22T02:37:44.429161+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -60,8 +60,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
