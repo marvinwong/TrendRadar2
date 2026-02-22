@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-02-22T10:14:45.729071+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-02-22T12:50:40.578693+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时50分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时50分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -42,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时50分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -52,11 +54,12 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 10时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时50分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -75,44 +78,36 @@
           "url": "https://wallstreetcn.com/livenews/3057217",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时50分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
           "url": "https://wallstreetcn.com/articles/3765938",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
-          "url": "https://wallstreetcn.com/articles/3765927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时50分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时50分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -121,9 +116,42 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时50分]"
+        },
+        {
+          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
+          "url": "https://wallstreetcn.com/articles/3765936",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
+          "url": "https://wallstreetcn.com/articles/3765927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
