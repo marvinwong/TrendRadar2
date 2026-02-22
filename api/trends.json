@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T13:53:31.547328+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-02-22T14:51:32.927765+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 13时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 14时51分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 13时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 14时51分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -41,11 +41,12 @@
             11,
             9,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 13时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 14时51分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -58,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 13时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 14时51分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -74,6 +75,19 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 14时51分]"
+        },
+        {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
           "url": "https://wallstreetcn.com/articles/3765938",
           "source": "华尔街见闻",
@@ -83,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 14时51分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -93,11 +107,12 @@
           "ranks": [
             6,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 14时51分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -109,8 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 14时51分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -121,31 +136,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时53分]"
-        },
-        {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 14时51分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
           "url": "https://wallstreetcn.com/articles/3765936",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 14时51分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -157,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
+          "url": "https://www.zhihu.com/question/2003060035803116831",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
