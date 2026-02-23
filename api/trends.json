@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:50:24.528646+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-02-23T23:49:05.479223+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时11分 ~ 22时50分]"
+          "appearance_count": 13,
+          "time_info": "[14时11分 ~ 23时49分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -79,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时56分 ~ 22时50分]"
+          "appearance_count": 12,
+          "time_info": "[15时56分 ~ 23时49分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -93,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 22时50分]"
+          "appearance_count": 30,
+          "time_info": "[00时32分 ~ 23时49分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -171,11 +172,26 @@
           "source": "知乎",
           "ranks": [
             12,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 22时50分]"
+          "appearance_count": 5,
+          "time_info": "[21时15分 ~ 23时49分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时41分 ~ 23时49分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -188,19 +204,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时56分 ~ 17时57分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时50分]"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -255,7 +258,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
