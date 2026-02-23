@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T16:54:11.056627+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-02-23T17:57:38.671608+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 16时54分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 17时57分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -78,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 16时54分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 17时57分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -100,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 16时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时57分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -138,11 +138,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 17时57分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -150,22 +151,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时57分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
           "url": "https://www.zhihu.com/question/2008217541886043272",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时57分]"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
