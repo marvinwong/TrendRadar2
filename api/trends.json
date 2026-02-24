@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:11:46.643301+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-02-24T23:57:43.463750+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 21时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时12分 ~ 23时57分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 21时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时12分 ~ 23时57分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -244,6 +244,28 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
+          "url": "https://wallstreetcn.com/livenews/3058228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：Claude已通过亚马逊云服务(AWS)的Amazon Bedrock在东南亚地区上线可用。",
+          "url": "https://flash.jin10.com/detail/20260224234604628800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术",
           "url": "https://wallstreetcn.com/livenews/3057929",
           "source": "华尔街见闻-快讯",
@@ -261,7 +283,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -277,6 +299,39 @@
           "time_info": "07时36分"
         },
         {
+          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3058226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
+          "url": "https://wallstreetcn.com/livenews/3058225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
           "url": "https://wallstreetcn.com/livenews/3058012",
           "source": "华尔街见闻-快讯",
@@ -287,6 +342,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时52分 ~ 17时55分]"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 23时57分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -337,6 +404,19 @@
           "time_info": "[04时52分 ~ 05时47分]"
         },
         {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时57分]"
+        },
+        {
           "title": "中方回应美称DeepSeek违反出口管制",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
           "source": "百度热搜",
@@ -349,17 +429,6 @@
           "time_info": "[17时55分 ~ 19时44分]"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 21时11分]"
-        },
-        {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
           "url": "https://www.cls.cn/detail/2292944",
           "source": "财联社热门",
@@ -370,18 +439,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 14时01分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 21时11分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -406,6 +463,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时52分 ~ 17时55分]"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时57分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -443,13 +512,35 @@
           "time_info": "[15时13分 ~ 15时14分]"
         },
         {
+          "title": "普华永道（PwC）与Anthropic围绕企业AI插件构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：亚马逊云服务(AWS)在阿联酋、巴林推出Claude跨区域推理服务。",
+          "url": "https://flash.jin10.com/detail/20260224233930640800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
           "url": "https://wallstreetcn.com/livenews/3058124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -460,7 +551,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -553,6 +644,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
           "url": "https://wallstreetcn.com/livenews/3057601",
           "source": "华尔街见闻-快讯",
@@ -562,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "Anthropic：客户可以为Claude定制插件。 在Claude推出五款新的自研插件。 （用户）现在可以获得由合作伙伴开发的插件。",
+          "url": "https://wallstreetcn.com/livenews/3058207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -606,17 +719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
         }
       ]
     }
