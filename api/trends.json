@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T22:49:52.191348+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2026-02-26T23:55:30.033330+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 67,
+      "match_count": 73,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时51分 ~ 22时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时51分 ~ 23时55分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -54,11 +54,12 @@
             6,
             2,
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时51分 ~ 22时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时51分 ~ 23时55分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -126,6 +127,18 @@
           "time_info": "[07时30分 ~ 15时12分]"
         },
         {
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时55分]"
+        },
+        {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
@@ -136,6 +149,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 10时09分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时52分 ~ 23时55分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -151,18 +178,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时51分 ~ 19时41分]"
-        },
-        {
-          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
-          "url": "https://www.cls.cn/detail/2296230",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时49分]"
         },
         {
           "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
@@ -186,19 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 22时49分]"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -229,7 +231,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -243,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
@@ -341,6 +354,18 @@
           "time_info": "[12时51分 ~ 15时12分]"
         },
         {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
           "title": "中国AI调用量首次超过美国",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -401,6 +426,18 @@
           "time_info": "[12时52分 ~ 13时59分]"
         },
         {
+          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
+          "url": "https://wallstreetcn.com/livenews/3059624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时55分]"
+        },
+        {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
           "url": "https://wallstreetcn.com/livenews/3059014",
           "source": "华尔街见闻-快讯",
@@ -454,18 +491,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "OpenAI：ChatGPT目前发生故障。",
-          "url": "https://wallstreetcn.com/livenews/3059629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -476,7 +502,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -536,6 +562,17 @@
           "time_info": "18时49分"
         },
         {
+          "title": "Ithina组建全球人工智能（AI）操作平台。",
+          "url": "https://wallstreetcn.com/livenews/3059658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。Thrive将其新基金中的约10亿美元投资于OpenAI。",
           "url": "https://flash.jin10.com/detail/20260226010942985800",
           "source": "金十数据",
@@ -558,15 +595,15 @@
           "time_info": "10时09分"
         },
         {
-          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
-          "url": "https://wallstreetcn.com/livenews/3059624",
-          "source": "华尔街见闻-快讯",
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "23时55分"
         },
         {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
@@ -578,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
+          "url": "https://wallstreetcn.com/livenews/3059656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "Anthropic：收购Vercept，以推进Claude的计算机使用能力。Vercept将于未来几周内停止其对外提供的产品，并加入Anthropic，共同推动计算机应用的前沿发展。",
@@ -641,7 +689,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -677,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "据CNBC：挪威银行投资管理公司（NBIM）正使用Claude人工智能模型来筛查道德问题。",
+          "url": "https://flash.jin10.com/detail/20260226231202623800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
@@ -776,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "英伟达业绩未能消除AI担忧，美股开盘走低",
+          "url": "https://flash.jin10.com/detail/20260226225900057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "马年春节聊金子和AI的多了",
