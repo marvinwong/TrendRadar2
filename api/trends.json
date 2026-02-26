@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:59:04.551080+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-02-26T15:12:19.860837+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -65,8 +65,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 13时59分]"
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 15时12分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时12分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -77,8 +90,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 15时12分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时09分 ~ 13时59分]"
+          "time_info": "[12时51分 ~ 15时12分]"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时12分]"
         },
         {
           "title": "AI短片 马上好",
@@ -91,30 +128,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 10时09分]"
-        },
-        {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 13时59分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 13时59分]"
         },
         {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -172,15 +185,17 @@
           "time_info": "00时05分"
         },
         {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            16,
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时12分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -232,16 +247,15 @@
           "time_info": "[05时37分 ~ 06时36分]"
         },
         {
-          "title": "AI圈爆火的FARS是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
           "ranks": [
-            16,
-            30
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时12分]"
         },
         {
           "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
@@ -314,17 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时37分]"
-        },
-        {
-          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
-          "url": "https://www.zhihu.com/question/2009656278029456894",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "OpenAI聘请Meta公司的AI研究员庞若鸣，他曾领导苹果的模型团队。",
@@ -415,6 +418,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "亚马逊对OpenAI的500亿美元投资可能取决于其首次公开募股和通用人工智能情况。",
           "url": "https://flash.jin10.com/detail/20260226095357061800",
           "source": "金十数据",
@@ -424,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "Lightspeed的联合创始人称 2026年将成为AI从演示走向大规模部署之年",
+          "url": "https://wallstreetcn.com/livenews/3059339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
@@ -481,6 +506,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "戴尔发布适用于Cloud RAN与边缘AI的户外服务器，是首款液冷户外服务器",
           "url": "https://wallstreetcn.com/livenews/3058942",
           "source": "华尔街见闻-快讯",
@@ -490,12 +526,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "马年春节聊金子和AI的多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82%E8%81%8A%E9%87%91%E5%AD%90%E5%92%8CAI%E7%9A%84%E5%A4%9A%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
     {
       "keyword_group": "图书 书籍 小说",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "放过小说妹",
@@ -533,6 +591,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "小说妹苦了一年又一年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%B4%E5%A6%B9%E8%8B%A6%E4%BA%86%E4%B8%80%E5%B9%B4%E5%8F%88%E4%B8%80%E5%B9%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     }
