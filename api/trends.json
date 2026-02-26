@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T05:34:54.715770+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-02-27T06:35:51.610104+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时35分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时35分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -40,30 +40,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时35分]"
         },
         {
-          "title": "押注AI提升公司效率 Block拟裁员近半",
-          "url": "https://flash.jin10.com/detail/20260227052226230800",
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
-          "url": "https://wallstreetcn.com/livenews/3059768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时35分"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -73,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时35分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -86,8 +75,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时35分]"
+        },
+        {
+          "title": "押注AI提升公司效率 Block拟裁员近半",
+          "url": "https://flash.jin10.com/detail/20260227052226230800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
+          "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
+          "url": "https://wallstreetcn.com/livenews/3059768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
         },
         {
           "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
@@ -102,6 +115,18 @@
           "time_info": "[01时01分 ~ 02时01分]"
         },
         {
+          "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3059767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
+        },
+        {
           "title": "Meta持续投资AI，用于监测Cloaking。",
           "url": "https://wallstreetcn.com/livenews/3059700",
           "source": "华尔街见闻-快讯",
@@ -112,6 +137,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时06分]"
+        },
+        {
+          "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
+          "url": "https://wallstreetcn.com/livenews/3059758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时35分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -162,17 +199,6 @@
           "time_info": "[01时01分 ~ 02时01分]"
         },
         {
-          "title": "扎克伯格旗下Meta Platforms Inc.在设计自研/内部芯片方面遇到瓶颈。 该公司报废了最先进的AI训练芯片，转而侧重于不那么复杂的芯片版本。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3059767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
           "title": "科技巨头2万亿美元豪赌AI",
           "url": "https://www.toutiao.com/trending/7611122303522311734/",
           "source": "今日头条",
@@ -184,15 +210,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
-          "url": "https://wallstreetcn.com/livenews/3059758",
+          "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时35分"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -201,9 +227,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
+          "url": "https://wallstreetcn.com/livenews/3059781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
@@ -212,9 +249,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3059779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
