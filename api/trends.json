@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:43:22.163479+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-02-27T18:40:05.396211+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 17时43分]"
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 18时40分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -56,6 +56,34 @@
           "time_info": "[01时01分 ~ 06时35分]"
         },
         {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 18时40分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时08分 ~ 18时40分]"
+        },
+        {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3766259",
           "source": "华尔街见闻",
@@ -78,11 +106,12 @@
             17,
             21,
             15,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 17时43分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 18时40分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -98,35 +127,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 17时43分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 18时40分]"
         },
         {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时08分 ~ 17时43分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时46分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 18时40分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -139,17 +152,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时08分 ~ 16时42分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时43分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -201,6 +203,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
+          "url": "https://wallstreetcn.com/livenews/3060228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
           "url": "https://www.cls.cn/detail/2296526",
           "source": "财联社热门",
@@ -211,6 +224,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时08分 ~ 14时57分]"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 18时40分]"
         },
         {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
@@ -316,6 +343,19 @@
           "time_info": "[16时42分 ~ 17时43分]"
         },
         {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 18时40分]"
+        },
+        {
           "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
           "url": "https://wallstreetcn.com/livenews/3059768",
           "source": "华尔街见闻-快讯",
@@ -326,20 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 17时43分]"
         },
         {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
@@ -400,18 +426,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时35分]"
-        },
-        {
-          "title": "融资额大增130% AI制药能否照进现实",
-          "url": "https://www.cls.cn/detail/2296887",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时43分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -536,7 +550,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -569,7 +583,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -756,7 +770,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
