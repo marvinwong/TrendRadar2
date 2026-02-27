@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:34:28.112787+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-02-27T21:02:39.699808+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时08分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[10时08分 ~ 21时02分]"
         },
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -43,6 +43,17 @@
           "time_info": "[01时01分 ~ 07时32分]"
         },
         {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时50分 ~ 21时02分]"
+        },
+        {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
           "url": "https://wallstreetcn.com/articles/3766225",
           "source": "华尔街见闻",
@@ -56,17 +67,6 @@
           "time_info": "[01时01分 ~ 06时35分]"
         },
         {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 19时34分]"
-        },
-        {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
           "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 21时02分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -91,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时08分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[10时08分 ~ 21时02分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -118,11 +118,12 @@
             21,
             15,
             20,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时01分 ~ 19时34分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 21时02分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -135,11 +136,12 @@
             19,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时32分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 21时02分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
