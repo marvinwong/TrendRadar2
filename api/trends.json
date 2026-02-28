@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:38:15.616959+08:00",
-  "total_titles_processed": 1983,
+  "generated_at": "2026-02-28T22:24:26.332219+08:00",
+  "total_titles_processed": 2058,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时28分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[15时28分 ~ 22时24分]"
         },
         {
           "title": "外媒爆料：美军想用AI攻击中国电网",
@@ -94,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时31分 ~ 21时38分]"
+          "appearance_count": 21,
+          "time_info": "[05时31分 ~ 22时24分]"
         },
         {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
@@ -166,11 +166,12 @@
             16,
             17,
             28,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时40分 ~ 21时38分]"
+          "appearance_count": 13,
+          "time_info": "[14时40分 ~ 22时24分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -219,11 +220,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 22时24分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -288,6 +290,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时29分]"
+        },
+        {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 22时24分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -367,18 +381,6 @@
           "time_info": "[04时29分 ~ 07时27分]"
         },
         {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时38分]"
-        },
-        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -426,6 +428,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时49分 ~ 21时38分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
@@ -522,17 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时01分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "deepseek崩了",
