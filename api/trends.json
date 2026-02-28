@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:24:26.332219+08:00",
-  "total_titles_processed": 2058,
+  "generated_at": "2026-02-28T23:24:36.171604+08:00",
+  "total_titles_processed": 2145,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时28分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时28分 ~ 23时24分]"
         },
         {
           "title": "外媒爆料：美军想用AI攻击中国电网",
@@ -170,8 +170,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时40分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[14时40分 ~ 23时24分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -221,11 +221,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时24分]"
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时24分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -265,6 +266,19 @@
           "time_info": "[12时01分 ~ 13时41分]"
         },
         {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时24分]"
+        },
+        {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
           "url": "https://wallstreetcn.com/livenews/3060590",
           "source": "华尔街见闻-快讯",
@@ -290,18 +304,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 04时29分]"
-        },
-        {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时24分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -368,6 +370,19 @@
           "time_info": "[09时58分 ~ 13时41分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时24分]"
+        },
+        {
           "title": "中国AI调用量超越美国",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -428,18 +443,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时49分 ~ 21时38分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
