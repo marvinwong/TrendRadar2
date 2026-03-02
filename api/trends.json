@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T19:33:43.605710+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2026-03-02T21:02:23.880097+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -37,19 +37,6 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时33分]"
-        },
-        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -59,8 +46,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时33分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 21时02分]"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 21时02分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -68,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 21时02分]"
         },
         {
           "title": "演员逼真到根本看不出来是AI",
@@ -84,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "Claude遭遇大规模服务中断 全球数千名用户受影响",
+          "url": "https://flash.jin10.com/detail/20260302203453203800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "如何评价哈梅内伊遇害后，《深度揭秘 Claude 和 Palantir 是如何杀死哈梅内伊的》一文爆火？",
@@ -118,8 +131,32 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 21时02分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 21时02分]"
+        },
+        {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时33分]"
+          "time_info": "[18时44分 ~ 21时02分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -134,17 +171,6 @@
           "time_info": "[16时48分 ~ 17时53分]"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时33分]"
-        },
-        {
           "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
           "url": "https://www.cls.cn/detail/2298837",
           "source": "财联社热门",
@@ -154,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
+        },
+        {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时02分]"
         },
         {
           "title": "AI技术会如何改变现代战争形态",
@@ -167,26 +204,26 @@
           "time_info": "[12时49分 ~ 12时50分]"
         },
         {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
+          "title": "市场消息：Anthropic正在调查Claude AI故障率较高的现象。",
+          "url": "https://flash.jin10.com/detail/20260302202408817800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "21时02分"
         },
         {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
+          "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061901",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "21时02分"
         },
         {
           "title": "思特威发出涨价函：3月1日起对智慧安防和AIOT产品涨价10%至20%",
@@ -220,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "衡水中学AI监测系统",
+          "url": "https://s.weibo.com/weibo?q=%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6AI%E7%9B%91%E6%B5%8B%E7%B3%BB%E7%BB%9F&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
@@ -272,7 +320,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
