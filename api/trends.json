@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T22:43:15.413782+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2026-03-02T23:43:31.595203+08:00",
+  "total_titles_processed": 2071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时43分]"
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时43分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -31,8 +32,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时48分 ~ 22时43分]"
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 23时43分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
+          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 23时43分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -64,19 +78,6 @@
           "time_info": "[00时31分 ~ 07时26分]"
         },
         {
-          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
-          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时48分 ~ 22时43分]"
-        },
-        {
           "title": "千问AI眼镜开启预约",
           "url": "https://www.toutiao.com/trending/7612431152581967913/",
           "source": "今日头条",
@@ -86,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 22时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 23时43分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -99,8 +100,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时43分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时43分]"
+        },
+        {
+          "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
+          "url": "https://wallstreetcn.com/livenews/3062029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "演员逼真到根本看不出来是AI",
@@ -150,6 +162,18 @@
           "time_info": "[04时30分 ~ 07时26分]"
         },
         {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 23时43分]"
+        },
+        {
           "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
           "url": "https://www.zhihu.com/question/2011022777268856579",
           "source": "知乎",
@@ -159,18 +183,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时53分 ~ 21时02分]"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时43分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -229,6 +241,17 @@
           "time_info": "21时02分"
         },
         {
+          "title": "Anthropic：Claude问题得到确认，正在处置。",
+          "url": "https://wallstreetcn.com/livenews/3062017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "思特威发出涨价函：3月1日起对智慧安防和AIOT产品涨价10%至20%",
           "url": "https://wallstreetcn.com/livenews/3061497",
           "source": "华尔街见闻-快讯",
@@ -268,7 +291,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -345,7 +368,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         }
