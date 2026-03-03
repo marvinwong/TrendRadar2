@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:43:43.467600+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-03-03T18:41:45.538134+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
@@ -99,22 +99,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 17时43分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 18时41分]"
         },
         {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
@@ -126,8 +116,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时13分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时13分 ~ 18时41分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时47分]"
         },
         {
           "title": "华为首次在海外展出全液冷AI超节点",
@@ -228,6 +229,18 @@
           "time_info": "[12时48分 ~ 14时55分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时41分]"
+        },
+        {
           "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
           "url": "https://www.cls.cn/detail/2300191",
           "source": "财联社热门",
@@ -273,18 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时52分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时43分]"
         },
         {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
