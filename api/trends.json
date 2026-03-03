@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-04T01:44:55.590636+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-04T02:57:27.623795+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时57分]"
+        },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
           "url": "https://wallstreetcn.com/livenews/3062933",
@@ -14,42 +26,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时44分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
           "url": "https://www.cls.cn/detail/2301784",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时44分]"
-        },
-        {
-          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
-          "url": "https://wallstreetcn.com/livenews/3062921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时57分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -58,9 +49,53 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时57分]"
+        },
+        {
+          "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
+          "url": "https://wallstreetcn.com/livenews/3062921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "Claude Code核心工程师：本周Claude和Claude Code流量有前所未有的增长。",
+          "url": "https://flash.jin10.com/detail/20260304024214274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
+          "url": "https://wallstreetcn.com/livenews/3062952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3062945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
@@ -80,7 +115,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
