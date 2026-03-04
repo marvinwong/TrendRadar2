@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:39:03.507590+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-03-04T19:32:18.584212+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 19时32分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -57,8 +57,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 19时32分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -89,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时45分 ~ 18时39分]"
+          "appearance_count": 9,
+          "time_info": "[13时45分 ~ 19时32分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -116,6 +116,19 @@
           "time_info": "01时44分"
         },
         {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时32分]"
+        },
+        {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
           "url": "https://wallstreetcn.com/livenews/3063046",
           "source": "华尔街见闻-快讯",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 14时52分]"
-        },
-        {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时39分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -174,6 +175,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时29分 ~ 12时42分]"
+        },
+        {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时32分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -269,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
