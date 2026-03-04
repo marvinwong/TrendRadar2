@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T22:02:33.152476+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2026-03-04T23:43:15.606404+08:00",
+  "total_titles_processed": 2110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -38,11 +38,12 @@
             10,
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[13时45分 ~ 23时43分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -73,8 +74,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时41分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[12时41分 ~ 23时43分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -93,6 +94,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时44分 ~ 17时42分]"
+        },
+        {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时38分 ~ 23时43分]"
         },
         {
           "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
@@ -119,19 +133,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时36分 ~ 10时07分]"
-        },
-        {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 22时02分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -168,6 +169,17 @@
           "time_info": "[13时45分 ~ 14时52分]"
         },
         {
+          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
+          "url": "https://www.zhihu.com/question/2011731606025499798",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时43分]"
+        },
+        {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
           "url": "https://wallstreetcn.com/livenews/3062991",
           "source": "华尔街见闻-快讯",
@@ -193,6 +205,17 @@
           "time_info": "[07时29分 ~ 12时42分]"
         },
         {
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时43分]"
+        },
+        {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2012296941925581663",
           "source": "知乎",
@@ -204,15 +227,15 @@
           "time_info": "[12时41分 ~ 13时45分]"
         },
         {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时02分]"
+          "time_info": "[22时02分 ~ 23时43分]"
         },
         {
           "title": "岳雨婷缺席balmain看秀",
@@ -299,15 +322,15 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
+          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
+          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "source": "知乎",
           "ranks": [
-            8
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
@@ -330,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
-          "url": "https://www.cls.cn/detail/2302628",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
@@ -374,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "OpenAI的下一款AI模型将具备“极其强大的”推理。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "6个AI合伙开发搞玩具",
