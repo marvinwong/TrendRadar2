@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T17:42:37.213240+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-03-04T18:39:03.507590+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时41分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 18时39分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -45,6 +45,22 @@
           "time_info": "[00时52分 ~ 15时39分]"
         },
         {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            10,
+            8,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 18时39分]"
+        },
+        {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
           "source": "澎湃新闻",
@@ -63,19 +79,18 @@
           "time_info": "[01时44分 ~ 17时42分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            13,
             10,
-            8,
-            19
+            11,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时41分 ~ 17时42分]"
+          "time_info": "[13时45分 ~ 18时39分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -88,19 +103,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时36分 ~ 10时07分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 17时42分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -135,6 +137,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 14时52分]"
+        },
+        {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时39分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -221,17 +235,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时42分]"
-        },
-        {
           "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
           "url": "https://flash.jin10.com/detail/20260304060002223800",
           "source": "金十数据",
@@ -266,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
