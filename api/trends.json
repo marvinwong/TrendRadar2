@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T17:44:44.866987+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-03-05T18:40:52.385291+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -74,11 +74,12 @@
             22,
             28,
             30,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时47分 ~ 17时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时47分 ~ 18时40分]"
         },
         {
           "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
@@ -105,6 +106,20 @@
           "time_info": "[00时47分 ~ 07时32分]"
         },
         {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            18,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 18时40分]"
+        },
+        {
           "title": "代表：所有的工种都不会被AI取代",
           "url": "https://www.toutiao.com/trending/7613364759950131236/",
           "source": "今日头条",
@@ -114,19 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 05时37分]"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 17时44分]"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -243,8 +245,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时40分]"
         },
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -283,6 +285,18 @@
           "time_info": "[12时46分 ~ 14时55分]"
         },
         {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时40分]"
+        },
+        {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
           "url": "https://flash.jin10.com/detail/20260305053239942800",
           "source": "金十数据",
@@ -304,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时54分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "北约拟在7月峰会上推动军费转向AI与无人机技术投资",
@@ -425,17 +450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
