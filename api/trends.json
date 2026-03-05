@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:50:52.979040+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-03-05T14:55:41.559117+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
             11,
             9,
             23,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 13时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 14时55分]"
         },
         {
           "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
@@ -239,8 +240,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时55分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -250,8 +251,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时55分]"
+        },
+        {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时55分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -277,25 +290,13 @@
           "time_info": "[01时41分 ~ 02时54分]"
         },
         {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时50分]"
-        },
-        {
           "title": "北约拟在7月峰会上推动军费转向AI与无人机技术投资",
           "url": "https://flash.jin10.com/detail/20260305133945841800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -339,7 +340,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
