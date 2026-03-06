@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:32:09.544549+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-07T06:31:26.505555+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -65,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,19 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
-        },
-        {
-          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2013292943084058316",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -96,7 +85,19 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -140,6 +141,17 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
+          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
+          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时31分]"
+        },
+        {
           "title": "AI短剧霍去病持续刷屏",
           "url": "https://www.douyin.com/hot/2421579",
           "source": "抖音",
@@ -164,17 +176,6 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时32分]"
-        },
-        {
           "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
           "url": "https://wallstreetcn.com/livenews/3065426",
           "source": "华尔街见闻-快讯",
@@ -193,7 +194,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
