@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T06:31:26.505555+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-07T07:29:40.013991+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -62,11 +62,12 @@
             7,
             14,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -86,11 +87,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -129,6 +131,17 @@
           "time_info": "[02时49分 ~ 03时35分]"
         },
         {
+          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
+          "url": "https://flash.jin10.com/detail/20260307034037320800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时35分 ~ 07时29分]"
+        },
+        {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
           "url": "https://wallstreetcn.com/articles/3766836",
           "source": "华尔街见闻",
@@ -139,17 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 01时37分]"
-        },
-        {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 06时31分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -186,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时35分]"
+        },
+        {
+          "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
+          "url": "https://www.zhihu.com/question/1992302419741266883",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
