@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T02:49:54.705470+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-07T03:35:54.125643+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -39,30 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
-        },
-        {
-          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
-          "url": "https://wallstreetcn.com/livenews/3065420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "谷歌：Anthropic在国防工作之外仍然可用。",
-          "url": "https://flash.jin10.com/detail/20260307023959999800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -72,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -81,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -95,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -106,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -117,8 +96,32 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 03时35分]"
+        },
+        {
+          "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
+          "url": "https://wallstreetcn.com/livenews/3065420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时35分]"
+        },
+        {
+          "title": "谷歌：Anthropic在国防工作之外仍然可用。",
+          "url": "https://flash.jin10.com/detail/20260307023959999800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 03时35分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -155,6 +158,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 01时37分]"
+        },
+        {
+          "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
+          "url": "https://wallstreetcn.com/livenews/3065426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
