@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T15:40:02.023513+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-06T16:40:41.981376+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -34,6 +34,19 @@
           "time_info": "[02时06分 ~ 13时47分]"
         },
         {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 16时40分]"
+        },
+        {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
@@ -49,19 +62,6 @@
           "time_info": "[02时06分 ~ 10时09分]"
         },
         {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 15时40分]"
-        },
-        {
           "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
           "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
           "source": "凤凰网",
@@ -71,6 +71,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时06分 ~ 07时53分]"
+        },
+        {
+          "title": "全国首例AI幻觉侵权纠纷案判了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "OpenAI发布GPT-5.4",
@@ -131,6 +153,19 @@
           "time_info": "[06时34分 ~ 07时53分]"
         },
         {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 16时40分]"
+        },
+        {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
           "url": "https://wallstreetcn.com/livenews/3064643",
           "source": "华尔街见闻-快讯",
@@ -144,16 +179,15 @@
           "time_info": "[03时53分 ~ 05时37分]"
         },
         {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 15时40分]"
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时40分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -204,6 +238,17 @@
           "time_info": "[03时53分 ~ 04时39分]"
         },
         {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时40分]"
+        },
+        {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
           "url": "https://flash.jin10.com/detail/20260306050651902800",
           "source": "金十数据",
@@ -237,17 +282,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "AI相关产业规模将超10万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
           "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3064859",
           "source": "华尔街见闻-快讯",
@@ -257,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
@@ -303,6 +348,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "天猫一场直播汇集百款AI新品",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%B1%87%E9%9B%86%E7%99%BE%E6%AC%BEAI%E6%96%B0%E5%93%81%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
           "url": "https://www.zhihu.com/question/2012928663889338822",
           "source": "知乎",
@@ -312,17 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
         },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
