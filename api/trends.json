@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T06:26:19.608674+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-03-09T07:27:11.996109+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -59,11 +59,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -73,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "AI对老师的影响",
@@ -86,11 +87,12 @@
             26,
             20,
             14,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时27分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -114,6 +116,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时25分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时27分]"
         },
         {
           "title": "王一博Mai合影",
