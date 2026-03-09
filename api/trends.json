@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T17:54:05.301366+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-03-09T18:48:03.337188+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -56,6 +56,20 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时31分 ~ 17时54分]"
+        },
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 18时48分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -112,19 +126,6 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 17时54分]"
-        },
-        {
           "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
           "url": "https://www.cls.cn/detail/2306605",
           "source": "财联社热门",
@@ -168,6 +169,17 @@
           "time_info": "[13时59分 ~ 16时48分]"
         },
         {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%A5AI%E6%8D%A2%E8%84%B8Kpop%E6%AD%8C%E6%89%8B%E4%B8%80%E5%A4%9C%E7%88%86%E7%BA%A2&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -178,6 +190,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时59分 ~ 15时14分]"
+        },
+        {
+          "title": "AI龙虾爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 18时48分]"
+        },
+        {
+          "title": "AI焦虑症",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 18时48分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -203,26 +238,15 @@
           "time_info": "[00时31分 ~ 03时25分]"
         },
         {
-          "title": "AI龙虾爆火,市民排长龙抢装",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
-          "source": "贴吧",
+          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
+          "url": "https://www.zhihu.com/question/2013698168039166947",
+          "source": "知乎",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
-        },
-        {
-          "title": "AI焦虑症",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
+          "time_info": "[18时47分 ~ 18时48分]"
         },
         {
           "title": "Qwen管理调整出炉：周靖人代管千问模型一号位，刘大一恒管理更多团队",
@@ -231,7 +255,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -282,8 +306,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 17时54分]"
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 18时48分]"
         }
       ]
     }
