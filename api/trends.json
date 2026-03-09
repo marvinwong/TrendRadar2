@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T15:14:02.765106+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-03-09T16:48:06.488016+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 15时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 16时48分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -118,11 +119,52 @@
             23,
             25,
             26,
-            28
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 16时48分]"
+        },
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时26分 ~ 15时14分]"
+          "time_info": "[12时53分 ~ 16时48分]"
+        },
+        {
+          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时48分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 16时48分]"
         },
         {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
@@ -149,31 +191,6 @@
           "time_info": "[04时29分 ~ 05时25分]"
         },
         {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 15时14分]"
-        },
-        {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 15时14分]"
-        },
-        {
           "title": "AI “养龙虾”火了！上市公司扎堆回应",
           "url": "https://wallstreetcn.com/livenews/3065866",
           "source": "华尔街见闻-快讯",
@@ -183,18 +200,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时25分]"
-        },
-        {
-          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时14分]"
         },
         {
           "title": "AI“龙虾”爆火 湾区上门一次收4万",
@@ -243,8 +248,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 16时48分]"
         }
       ]
     }
