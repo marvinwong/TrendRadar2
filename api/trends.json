@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:31:33.352397+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-03-10T07:31:09.520049+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 07时31分]"
+        },
+        {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时31分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 07时31分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -39,11 +41,12 @@
             2,
             3,
             10,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 07时31分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -71,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 07时31分]"
         },
         {
           "title": "高中生评测M4 iPad Air",
