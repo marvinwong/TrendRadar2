@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:31:09.520049+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-03-10T10:06:01.453108+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 10时06分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -42,11 +42,12 @@
             3,
             10,
             13,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 10时06分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时00分 ~ 07时31分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "高中生评测M4 iPad Air",
@@ -137,6 +149,17 @@
           "time_info": "[05时35分 ~ 06时31分]"
         },
         {
+          "title": "美国国防部官员：与Anthropic重启AI合作谈判希望渺茫",
+          "url": "https://flash.jin10.com/detail/20260310094306993800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -146,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "港股AI应用股走强，智谱涨近13%、金山云涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3066882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -168,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "靳东呼吁针对AI换脸立法",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%B8%9C%E5%91%BC%E5%90%81%E9%92%88%E5%AF%B9AI%E6%8D%A2%E8%84%B8%E7%AB%8B%E6%B3%95%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
