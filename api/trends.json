@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T01:51:24.200462+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-03-12T02:56:56.133641+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时56分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时56分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -40,8 +40,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时56分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时56分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -52,20 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时56分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -75,8 +76,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时56分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
