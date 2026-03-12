@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:33:24.113539+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-03-12T21:03:30.532161+08:00",
+  "total_titles_processed": 1829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 07时28分]"
+        },
+        {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 21时03分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -59,11 +73,12 @@
             23,
             26,
             28,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 19时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 21时03分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -104,19 +119,6 @@
           "time_info": "[12时48分 ~ 17时44分]"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 19时33分]"
-        },
-        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -126,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 21时03分]"
         },
         {
           "title": "Anthropic正与黑石及其他私募股权公司商谈，拟组建一家AI咨询合资企业。（The Information）",
@@ -237,6 +239,17 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时03分]"
+        },
+        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -254,18 +267,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -276,9 +278,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
@@ -301,6 +314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "如何评价 openrouter 上疑似 deepseek V4 的匿名模型 Hunter Alpha ？",
+          "url": "https://www.zhihu.com/question/2015404541256959842",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "AI时代计算机专业还能报吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E6%8A%A5%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
@@ -397,7 +432,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
