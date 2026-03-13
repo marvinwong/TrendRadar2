@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T14:56:39.041069+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-03-13T15:47:57.558500+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 15时47分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -71,8 +71,31 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 15时47分]"
+        },
+        {
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时47分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时50分 ~ 15时47分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -84,29 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时56分]"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -273,6 +273,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
           "url": "https://flash.jin10.com/detail/20260313023234906800",
           "source": "金十数据",
@@ -290,9 +301,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "不想看AI演戏",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -306,6 +328,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "戴尔科技CEO Michael Dell：（回应Anthropic与五角大楼的纠纷）企业无法影响（美国）政府如何使用（AI）工具。 企业（向美国政府）提出工具使用方式要求这种做法不可行。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3069024",
           "source": "华尔街见闻-快讯",
@@ -315,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
+          "url": "https://wallstreetcn.com/livenews/3069485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
