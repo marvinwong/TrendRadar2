@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T06:30:35.250865+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-03-14T07:31:41.051517+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时31分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时31分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -42,8 +42,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 07时31分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -54,11 +54,12 @@
             28,
             16,
             23,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时31分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时30分]"
+        },
+        {
+          "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
+          "url": "https://wallstreetcn.com/livenews/3070039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
