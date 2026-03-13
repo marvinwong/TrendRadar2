@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:43:54.995212+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-03-13T18:39:29.643801+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时09分 ~ 16时42分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            16,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时09分 ~ 18时39分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -47,20 +61,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时09分]"
-        },
-        {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            16,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时09分 ~ 17时43分]"
         },
         {
           "title": "未来乡村会比AI生成的还漂亮",
@@ -105,11 +105,12 @@
           "ranks": [
             20,
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 18时39分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -202,8 +203,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 18时39分]"
         },
         {
           "title": "中腰部演员将被AI替代",
@@ -371,7 +372,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
