@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T22:43:21.713966+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2026-03-13T23:44:17.631171+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "naiyou单曲无关风月",
@@ -17,11 +17,12 @@
             18,
             14,
             30,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时09分 ~ 22时43分]"
+          "appearance_count": 12,
+          "time_info": "[10时09分 ~ 23时44分]"
         },
         {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
@@ -126,15 +127,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "DeepSeek V4 为什么还不发布？",
-          "url": "https://www.zhihu.com/question/2014783631814580088",
-          "source": "知乎",
+          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3069912",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时44分"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -197,6 +198,18 @@
           "time_info": "[06时29分 ~ 07时30分]"
         },
         {
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时44分]"
+        },
+        {
           "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
           "url": "https://wallstreetcn.com/livenews/3069178",
           "source": "华尔街见闻-快讯",
@@ -220,6 +233,19 @@
           "time_info": "[15时47分 ~ 18时39分]"
         },
         {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时44分]"
+        },
+        {
           "title": "中腰部演员将被AI替代",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -230,18 +256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时50分 ~ 14时56分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时43分]"
         },
         {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
@@ -356,6 +370,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "爱奇艺龚宇：AI科技创新带来影视行业的春天",
+          "url": "https://wallstreetcn.com/livenews/3069898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "市场消息：亚马逊将使用人工智能公司Cerebras的巨型芯片来帮助运行AI模型。",
+          "url": "https://flash.jin10.com/detail/20260313230351040800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
