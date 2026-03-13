@@ -1,474 +1,66 @@
 {
-  "generated_at": "2026-03-13T23:44:17.631171+08:00",
-  "total_titles_processed": 2046,
+  "generated_at": "2026-03-14T00:42:31.157106+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 39,
+      "match_count": 5,
       "titles": [
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
-            4,
-            16,
-            18,
-            14,
-            30,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 23时44分]"
-        },
-        {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 16时42分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时09分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            26,
-            29,
-            16,
-            15,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时09分]"
-        },
-        {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时47分 ~ 22时43分]"
-        },
-        {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 17时43分]"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 16时42分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时09分]"
-        },
-        {
-          "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
-          "url": "https://flash.jin10.com/detail/20260312235230253800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3069912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
-          "url": "https://flash.jin10.com/detail/20260313033613430800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 04时38分]"
-        },
-        {
-          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
-          "url": "https://wallstreetcn.com/livenews/3069106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 04时09分]"
-        },
-        {
-          "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3069051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
-        },
-        {
-          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3069122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 04时38分]"
-        },
-        {
-          "title": "Coherent增强面向AI网络的多轨传输平台",
-          "url": "https://wallstreetcn.com/livenews/3069181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时30分]"
+          "time_info": "00时42分"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
           "url": "https://www.zhihu.com/question/2014783631814580088",
           "source": "知乎",
           "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 23时44分]"
-        },
-        {
-          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
-          "url": "https://wallstreetcn.com/livenews/3069178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时30分]"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 18时39分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时44分]"
-        },
-        {
-          "title": "中腰部演员将被AI替代",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时56分]"
-        },
-        {
-          "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
-          "url": "https://wallstreetcn.com/livenews/3069370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时51分]"
-        },
-        {
-          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
-          "url": "https://wallstreetcn.com/livenews/3069094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 04时09分]"
-        },
-        {
-          "title": "不想看AI演戏",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 16时42分]"
-        },
-        {
-          "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3069155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
-          "url": "https://flash.jin10.com/detail/20260313023700863800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
-          "url": "https://wallstreetcn.com/articles/3767302",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
-          "url": "https://flash.jin10.com/detail/20260313034321354800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "GitHub Copilot 、 Cursor 、 CodeX 与 Claude Code，我究竟要为谁付费？",
-          "url": "https://www.zhihu.com/question/1963698332040929828",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
-          "url": "https://flash.jin10.com/detail/20260313023234906800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "00时42分"
         },
         {
-          "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
-          "url": "https://flash.jin10.com/detail/20260313143214386800",
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
+          "url": "https://flash.jin10.com/detail/20260313233908274800",
           "source": "金十数据",
           "ranks": [
-            11
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "00时42分"
         },
         {
-          "title": "爱奇艺龚宇：AI科技创新带来影视行业的春天",
-          "url": "https://wallstreetcn.com/livenews/3069898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "市场消息：亚马逊将使用人工智能公司Cerebras的巨型芯片来帮助运行AI模型。",
-          "url": "https://flash.jin10.com/detail/20260313230351040800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
-          "url": "https://wallstreetcn.com/livenews/3069668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "Meta在Facebook Marketplace推出新款AI工具。",
-          "url": "https://wallstreetcn.com/livenews/3069055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "戴尔科技CEO Michael Dell：（回应Anthropic与五角大楼的纠纷）企业无法影响（美国）政府如何使用（AI）工具。 企业（向美国政府）提出工具使用方式要求这种做法不可行。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3069024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
-          "url": "https://wallstreetcn.com/livenews/3069485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "人民锐评：不会用AI就是“新寒门”？莫将AI变成新的“起跑线焦虑”",
-          "url": "https://wallstreetcn.com/livenews/3069582",
+          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3069912",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
-          "url": "https://flash.jin10.com/detail/20260313020547080800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "00时42分"
         }
       ]
     }
