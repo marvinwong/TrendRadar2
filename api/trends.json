@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-14T19:26:47.538502+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-03-14T20:55:21.141582+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 20时55分]"
+        },
         {
           "title": "DeepSeek V4 为什么还不发布？",
           "url": "https://www.zhihu.com/question/2014783631814580088",
@@ -22,17 +35,21 @@
           "time_info": "[00时42分 ~ 10时07分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
           "ranks": [
+            18,
+            17,
+            11,
+            9,
             8,
-            5,
+            4,
             3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时44分 ~ 19时26分]"
+          "time_info": "[13时47分 ~ 20时55分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -59,11 +76,12 @@
             17,
             18,
             20,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 19时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 20时55分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -97,22 +115,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时36分 ~ 07时31分]"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            11,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时47分 ~ 19时26分]"
         },
         {
           "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
@@ -270,7 +272,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -306,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "谁在渲染AI焦虑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
