@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T05:31:30.344762+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-03-16T06:31:21.173435+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -65,8 +65,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -77,8 +77,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "给AI投毒",
@@ -89,11 +89,12 @@
             22,
             15,
             10,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 06时31分]"
         },
         {
           "title": "给AI投毒已成产业链",
@@ -104,11 +105,12 @@
             11,
             9,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 06时31分]"
         },
         {
           "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
@@ -125,24 +127,25 @@
           "time_info": "[00时35分 ~ 05时31分]"
         },
         {
-          "title": "315晚会曝光“AI投毒产业链”",
-          "url": "https://www.douyin.com/hot/2431845",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时29分]"
-        },
-        {
           "title": "实测AI推荐如何被操控",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
           "ranks": [
             22,
             16,
-            25
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时31分]"
+        },
+        {
+          "title": "315晚会曝光“AI投毒产业链”",
+          "url": "https://www.douyin.com/hot/2431845",
+          "source": "抖音",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
