@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T19:28:19.012196+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-03-15T20:56:19.303595+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -58,8 +58,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 19时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 20时56分]"
         },
         {
           "title": "xAI核心团队基本跑光",
@@ -134,6 +134,18 @@
           "time_info": "[14时59分 ~ 16时39分]"
         },
         {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时56分]"
+        },
+        {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
@@ -146,16 +158,26 @@
           "time_info": "[07时29分 ~ 10时32分]"
         },
         {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "六指内塔尼亚胡是AI替身？真相来了",
+          "url": "https://www.toutiao.com/trending/7617060842857267209/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国法官：马斯克使用氯胺酮的情况不得在OpenAI欺诈案审理中被探究",
@@ -164,7 +186,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
