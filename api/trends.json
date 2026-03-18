@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T19:48:19.649024+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-03-18T21:16:24.847674+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 68,
+      "match_count": 72,
       "titles": [
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -17,11 +17,12 @@
             8,
             9,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 21时16分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -35,11 +36,12 @@
             15,
             16,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 19时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 21时16分]"
         },
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -81,6 +83,35 @@
           "time_info": "[10时23分 ~ 18时56分]"
         },
         {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 21时16分]"
+        },
+        {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 21时16分]"
+        },
+        {
           "title": "于谦说怕AI偷看相册",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
@@ -110,6 +141,18 @@
           "time_info": "[02时01分 ~ 10时24分]"
         },
         {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 21时16分]"
+        },
+        {
           "title": "官方辟谣“AI安全治理3年计划”",
           "url": "https://www.douyin.com/hot/2434741",
           "source": "抖音",
@@ -122,45 +165,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时58分 ~ 17时57分]"
-        },
-        {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 19时48分]"
-        },
-        {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 19时48分]"
-        },
-        {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 19时48分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -247,6 +251,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "谷歌：正在与英国竞争与市场管理局（CMA）合作，致力于确保规则促进公平与选择。",
+          "url": "https://wallstreetcn.com/livenews/3072463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
           "url": "https://wallstreetcn.com/livenews/3071946",
           "source": "华尔街见闻-快讯",
@@ -322,22 +337,48 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时16分]"
+        },
+        {
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时16分]"
         },
         {
           "title": "耀客AI演员 赵今麦翟子路",
           "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时16分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时16分]"
         },
         {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
@@ -499,20 +540,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
         {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "腾讯电话会：核心业务在AI时代具备强大韧性，智能体将催生去中心化新生态，今年AI投资至少翻倍",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "21时16分"
         },
         {
           "title": "腾讯控股(00700.HK)：2025年销售及市场推广开支同比增长15%至人民币417亿元，反映为支持我们的AI原生应用程序及游戏的发展而加大推广力度。",
@@ -568,17 +609,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
-          "url": "https://www.zhihu.com/question/2017627475413262735",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         },
         {
           "title": "腾讯控股(00700.HK)：我们通过在游戏中部署AI，加速了内容制作，改善了用户体验并提升了我们的营销效益。",
@@ -713,6 +743,17 @@
           "time_info": "14时06分"
         },
         {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "A股算力概念股持续活跃，数据港直线涨停，杭钢股份、首都在线、优刻得、铜牛信息、东方国信等纷纷冲高，消息上，阿里云AI算力和存储产品最高涨价34%。",
           "url": "https://wallstreetcn.com/livenews/3072133",
           "source": "华尔街见闻-快讯",
@@ -733,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "谷歌：与英国竞争和市场管理局（CMA）合作，确保新的数字市场规则在保护用户体验的同时，促进公平与选择。",
+          "url": "https://flash.jin10.com/detail/20260318205246584800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "麒麟信安发布企业级云上AI安全部署方案",
@@ -774,7 +826,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
