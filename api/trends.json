@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:54:10.399108+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-03-20T14:58:28.895571+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -20,6 +20,18 @@
           "time_info": "[01时01分 ~ 10时10分]"
         },
         {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 14时58分]"
+        },
+        {
           "title": "AI万物皆可龙抬头",
           "url": "https://www.douyin.com/hot/2435867",
           "source": "抖音",
@@ -32,35 +44,12 @@
             12,
             10,
             6,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时54分]"
-        },
-        {
-          "title": "人民日报：请给AI起个中文名字",
-          "url": "https://www.toutiao.com/trending/7618806460609200137/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 13时54分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 13时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 14时58分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -73,8 +62,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 13时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 14时58分]"
         },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
@@ -91,6 +80,19 @@
           "time_info": "[01时01分 ~ 10时10分]"
         },
         {
+          "title": "人民日报：请给AI起个中文名字",
+          "url": "https://www.toutiao.com/trending/7618806460609200137/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 14时58分]"
+        },
+        {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
           "url": "https://wallstreetcn.com/articles/3767932",
           "source": "华尔街见闻",
@@ -99,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 13时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 14时58分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -112,6 +114,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时58分]"
         },
         {
           "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
@@ -135,19 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时10分 ~ 13时54分]"
-        },
-        {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 12时49分]"
         },
         {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
@@ -209,6 +211,19 @@
           "time_info": "[04时42分 ~ 05时38分]"
         },
         {
+          "title": "揭秘AI投毒运作原理",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时58分]"
+        },
+        {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.toutiao.com/trending/7618387888183836715/",
           "source": "今日头条",
@@ -232,16 +247,15 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
-          "title": "揭秘AI投毒运作原理",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
+          "url": "https://wallstreetcn.com/livenews/3073839",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -253,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "阿里千问最新旗舰模型预览版Qwen3.5-Max-Preview发布",
+          "url": "https://flash.jin10.com/detail/20260320143952467800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
