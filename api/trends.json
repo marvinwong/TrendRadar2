@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T03:38:31.979838+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-21T04:35:51.329661+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -47,11 +47,12 @@
           "ranks": [
             11,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -59,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -72,11 +74,12 @@
           "ranks": [
             23,
             18,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -87,8 +90,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时35分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -104,6 +107,19 @@
           "time_info": "[01时02分 ~ 02时53分]"
         },
         {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 04时35分]"
+        },
+        {
           "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
           "url": "https://wallstreetcn.com/livenews/3074276",
           "source": "华尔街见闻-快讯",
@@ -115,18 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时37分 ~ 03时38分]"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 03时38分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
