@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T22:43:37.129940+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-03-20T23:44:15.227767+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -19,8 +19,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时10分 ~ 22时43分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 23时44分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时50分 ~ 23时44分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -33,19 +46,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 10时10分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时50分 ~ 22时43分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -94,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时01分 ~ 22时43分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 23时44分]"
         },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
@@ -112,6 +112,20 @@
           "time_info": "[01时01分 ~ 10时10分]"
         },
         {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 23时44分]"
+        },
+        {
           "title": "人民日报：请给AI起个中文名字",
           "url": "https://www.toutiao.com/trending/7618806460609200137/",
           "source": "今日头条",
@@ -126,20 +140,6 @@
           "time_info": "[10时10分 ~ 15时50分]"
         },
         {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 22时43分]"
-        },
-        {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
           "source": "澎湃新闻",
@@ -151,6 +151,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时31分 ~ 15时50分]"
+        },
+        {
+          "title": "博主用AI手搓应用1个多月赚近九千",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时44分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -181,7 +193,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -270,18 +282,6 @@
           "time_info": "[05时38分 ~ 06时31分]"
         },
         {
-          "title": "博主用AI手搓应用1个多月赚近九千",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时43分]"
-        },
-        {
           "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
           "url": "https://flash.jin10.com/detail/20260320052711190800",
           "source": "金十数据",
@@ -304,6 +304,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时38分]"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            30,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时44分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -352,18 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时50分 ~ 16时42分]"
-        },
-        {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            30,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时43分]"
         },
         {
           "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
@@ -439,7 +440,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -475,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
+          "url": "https://wallstreetcn.com/livenews/3074229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -604,9 +616,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：众议院将推动实施国家AI框架。",
+          "url": "https://wallstreetcn.com/livenews/3074217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "白宫拟于周五向国会提交AI监管框架",
