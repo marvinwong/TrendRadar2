@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T04:29:45.367695+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-03-22T05:27:44.226272+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -28,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -39,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -50,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -61,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -72,8 +73,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
