@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T10:25:29.793491+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-03-22T12:54:01.314232+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "季冠霖发文抵制AI",
@@ -28,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 12时54分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -40,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 12时54分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -85,11 +87,37 @@
           "url": "https://www.zhihu.com/question/2018341688767160603",
           "source": "知乎",
           "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时54分]"
+        },
+        {
+          "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
+          "url": "https://wallstreetcn.com/articles/3768061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 12时54分]"
+        },
+        {
+          "title": "AI演员为啥遭网友抵制",
+          "url": "https://www.douyin.com/hot/2438688",
+          "source": "抖音",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时54分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -104,27 +132,32 @@
           "time_info": "[00时32分 ~ 01时27分]"
         },
         {
-          "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
-          "url": "https://wallstreetcn.com/articles/3768061",
-          "source": "华尔街见闻",
+          "title": "AI演员签约官宣",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时27分 ~ 10时25分]"
-        },
+          "time_info": "[12时53分 ~ 12时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
+          "title": "经典谍战剧如《潜伏》，为什么情报传递环节常和老唱片、旧书籍等物件挂钩？",
+          "url": "https://www.zhihu.com/question/1911855901280802690",
+          "source": "知乎",
           "ranks": [
-            10
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         }
       ]
     }
