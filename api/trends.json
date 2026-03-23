@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:31:21.052866+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-03-23T10:26:10.057877+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -39,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 10时26分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -48,11 +48,34 @@
           "source": "贴吧",
           "ranks": [
             29,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 10时26分]"
+        },
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.toutiao.com/trending/7619981033894821924/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -60,11 +83,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 10时26分]"
+        },
+        {
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 10时26分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -81,15 +117,15 @@
           "time_info": "[03时28分 ~ 06时28分]"
         },
         {
-          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
-          "url": "https://www.cls.cn/detail/2320476",
-          "source": "财联社热门",
+          "title": "郑强教授：AI发展不能低端化平庸化",
+          "url": "https://www.toutiao.com/trending/7619238244945346579/",
+          "source": "今日头条",
           "ranks": [
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "扎克伯格打造CEO代理 公司内部已出现“AI代理社交”",
@@ -98,7 +134,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
