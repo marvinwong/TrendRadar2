@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T19:45:13.871593+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-03-23T21:11:28.507294+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -42,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 19时45分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 21时11分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -73,17 +73,6 @@
           "time_info": "[00时33分 ~ 10时26分]"
         },
         {
-          "title": "AI短剧付费后竟然变成PPT",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
-        },
-        {
           "title": "跑马拉松护航的民警居然是AI机器人",
           "url": "https://www.toutiao.com/trending/7619981033894821924/",
           "source": "今日头条",
@@ -93,6 +82,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "普通人如何制作AI视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "深度解析AI对影视行业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "AI短剧付费后竟然变成PPT",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时11分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -202,6 +225,28 @@
           "time_info": "15时13分"
         },
         {
+          "title": "AI写歌走红程序员9个月赚20万",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3075178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "市场消息：韩国人工智能初创公司Upstage正在与AMD(AMD.O)洽谈购买其10,000台最新的AI加速器，以此将大规模计算引入韩国。",
           "url": "https://flash.jin10.com/detail/20260323121501231800",
           "source": "金十数据",
@@ -222,6 +267,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "清华大学开源AI课堂日活已达5万",
+          "url": "https://www.toutiao.com/trending/7620322533854249003/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以前看小说vs现在看小说",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%89%8D%E7%9C%8B%E5%B0%8F%E8%AF%B4vs%E7%8E%B0%E5%9C%A8%E7%9C%8B%E5%B0%8F%E8%AF%B4&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     }
