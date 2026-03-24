@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T12:55:00.429115+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-03-24T14:02:30.520529+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 12时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时02分]"
         },
         {
           "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
@@ -57,6 +57,18 @@
           "time_info": "00时02分"
         },
         {
+          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
+          "url": "https://www.cls.cn/detail/2322334",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时02分]"
+        },
+        {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
           "url": "https://www.cls.cn/detail/2322062",
           "source": "财联社热门",
@@ -65,19 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时55分]"
-        },
-        {
-          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
-          "url": "https://www.cls.cn/detail/2322334",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时02分]"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -207,7 +208,7 @@
     },
     {
       "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "以前看小说vs现在看小说",
@@ -221,6 +222,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 04时39分]"
+        },
+        {
+          "title": "网红博主一年读 704 本书被打假，暴露出「书籍推荐」的哪些乱象？除了读书博主，还有哪类型的博主值得打假？",
+          "url": "https://www.zhihu.com/question/2018031454483870111",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     }
