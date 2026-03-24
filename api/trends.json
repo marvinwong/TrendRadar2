@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-03-24T19:47:20.377034+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-03-24T21:15:15.651935+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            6,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时54分 ~ 21时15分]"
+        },
         {
           "title": "普通人如何制作AI视频",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
@@ -36,22 +53,6 @@
           "time_info": "[12时54分 ~ 18时56分]"
         },
         {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 19时47分]"
-        },
-        {
           "title": "DeepSeek郭达雅被曝离职",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
@@ -63,8 +64,35 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 21时15分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10,
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 21时15分]"
+        },
+        {
+          "title": "官方定调！AI时代“词元经济”崛起",
+          "url": "https://www.cls.cn/detail/2322996",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
@@ -76,21 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 19时47分]"
         },
         {
           "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
@@ -107,6 +120,18 @@
           "time_info": "[15时54分 ~ 19时47分]"
         },
         {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时58分 ~ 21时15分]"
+        },
+        {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
           "url": "https://www.cls.cn/detail/2322062",
           "source": "财联社热门",
@@ -119,15 +144,16 @@
           "time_info": "[10时10分 ~ 14时02分]"
         },
         {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时47分]"
+          "time_info": "[19时47分 ~ 21时15分]"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -238,7 +264,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -252,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
         },
         {
           "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
@@ -282,7 +297,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -326,7 +341,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -370,6 +385,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "网红博主一年读 704 本书被打假，暴露出「书籍推荐」的哪些乱象？除了读书博主，还有哪类型的博主值得打假？",
+          "url": "https://www.zhihu.com/question/2018031454483870111",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            9,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时02分 ~ 21时15分]"
+        },
+        {
           "title": "以前看小说vs现在看小说",
           "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%89%8D%E7%9C%8B%E5%B0%8F%E8%AF%B4vs%E7%8E%B0%E5%9C%A8%E7%9C%8B%E5%B0%8F%E8%AF%B4&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -381,20 +411,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 04时39分]"
-        },
-        {
-          "title": "网红博主一年读 704 本书被打假，暴露出「书籍推荐」的哪些乱象？除了读书博主，还有哪类型的博主值得打假？",
-          "url": "https://www.zhihu.com/question/2018031454483870111",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 19时47分]"
         }
       ]
     }
