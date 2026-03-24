@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T18:56:37.336202+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-24T19:47:20.377034+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -44,11 +44,12 @@
             3,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 19时47分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -58,11 +59,12 @@
             11,
             12,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时47分]"
         },
         {
           "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
@@ -83,11 +85,26 @@
             7,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时47分]"
+        },
+        {
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时47分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -102,17 +119,15 @@
           "time_info": "[10时10分 ~ 14时02分]"
         },
         {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            15,
-            17
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时47分]"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -156,17 +171,6 @@
           "source": "百度热搜",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时56分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -228,6 +232,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
+          "url": "https://wallstreetcn.com/livenews/3075929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
           "url": "https://wallstreetcn.com/livenews/3075834",
           "source": "华尔街见闻-快讯",
@@ -239,6 +254,17 @@
           "time_info": "17时58分"
         },
         {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
           "url": "https://www.zhihu.com/question/2016829250926243974",
           "source": "知乎",
@@ -248,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
+          "url": "https://wallstreetcn.com/livenews/3075921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
@@ -281,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "卢伟冰：Xiaomi miclaw未来会拓展到电脑、手表端，反对将“AI手机”概念化",
+          "url": "https://wallstreetcn.com/livenews/3075911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
@@ -345,8 +393,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 19时47分]"
         }
       ]
     }
