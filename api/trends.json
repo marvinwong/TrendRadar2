@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T02:01:48.467100+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-26T03:10:02.686721+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -34,11 +34,12 @@
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时10分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -48,8 +49,55 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时10分]"
+        },
+        {
+          "title": "OpenAI推出安全漏洞赏金计划。",
+          "url": "https://wallstreetcn.com/livenews/3076838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 03时10分]"
+        },
+        {
+          "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
+          "url": "https://wallstreetcn.com/livenews/3076836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时10分]"
+        },
+        {
+          "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
+          "url": "https://wallstreetcn.com/livenews/3076829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时10分]"
+        },
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
         },
         {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
@@ -63,46 +111,13 @@
           "time_info": "[00时20分 ~ 02时01分]"
         },
         {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
           "title": "市场消息：CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
           "url": "https://flash.jin10.com/detail/20260326011459054800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
-          "url": "https://wallstreetcn.com/livenews/3076836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
-          "url": "https://wallstreetcn.com/livenews/3076829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -116,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "据Business Insider：xAI联合创始人Kroiss在备受瞩目的IPO前夕离职。",
+          "url": "https://flash.jin10.com/detail/20260326025021147800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "DocuSign推出AI合同评估助理。",
