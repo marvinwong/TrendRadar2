@@ -1,428 +1,88 @@
 {
-  "generated_at": "2026-03-26T23:06:21.266755+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-03-27T01:04:30.473632+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 35,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "AI短剧冲击横店 第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 23时06分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时11分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时29分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            15,
-            14,
-            16,
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            16,
-            15,
-            13,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 23时06分]"
-        },
-        {
-          "title": "短剧演员成AI技术第一批“牺牲品”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            18,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时09分 ~ 07时37分]"
-        },
-        {
-          "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
-          "url": "https://flash.jin10.com/detail/20260326100821499800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "01时04分"
         },
         {
-          "title": "王兴：美团不会盲目追求成为“Token（词元）工厂”，而是将AI视为战略机遇",
-          "url": "https://flash.jin10.com/detail/20260326225656520800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "上海：加快建设上海科学仪器创新港、华为长三角AI+联合创新中心等创新载体",
-          "url": "https://wallstreetcn.com/livenews/3077209",
+          "title": "谷歌公司Fiber更名为GFiber。",
+          "url": "https://wallstreetcn.com/livenews/3077578",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
-          "url": "https://flash.jin10.com/detail/20260326012232443800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "广州：重点突破国产化AI算力芯片适配、异构算力动态调度技术",
-          "url": "https://flash.jin10.com/detail/20260326175722218800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "金融AI领跑者讯兔科技（Alpha派）完成近2亿A轮融资，携手战略伙伴共建产业生态",
-          "url": "https://wallstreetcn.com/livenews/3077287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "从阿里离职后，林俊旸首度发文详谈对大模型发展路线的理解及对AI下一阶段的预判。 他的判断是智能体式思考：为了行动而思考，在与环境交互的过程中，并根据来自世界的反馈持续更新计划。（第一财经）",
-          "url": "https://wallstreetcn.com/livenews/3077519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国陪审团就涉及谷歌、Meta公司的青少年社交媒体成瘾案作出裁决。陪审团裁定Meta在社交媒体审判中因疏忽而承担责任。",
-          "url": "https://flash.jin10.com/detail/20260326012111021800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "广州：建设推广人工智能辅助诊断、5G远程手术、AI影像筛查和智能家庭医生系统",
-          "url": "https://flash.jin10.com/detail/20260326175705285800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "博鳌论坛上AI成为讨论焦点",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%9A%E9%B3%8C%E8%AE%BA%E5%9D%9B%E4%B8%8AAI%E6%88%90%E4%B8%BA%E8%AE%A8%E8%AE%BA%E7%84%A6%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时52分]"
-        },
-        {
-          "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
-          "url": "https://wallstreetcn.com/livenews/3076892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时38分]"
-        },
-        {
-          "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
-          "url": "https://flash.jin10.com/detail/20260326044901012800",
-          "source": "金十数据",
-          "ranks": [
-            7,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
+          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
+          "url": "https://wallstreetcn.com/livenews/3077571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时10分]"
-        },
-        {
-          "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
-          "url": "https://wallstreetcn.com/livenews/3076836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时10分]"
-        },
-        {
-          "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
-          "url": "https://wallstreetcn.com/livenews/3076829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时10分]"
-        },
-        {
-          "title": "周三（3月25日），存储芯片与硬件供应链指数跌2.08%，报113.03点，跳空低开之后、在美股盘初跌至109.00点刷新日低，大部分交易时间“高位震荡”。 北美科技软件股指数ETF收跌0.52%，报80.40美元。 信息科技指数涨0.35%，人工智能（AI）赢家指数涨0.72%，AI软件先驱指数跌0.63%。",
-          "url": "https://wallstreetcn.com/livenews/3076894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
-          "url": "https://www.zhihu.com/question/2020204147274642238",
-          "source": "知乎",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 10时29分]"
-        },
-        {
-          "title": "媒体：别动不动就说谁是AI牺牲品",
-          "url": "https://www.toutiao.com/trending/7621493118806491155/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时06分]"
-        },
-        {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时01分]"
-        },
-        {
-          "title": "广州：重点突破国产化AI算力芯片适配、异构算力动态调度技术 构建自主可控的智算中心架构",
-          "url": "https://wallstreetcn.com/livenews/3077352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "市场消息：CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
-          "url": "https://flash.jin10.com/detail/20260326011459054800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "AI短剧冲击横店 第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
-          "url": "https://flash.jin10.com/detail/20260326125531947800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "伊朗官媒发炸毁自由女神像AI视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "据Business Insider：xAI联合创始人Kroiss在备受瞩目的IPO前夕离职。",
-          "url": "https://flash.jin10.com/detail/20260326025021147800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "DocuSign推出AI合同评估助理。",
-          "url": "https://wallstreetcn.com/livenews/3076781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
-          "url": "https://wallstreetcn.com/livenews/3076931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "美国社交媒体成瘾案陪审团裁定，谷歌需支付90万美元的惩罚性赔偿金。",
-          "url": "https://flash.jin10.com/detail/20260326035612512800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "瑞士央行：瑞士境内的人工智能（AI）应用尚未“绞杀”那么多的就业岗位。",
-          "url": "https://wallstreetcn.com/livenews/3076768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "01时04分"
         }
       ]
     }
