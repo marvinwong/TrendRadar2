@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T13:08:26.094807+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-03-26T15:11:37.107481+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -20,8 +20,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 15时11分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -34,8 +34,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 15时11分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -53,6 +53,18 @@
           "time_info": "[03时09分 ~ 07时37分]"
         },
         {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 15时11分]"
+        },
+        {
           "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
           "url": "https://flash.jin10.com/detail/20260326100821499800",
           "source": "金十数据",
@@ -62,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "上海：加快建设上海科学仪器创新港、华为长三角AI+联合创新中心等创新载体",
+          "url": "https://wallstreetcn.com/livenews/3077209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -86,18 +109,6 @@
           "time_info": "02时01分"
         },
         {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 13时08分]"
-        },
-        {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
           "url": "https://wallstreetcn.com/livenews/3076892",
           "source": "华尔街见闻-快讯",
@@ -109,6 +120,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时40分 ~ 06时38分]"
+        },
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 15时11分]"
         },
         {
           "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
@@ -133,18 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时10分]"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时08分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -217,13 +229,24 @@
           "time_info": "02时01分"
         },
         {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
           "url": "https://flash.jin10.com/detail/20260326125531947800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
