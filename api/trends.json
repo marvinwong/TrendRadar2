@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T22:02:34.805406+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-03-26T23:06:21.266755+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时37分 ~ 23时06分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -28,11 +28,26 @@
             9,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 23时06分]"
+        },
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 23时06分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -46,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 22时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 23时06分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -62,22 +77,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 22时02分]"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 22时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 23时06分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -104,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "王兴：美团不会盲目追求成为“Token（词元）工厂”，而是将AI视为战略机遇",
+          "url": "https://flash.jin10.com/detail/20260326225656520800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "上海：加快建设上海科学仪器创新港、华为长三角AI+联合创新中心等创新载体",
@@ -156,7 +168,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -280,6 +292,18 @@
           "time_info": "[00时20分 ~ 10时29分]"
         },
         {
+          "title": "媒体：别动不动就说谁是AI牺牲品",
+          "url": "https://www.toutiao.com/trending/7621493118806491155/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时06分]"
+        },
+        {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
           "url": "https://www.zhihu.com/question/2019437515753398973",
           "source": "知乎",
@@ -311,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "AI短剧冲击横店 第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
@@ -355,17 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "媒体：别动不动就说谁是AI牺牲品",
-          "url": "https://www.toutiao.com/trending/7621493118806491155/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
