@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-27T22:52:12.360183+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-03-27T23:55:38.929900+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 22时52分]"
-        },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
@@ -29,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时56分 ~ 22时52分]"
+          "appearance_count": 8,
+          "time_info": "[17时56分 ~ 23时55分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时10分 ~ 23时55分]"
         },
         {
           "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
@@ -55,11 +55,12 @@
             17,
             16,
             12,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时31分 ~ 22时52分]"
+          "appearance_count": 14,
+          "time_info": "[10时31分 ~ 23时55分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -72,11 +73,12 @@
             18,
             20,
             16,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时08分 ~ 22时52分]"
+          "appearance_count": 13,
+          "time_info": "[13时08分 ~ 23时55分]"
         },
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -99,11 +101,12 @@
             10,
             15,
             14,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 22时52分]"
+          "appearance_count": 11,
+          "time_info": "[15时10分 ~ 23时55分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -115,11 +118,12 @@
             27,
             26,
             28,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时10分 ~ 22时52分]"
+          "appearance_count": 11,
+          "time_info": "[15时10分 ~ 23时55分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -129,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 23时55分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -140,20 +144,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 22时52分]"
-        },
-        {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时56分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 23时55分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -165,8 +157,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时56分 ~ 22时52分]"
+          "appearance_count": 8,
+          "time_info": "[17时56分 ~ 23时55分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 23时55分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -315,6 +320,18 @@
           "time_info": "[16时56分 ~ 17时57分]"
         },
         {
+          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
+          "url": "https://www.zhihu.com/question/2020885312767881505",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时55分]"
+        },
+        {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3077691",
           "source": "华尔街见闻-快讯",
@@ -325,17 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时32分]"
-        },
-        {
-          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
-          "url": "https://www.zhihu.com/question/2020885312767881505",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -371,6 +377,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
+          "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
+          "url": "https://wallstreetcn.com/livenews/3078369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
