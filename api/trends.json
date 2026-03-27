@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:58:36.345080+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-28T03:43:26.043816+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -38,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -49,8 +37,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -71,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -84,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -96,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -108,8 +109,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -121,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -130,11 +131,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -146,8 +148,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -159,8 +161,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 03时43分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -169,7 +171,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
