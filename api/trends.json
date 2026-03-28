@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T13:58:53.093197+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-03-28T15:08:17.913717+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -39,11 +40,12 @@
             4,
             7,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -69,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -101,8 +103,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -129,11 +131,12 @@
             15,
             16,
             13,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -148,8 +151,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -201,6 +204,19 @@
           "time_info": "[05时36分 ~ 07时35分]"
         },
         {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 15时08分]"
+        },
+        {
           "title": "警惕AI“过度谄媚”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95AI%E2%80%9C%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A%E2%80%9D",
           "source": "百度热搜",
@@ -213,16 +229,15 @@
           "time_info": "[05时36分 ~ 06时35分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
           "ranks": [
-            12,
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "上海市人工智能行业协会：AI发展不能因噎废食 安全和风控要协同推进",
