@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T01:31:47.596914+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-03-29T02:42:53.726268+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
@@ -27,19 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
-        },
-        {
-          "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
-          "url": "https://flash.jin10.com/detail/20260329004806006800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -50,8 +39,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
+        },
+        {
+          "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
+          "url": "https://flash.jin10.com/detail/20260329004806006800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时42分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -62,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -73,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -82,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -96,8 +98,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -107,8 +109,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -119,8 +121,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时42分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -130,8 +132,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时42分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -140,7 +142,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
@@ -151,7 +153,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
