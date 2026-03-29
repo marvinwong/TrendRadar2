@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:06:31.977189+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-29T16:42:29.612537+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             7,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 16时42分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -45,11 +46,12 @@
           "ranks": [
             13,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 16时42分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -92,11 +94,12 @@
           "ranks": [
             20,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 15时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 16时42分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -156,11 +159,12 @@
           "ranks": [
             1,
             7,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 16时42分]"
         },
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -169,9 +173,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 16时42分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -212,6 +216,19 @@
           "time_info": "[05时31分 ~ 07时33分]"
         },
         {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 16时42分]"
+        },
+        {
           "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
           "url": "https://wallstreetcn.com/articles/3768640",
           "source": "华尔街见闻",
@@ -224,16 +241,15 @@
           "time_info": "[10时33分 ~ 13时12分]"
         },
         {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
+          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
+          "url": "https://www.zhihu.com/question/2021000785224287940",
+          "source": "知乎",
           "ranks": [
-            11,
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时12分 ~ 15时06分]"
+          "time_info": "[15时06分 ~ 16时42分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
@@ -268,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
-          "url": "https://www.zhihu.com/question/2021000785224287940",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
         },
         {
           "title": "据Business Insider：马斯克旗下Xai初始创建团队的最后一位成员Ross Nordeen本周离开了该公司。",
