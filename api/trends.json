@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:44:35.090817+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-30T03:33:57.568758+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -39,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -59,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -74,8 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -87,8 +88,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时33分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -99,8 +100,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -108,11 +109,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 03时33分]"
         }
       ]
     }
