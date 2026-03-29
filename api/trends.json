@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:33:45.163173+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-03-29T10:34:08.216973+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -16,11 +16,12 @@
             16,
             4,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -28,11 +29,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -43,11 +45,12 @@
             15,
             18,
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -57,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -71,11 +74,12 @@
             26,
             24,
             25,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -85,8 +89,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -96,8 +100,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时34分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -138,6 +142,17 @@
           "time_info": "[00时36分 ~ 03时33分]"
         },
         {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
           "title": "做量化搞 quant 会被 ai 取代吗?",
           "url": "https://www.zhihu.com/question/598668295",
           "source": "知乎",
@@ -174,6 +189,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时31分 ~ 07时33分]"
+        },
+        {
+          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
+          "url": "https://wallstreetcn.com/articles/3768640",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "就是你是RAIN也得接孩子放学",
