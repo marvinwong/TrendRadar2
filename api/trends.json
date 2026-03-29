@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T13:12:33.061809+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-03-29T15:06:31.977189+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -17,11 +17,12 @@
             4,
             9,
             10,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 10时34分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 15时06分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -34,8 +35,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时06分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -43,11 +44,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时06分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -89,11 +91,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时06分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -101,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时06分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -151,11 +155,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时12分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 15时06分]"
+        },
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -208,6 +224,18 @@
           "time_info": "[10时33分 ~ 13时12分]"
         },
         {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时06分]"
+        },
+        {
           "title": "就是你是RAIN也得接孩子放学",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -226,18 +254,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -251,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
+          "url": "https://www.zhihu.com/question/2021000785224287940",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "据Business Insider：马斯克旗下Xai初始创建团队的最后一位成员Ross Nordeen本周离开了该公司。",
