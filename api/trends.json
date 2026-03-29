@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T20:59:34.330300+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-03-29T21:57:33.762094+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -15,8 +15,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时06分 ~ 20时59分]"
+          "appearance_count": 8,
+          "time_info": "[15时06分 ~ 21时57分]"
+        },
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 21时57分]"
         },
         {
           "title": "一个视频了解AI常识",
@@ -30,11 +46,12 @@
             10,
             7,
             22,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 20时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 21时57分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -50,24 +67,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时33分 ~ 20时59分]"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 20时59分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 21时57分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -81,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 19时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 21时57分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -98,8 +99,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 20时59分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 21时57分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -184,8 +185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 21时57分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -221,8 +222,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 21时57分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -282,8 +283,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时57分]"
+        },
+        {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时59分]"
+          "time_info": "[20时59分 ~ 21时57分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -320,17 +332,6 @@
           "time_info": "18时36分"
         },
         {
-          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
-          "url": "https://wallstreetcn.com/articles/3768659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
@@ -351,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "据Business Insider：马斯克旗下Xai初始创建团队的最后一位成员Ross Nordeen本周离开了该公司。",
