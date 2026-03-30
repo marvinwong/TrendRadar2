@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-30T10:36:55.787996+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-03-30T13:27:19.371580+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 10时36分]"
-        },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时35分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -51,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 10时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -74,11 +75,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 10时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -88,11 +90,12 @@
             21,
             24,
             22,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 10时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -121,13 +124,24 @@
           "time_info": "[00时38分 ~ 06时33分]"
         },
         {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "DeepSeek恢复服务",
           "url": "https://flash.jin10.com/detail/20260330102802432800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -138,7 +152,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -149,9 +163,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
@@ -165,13 +201,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
           "url": "https://www.zhihu.com/question/2021724542909903612",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -182,7 +229,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -193,9 +240,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "DeepSeek升级模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%87%E7%BA%A7%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     }
