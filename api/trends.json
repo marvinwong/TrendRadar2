@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T06:38:04.393784+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-03-31T07:36:55.671021+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             23,
             22,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时36分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -31,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时36分]"
         },
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -46,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时36分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -58,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 06时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 07时36分]"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
