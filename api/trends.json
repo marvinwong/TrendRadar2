@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T05:41:25.068809+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-01T06:36:36.385718+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时36分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时36分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -41,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时36分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -52,8 +52,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时36分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -146,6 +146,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
+          "url": "https://flash.jin10.com/detail/20260401060121394800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
+          "url": "https://flash.jin10.com/detail/20260401060044293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         }
       ]
     }
