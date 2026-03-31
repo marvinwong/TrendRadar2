@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-31T15:17:50.717684+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-03-31T17:03:01.210984+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时03分]"
+        },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
@@ -53,18 +65,6 @@
           "time_info": "[01时57分 ~ 07时36分]"
         },
         {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时17分]"
-        },
-        {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
@@ -82,11 +82,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时03分]"
         },
         {
           "title": "国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
@@ -95,9 +96,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时03分]"
         },
         {
           "title": "国行版苹果AI",
@@ -110,18 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 13时11分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时17分]"
         },
         {
           "title": "AI短剧 偷脸",
@@ -160,6 +162,17 @@
           "time_info": "[03时06分 ~ 04时47分]"
         },
         {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
           "title": "红果回应普通人形象被AI短剧盗脸",
           "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8",
           "source": "百度热搜",
@@ -188,7 +201,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -210,7 +223,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
