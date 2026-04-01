@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-02T05:08:52.981345+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-04-02T05:43:42.184914+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
+        },
         {
           "title": "ClaudeCode源码泄露",
           "url": "https://www.douyin.com/hot/2451216",
@@ -18,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -29,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -42,8 +55,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -52,11 +65,12 @@
           "ranks": [
             21,
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -66,23 +80,12 @@
             22,
             14,
             16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
-        },
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            14,
+            18,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -90,11 +93,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -104,8 +108,21 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时43分]"
+        },
+        {
+          "title": "如何看待 3.31 Claude Code 源码泄露一事？",
+          "url": "https://www.zhihu.com/question/2022398469655074136",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时43分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -133,18 +150,6 @@
           "time_info": "[00时57分 ~ 01时54分]"
         },
         {
-          "title": "如何看待 3.31 Claude Code 源码泄露一事？",
-          "url": "https://www.zhihu.com/question/2022398469655074136",
-          "source": "知乎",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 05时08分]"
-        },
-        {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
           "url": "https://flash.jin10.com/detail/20260402012346170800",
           "source": "金十数据",
@@ -165,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "如何把 AI 训练成自己的「第二大脑」？",
+          "url": "https://www.zhihu.com/question/2017266017961736190",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     }
