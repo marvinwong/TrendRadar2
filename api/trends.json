@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:33:13.092777+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-04-03T07:37:12.740739+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "用Claude Code源码自制客户端",
@@ -15,8 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
+        },
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -27,19 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
-        },
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -51,11 +52,12 @@
             22,
             12,
             17,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -68,8 +70,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -83,8 +85,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -95,11 +97,12 @@
             22,
             18,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时37分]"
         },
         {
           "title": "如何评价 qwen 3.6 转向闭源？",
@@ -114,6 +117,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 04时37分]"
+        },
+        {
+          "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
+          "url": "https://wallstreetcn.com/livenews/3081838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -159,7 +173,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
