@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T21:17:38.279289+08:00",
-  "total_titles_processed": 1706,
+  "generated_at": "2026-04-02T22:58:44.612138+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "ClaudeCode源码泄露",
@@ -41,8 +41,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时57分 ~ 21时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 22时58分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -61,8 +61,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 19时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 22时58分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -80,8 +80,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 21时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 22时58分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -98,8 +98,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 19时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 22时58分]"
         },
         {
           "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
@@ -166,6 +166,20 @@
           "time_info": "[10时27分 ~ 13时05分]"
         },
         {
+          "title": "如何评价 qwen 3.6 转向闭源？",
+          "url": "https://www.zhihu.com/question/2022382258535809067",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14,
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 22时58分]"
+        },
+        {
           "title": "男子利用AI编造谣言获刑6个月",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
           "source": "百度热搜",
@@ -203,18 +217,18 @@
           "time_info": "10时28分"
         },
         {
-          "title": "如何评价 qwen 3.6 转向闭源？",
-          "url": "https://www.zhihu.com/question/2022382258535809067",
-          "source": "知乎",
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
           "ranks": [
+            17,
             13,
-            14,
-            16,
-            5
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 21时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 22时58分]"
         },
         {
           "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
@@ -241,19 +255,6 @@
           "time_info": "[16时59分 ~ 18时08分]"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 21时17分]"
-        },
-        {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
           "url": "https://www.zhihu.com/question/2022398469655074136",
           "source": "知乎",
@@ -277,6 +278,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时04分 ~ 15时15分]"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时58分]"
         },
         {
           "title": "美国AI又被电力设备“卡脖子”：今年近半数据中心受阻 开发商盯上二手变压器",
@@ -314,15 +326,15 @@
           "time_info": "[07时37分 ~ 07时38分]"
         },
         {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
+          "title": "用Claude Code源码自制客户端",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时58分"
         },
         {
           "title": "行业组织发布声明严禁AI换脸合成",
@@ -419,7 +431,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -435,13 +447,24 @@
           "time_info": "05时43分"
         },
         {
+          "title": "微软：三款世界级MAI模型现已上线FOUNDRY。",
+          "url": "https://wallstreetcn.com/livenews/3081656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国科技公司宣布的裁员人数持续增加 AI成主要推手",
           "url": "https://wallstreetcn.com/livenews/3081587",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         }
