@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:37:55.525924+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-04-03T05:40:43.622224+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -27,22 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
-        },
-        {
-          "title": "如何评价 qwen 3.6 转向闭源？",
-          "url": "https://www.zhihu.com/question/2022382258535809067",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -52,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -63,11 +49,12 @@
             15,
             19,
             22,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -80,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -91,11 +78,12 @@
             19,
             20,
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -105,7 +93,22 @@
             23,
             22,
             18,
-            20
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时40分]"
+        },
+        {
+          "title": "如何评价 qwen 3.6 转向闭源？",
+          "url": "https://www.zhihu.com/question/2022382258535809067",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -166,7 +169,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
