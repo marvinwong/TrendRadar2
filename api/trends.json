@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T15:12:21.865067+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-04-03T16:57:02.254029+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -39,11 +39,12 @@
             8,
             10,
             11,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时05分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 16时57分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -185,6 +186,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时59分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
