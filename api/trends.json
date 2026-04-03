@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:06:55.293038+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-04-03T15:12:21.865067+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 15时12分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -59,8 +60,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时05分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 15时12分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -111,6 +112,19 @@
           "time_info": "[00时05分 ~ 10时29分]"
         },
         {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 15时12分]"
+        },
+        {
           "title": "如何评价 qwen 3.6 转向闭源？",
           "url": "https://www.zhihu.com/question/2022382258535809067",
           "source": "知乎",
@@ -131,18 +145,6 @@
           "ranks": [
             1,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时06分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
           ],
           "is_new": false,
           "appearance_count": 3,
