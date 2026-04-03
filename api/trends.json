@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T16:57:02.254029+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-03T17:55:56.510943+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             10,
             11,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 16时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时05分 ~ 17时55分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -152,6 +153,18 @@
           "time_info": "[10时28分 ~ 13时06分]"
         },
         {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 17时55分]"
+        },
+        {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
           "url": "https://wallstreetcn.com/livenews/3081838",
           "source": "华尔街见闻-快讯",
@@ -188,17 +201,6 @@
           "time_info": "[01时52分 ~ 02时59分]"
         },
         {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
@@ -206,8 +208,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 17时55分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
