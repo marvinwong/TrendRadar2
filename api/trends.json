@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T03:33:03.641690+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-05T04:34:37.651067+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时34分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -28,11 +28,12 @@
             15,
             14,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时34分]"
         },
         {
           "title": "Claude禁止OpenClaw接入",
@@ -44,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时34分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -57,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时34分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -67,11 +68,12 @@
           "ranks": [
             20,
             17,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 04时34分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -81,8 +83,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
