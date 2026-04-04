@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T17:40:26.692730+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-04-04T18:36:01.776994+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
@@ -115,8 +115,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 18时36分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -125,11 +125,24 @@
           "ranks": [
             5,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 18时36分]"
+        },
+        {
+          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
+          "url": "https://www.zhihu.com/question/2023715723785061711",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 18时36分]"
         },
         {
           "title": "千问AI打车上线后周环比增长超1500%",
@@ -171,16 +184,17 @@
           "time_info": "[02时51分 ~ 05时36分]"
         },
         {
-          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
-          "url": "https://www.zhihu.com/question/2023715723785061711",
-          "source": "知乎",
+          "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
+          "url": "https://wallstreetcn.com/livenews/3082402",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            12,
+            23,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时40分]"
+          "time_info": "[16时42分 ~ 18时36分]"
         },
         {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
@@ -195,16 +209,16 @@
           "time_info": "[10时14分 ~ 12时51分]"
         },
         {
-          "title": "胜宏科技：未来AI PCB是整个PCB行业最具确定性的增长细分方向",
-          "url": "https://wallstreetcn.com/livenews/3082402",
+          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
+          "url": "https://wallstreetcn.com/livenews/3082422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            23
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时40分]"
+          "time_info": "[17时40分 ~ 18时36分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -227,17 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时10分 ~ 16时42分]"
-        },
-        {
-          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
-          "url": "https://wallstreetcn.com/livenews/3082422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "ClaudeCode底层技术拆解",
