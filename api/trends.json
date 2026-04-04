@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T10:14:03.570265+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-04-04T12:51:58.721023+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -16,11 +16,12 @@
             3,
             4,
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 12时51分]"
         },
         {
           "title": "Gemma4与Qwen3.6有哪些升级",
@@ -52,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时51分 ~ 10时14分]"
+          "appearance_count": 10,
+          "time_info": "[02时51分 ~ 12时51分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -85,8 +86,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 12时51分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -94,11 +95,23 @@
           "source": "贴吧",
           "ranks": [
             25,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 12时51分]"
+        },
+        {
+          "title": "千问AI打车上线后周环比增长超1500%",
+          "url": "https://wallstreetcn.com/livenews/3082383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -115,6 +128,18 @@
           "time_info": "[02时51分 ~ 05时36分]"
         },
         {
+          "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3082355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时51分]"
+        },
+        {
           "title": "从源码剖析ClaudeCode对话流程",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90ClaudeCode%E5%AF%B9%E8%AF%9D%E6%B5%81%E7%A8%8B",
           "source": "bilibili 热搜",
@@ -126,15 +151,15 @@
           "time_info": "[00时41分 ~ 00时42分]"
         },
         {
-          "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
-          "url": "https://wallstreetcn.com/livenews/3082355",
-          "source": "华尔街见闻-快讯",
+          "title": "ClaudeCode底层技术拆解",
+          "url": "https://search.bilibili.com/all?keyword=ClaudeCode%E5%BA%95%E5%B1%82%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "12时51分"
         },
         {
           "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
