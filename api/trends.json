@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T22:45:38.809796+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-04-05T23:35:44.996830+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时45分 ~ 22时45分]"
+          "appearance_count": 10,
+          "time_info": "[16时45分 ~ 23时35分]"
         },
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时09分 ~ 22时45分]"
+          "appearance_count": 12,
+          "time_info": "[15时09分 ~ 23时35分]"
         },
         {
           "title": "Claude禁止OpenClaw接入",
@@ -79,11 +80,12 @@
             14,
             18,
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时37分 ~ 22时45分]"
+          "appearance_count": 29,
+          "time_info": "[00时37分 ~ 23时35分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -99,8 +101,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时37分 ~ 22时45分]"
+          "appearance_count": 29,
+          "time_info": "[00时37分 ~ 23时35分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -112,8 +114,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时40分 ~ 22时45分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 23时35分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -147,11 +149,12 @@
           "ranks": [
             4,
             6,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 22时45分]"
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 23时35分]"
         },
         {
           "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
@@ -160,9 +163,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时35分]"
         },
         {
           "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
