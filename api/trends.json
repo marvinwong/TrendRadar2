@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T07:36:16.896531+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-04-06T10:37:32.785292+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -15,20 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时36分]"
-        },
-        {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时37分]"
         },
         {
           "title": "AI时代，如何打赢人脸保护战？",
@@ -38,26 +26,25 @@
             8,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时37分]"
         },
         {
-          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7,
-            14,
-            6,
-            13
+            5,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时37分]"
         },
         {
           "title": "Claude禁止OpenClaw接入",
@@ -71,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时37分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -84,6 +71,21 @@
             13,
             16,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 10时37分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7,
+            14,
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -134,6 +136,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
+          "url": "https://wallstreetcn.com/articles/3769294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "男子用AI写歌仅版权赚了5位数",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
@@ -149,11 +184,12 @@
             19,
             14,
             13,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时36分 ~ 07时36分]"
+          "appearance_count": 6,
+          "time_info": "[04时36分 ~ 10时37分]"
         }
       ]
     }
