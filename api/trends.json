@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T02:05:02.202368+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-04-08T03:58:25.045993+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时58分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时58分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -59,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时58分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -68,11 +68,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时58分]"
+        },
+        {
+          "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
+          "url": "https://wallstreetcn.com/livenews/3083664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
         }
       ]
     }
