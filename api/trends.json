@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T17:05:11.954926+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-04-07T18:57:41.732591+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -106,11 +106,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 18时57分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -140,11 +141,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时57分]"
         },
         {
           "title": "博通(AVGO.O)公司与谷歌(GOOG.O)达成至2031年的长期TPU和网络供应协议。",
@@ -350,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
