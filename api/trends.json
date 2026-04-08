@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T18:58:39.940298+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-04-08T19:58:57.265891+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -16,11 +16,26 @@
             22,
             21,
             23,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 18时58分]"
+          "appearance_count": 19,
+          "time_info": "[01时01分 ~ 19时58分]"
+        },
+        {
+          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
+          "url": "https://www.zhihu.com/question/2024876426596291384",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 19时58分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -32,11 +47,12 @@
             18,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 18时58分]"
+          "appearance_count": 19,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -63,24 +79,12 @@
             15,
             14,
             19,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 18时58分]"
-        },
-        {
-          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
-          "url": "https://www.zhihu.com/question/2024876426596291384",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 18时58分]"
+          "appearance_count": 19,
+          "time_info": "[01时01分 ~ 19时58分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -99,11 +103,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 17时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 19时58分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -144,11 +149,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时58分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
@@ -180,11 +186,24 @@
           "source": "贴吧",
           "ranks": [
             6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时58分]"
+        },
+        {
+          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "source": "知乎",
+          "ranks": [
+            16,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时58分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
@@ -196,18 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025148296822351316",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时58分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -263,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "大型基金纷纷涌入美债和AI概念股，押注战争最动荡阶段已过",
+          "url": "https://wallstreetcn.com/livenews/3084312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
