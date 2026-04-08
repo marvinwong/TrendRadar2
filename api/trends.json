@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T21:52:18.425051+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-04-08T23:12:42.943582+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -21,8 +21,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时01分 ~ 21时52分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 23时12分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
@@ -49,11 +49,12 @@
             21,
             23,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时01分 ~ 21时52分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 23时12分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -82,11 +83,12 @@
             19,
             18,
             26,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时01分 ~ 21时52分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 23时12分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -123,8 +125,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 21时52分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 23时12分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 23时12分]"
         },
         {
           "title": "Anthropic：“GLASSWING”项目由Claude Mythos预览版提供支持；合作方将利用Mythos预览版开展防御性安全工作。",
@@ -158,19 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 21时52分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
@@ -209,6 +211,30 @@
           "time_info": "[17时14分 ~ 19时58分]"
         },
         {
+          "title": "【每日收评】沪指百点长阳逼近4000点，全市场近5200股收红，AI产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2337967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时12分]"
+        },
+        {
+          "title": "刘耀文流口水 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E6%B5%81%E5%8F%A3%E6%B0%B4%20AI%E7%94%9F%E6%88%90&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时12分]"
+        },
+        {
           "title": "UP主解读Claude新模型Mythos",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBClaude%E6%96%B0%E6%A8%A1%E5%9E%8BMythos",
           "source": "bilibili 热搜",
@@ -229,28 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 04时56分]"
-        },
-        {
-          "title": "【每日收评】沪指百点长阳逼近4000点，全市场近5200股收红，AI产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2337967",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
-        },
-        {
-          "title": "刘耀文流口水 AI生成",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E6%B5%81%E5%8F%A3%E6%B0%B4%20AI%E7%94%9F%E6%88%90&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "国内大厂 Trae 、 Qoder 、 CodeBuddy AI 编辑器哪个好用？",
@@ -308,6 +312,17 @@
           "time_info": "19时58分"
         },
         {
+          "title": "产品回撤被质疑“不知天命”，但斌回应：直面起伏！软件业成AI时代首批“炮灰”",
+          "url": "https://wallstreetcn.com/livenews/3084416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
           "url": "https://wallstreetcn.com/livenews/3083664",
           "source": "华尔街见闻-快讯",
@@ -325,7 +340,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         }
