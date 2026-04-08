@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:41:16.144928+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-09T07:40:19.432850+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时40分]"
         },
         {
           "title": "Claude防话痨插件爆火",
@@ -26,11 +26,12 @@
             26,
             22,
             23,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时40分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -42,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时40分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -53,8 +54,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时40分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -144,7 +145,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -155,7 +156,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -166,7 +167,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         }
