@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:56:15.043085+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-04-10T17:12:19.173130+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 07时39分]"
+        },
+        {
+          "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
+          "url": "https://wallstreetcn.com/articles/3769638",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时39分 ~ 17时12分]"
         },
         {
           "title": "AI红利和普通人有何关系",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 15时56分]"
-        },
-        {
-          "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
-          "url": "https://wallstreetcn.com/articles/3769638",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 15时56分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -197,6 +197,18 @@
           "time_info": "13时27分"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 17时12分]"
+        },
+        {
           "title": "xAI就科罗拉多州新AI法案提起诉讼",
           "url": "https://flash.jin10.com/detail/20260410070147196800",
           "source": "金十数据",
@@ -217,18 +229,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 06时42分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 15时56分]"
         },
         {
           "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
@@ -334,6 +334,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
           "url": "https://flash.jin10.com/detail/20260410041947855800",
           "source": "金十数据",
@@ -365,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2025517870495392629",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "港股阿里巴巴(09988.HK)震荡上行涨近3%，消息面上，阿里AI视频大模型HappyHorse预计一周后对外发布。",
@@ -431,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "美股盘前，台积电涨1.37%，公司Q1营收突破万亿大关，3月单月同比激增45%。Lumentum盘前涨超4%，得益于AI需求，公司预计2028年订单将迅速排满。",
+          "url": "https://wallstreetcn.com/livenews/3085705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     }
