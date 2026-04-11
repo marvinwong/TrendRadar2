@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:02:09.284300+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-04-11T22:37:37.335137+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -50,22 +50,12 @@
             13,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时03分 ~ 21时02分]"
-        },
-        {
-          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2025899367144453577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[14时03分 ~ 22时37分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -79,8 +69,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[15时51分 ~ 22时37分]"
+        },
+        {
+          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
+          "url": "https://www.zhihu.com/question/2025899367144453577",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时37分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -88,11 +89,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 21时02分]"
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 22时37分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -309,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
