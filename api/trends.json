@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T06:34:52.667041+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-04-12T07:37:01.068938+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -51,11 +51,12 @@
             25,
             24,
             20,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时37分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -81,11 +82,12 @@
           "ranks": [
             20,
             16,
-            30
+            30,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时36分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 07时37分]"
         }
       ]
     }
