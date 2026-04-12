@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T06:37:07.357401+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-13T07:37:24.700644+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -82,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时40分 ~ 06时37分]"
+          "appearance_count": 7,
+          "time_info": "[03时40分 ~ 07时37分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -92,11 +92,12 @@
           "ranks": [
             23,
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 04时38分]"
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 07时37分]"
         }
       ]
     }
