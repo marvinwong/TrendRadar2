@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T16:51:58.974803+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-04-12T17:47:54.169811+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 16时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 17时47分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -64,6 +64,21 @@
           "time_info": "[00时39分 ~ 10时41分]"
         },
         {
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            20,
+            8,
+            7,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 17时47分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260412130705252800",
           "source": "金十数据",
@@ -74,20 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 15时16分]"
-        },
-        {
-          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2025695905764962890",
-          "source": "知乎",
-          "ranks": [
-            20,
-            8,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 16时51分]"
         },
         {
           "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
@@ -114,13 +115,24 @@
           "time_info": "[13时25分 ~ 15时16分]"
         },
         {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "OpenAI CEO住所遭袭",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
