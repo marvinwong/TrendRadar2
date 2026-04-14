@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T07:43:44.904815+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-04-14T10:40:02.136813+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时40分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时40分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -28,21 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时43分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 10时40分]"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
