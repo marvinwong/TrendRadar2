@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T17:20:30.018414+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-04-14T19:05:00.500781+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -30,11 +30,12 @@
             6,
             16,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 19时05分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -45,11 +46,12 @@
             9,
             17,
             19,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 19时05分]"
         },
         {
           "title": "OpenAI伦敦设立永久办公室",
@@ -62,6 +64,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 15时48分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 19时05分]"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -109,18 +124,6 @@
           "time_info": "[06时58分 ~ 07时43分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 17时20分]"
-        },
-        {
           "title": "AI突袭短剧 “霸总爹”失业",
           "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
           "source": "百度热搜",
@@ -143,6 +146,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 06时58分]"
+        },
+        {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "网易云音乐就AI广告诡异画面道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%B0%B1AI%E5%B9%BF%E5%91%8A%E8%AF%A1%E5%BC%82%E7%94%BB%E9%9D%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
