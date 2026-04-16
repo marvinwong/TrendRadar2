@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T06:42:11.732419+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-04-17T07:42:25.987166+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时42分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时42分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时42分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -50,8 +50,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时42分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -61,8 +61,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时42分]"
         },
         {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
@@ -72,11 +72,12 @@
             13,
             7,
             10,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[03时17分 ~ 07时42分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -156,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "据伊朗Press TV：伊朗伊斯兰革命卫队圣城旅司令smail Qaani就黎以停火发表声明。Qaani表示，黎巴嫩及地区人民应当知晓，这场战斗的胜利者是真主党。如果达成停火，那将是黎巴嫩“抵抗力量”的坚定立场以及伊朗支持的结果。",
