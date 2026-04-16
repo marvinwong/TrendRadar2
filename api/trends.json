@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T15:49:36.548925+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-04-16T17:21:46.147056+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 15时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 17时21分]"
         },
         {
           "title": "DeepSeek招人去内蒙草原“守机房”",
@@ -30,11 +31,37 @@
             28,
             20,
             9,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 15时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 17时21分]"
+        },
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 17时21分]"
+        },
+        {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时21分]"
         },
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -48,24 +75,13 @@
           "time_info": "07时43分"
         },
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "Anthropic 4 月 14 日宣布将启用 Claude 实名身份认证，会给用户带来什么影响？",
           "url": "https://www.zhihu.com/question/2027774064589108421",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -95,17 +111,17 @@
           "time_info": "[00时06分 ~ 07时10分]"
         },
         {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
           "ranks": [
-            8,
-            6,
-            5
+            10,
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时21分]"
         },
         {
           "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
@@ -132,18 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 07时43分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 15时49分]"
         },
         {
           "title": "刷手机有多累？现在AI能算出来了",
