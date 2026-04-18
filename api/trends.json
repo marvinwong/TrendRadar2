@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T03:42:49.464394+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-19T04:39:21.436996+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时39分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时39分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时39分]"
         },
         {
           "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时39分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -63,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时39分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -74,8 +74,33 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时39分]"
+        },
+        {
+          "title": "粉红蓝莓是AI生成的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时42分]"
+          "time_info": "[01时38分 ~ 04时39分]"
+        },
+        {
+          "title": "实测Claude Opus 4.7",
+          "url": "https://www.douyin.com/hot/2469364",
+          "source": "抖音",
+          "ranks": [
+            21,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时39分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -89,40 +114,32 @@
           "time_info": "[00时42分 ~ 03时42分]"
         },
         {
-          "title": "粉红蓝莓是AI生成的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时42分]"
-        },
-        {
-          "title": "实测Claude Opus 4.7",
-          "url": "https://www.douyin.com/hot/2469364",
-          "source": "抖音",
-          "ranks": [
-            21,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时42分]"
-        },
-        {
           "title": "DeepSeek百亿融资背后的两张王牌",
           "url": "https://www.toutiao.com/trending/7630034603113188906/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "洛阳北邙山是中国历史上被盗得最狠的地方，但为什么盗墓小说更喜欢写云南和东北？",
+          "url": "https://www.zhihu.com/question/2024911082448319972",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
         }
       ]
     }
