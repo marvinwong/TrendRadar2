@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-04-19T00:42:56.394030+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T01:38:16.331101+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
           "url": "https://wallstreetcn.com/articles/3770310",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
           "url": "https://wallstreetcn.com/articles/3770313",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -37,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -48,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -59,8 +61,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时38分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -70,8 +72,41 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时38分]"
+        },
+        {
+          "title": "粉红蓝莓是AI生成的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
+          "url": "https://www.zhihu.com/question/2028243224301454445",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "实测Claude Opus 4.7",
+          "url": "https://www.douyin.com/hot/2469364",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     }
