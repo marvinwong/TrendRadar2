@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T04:39:21.436996+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-04-19T05:38:07.155850+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 05时38分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -63,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -74,8 +74,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -83,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 05时38分]"
         },
         {
           "title": "实测Claude Opus 4.7",
@@ -99,8 +100,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 05时38分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -137,9 +138,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 05时38分]"
         }
       ]
     }
