@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:38:07.155850+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-04-19T06:37:01.243463+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
@@ -49,11 +49,12 @@
           "ranks": [
             18,
             15,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 06时37分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -63,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -74,8 +75,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "实测Claude Opus 4.7",
+          "url": "https://www.douyin.com/hot/2469364",
+          "source": "抖音",
+          "ranks": [
+            21,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 06时37分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -85,19 +100,6 @@
             13,
             8,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 05时38分]"
-        },
-        {
-          "title": "实测Claude Opus 4.7",
-          "url": "https://www.douyin.com/hot/2469364",
-          "source": "抖音",
-          "ranks": [
-            21,
-            17,
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -136,11 +138,12 @@
           "url": "https://www.zhihu.com/question/2024911082448319972",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 05时38分]"
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 06时37分]"
         }
       ]
     }
