@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T21:44:01.343379+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-04-21T23:16:04.893049+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -20,6 +20,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时11分 ~ 17时28分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12,
+            9,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 23时16分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -78,8 +95,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 21时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时11分 ~ 23时16分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -97,20 +114,15 @@
           "time_info": "[00时11分 ~ 07时44分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
+          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
+          "url": "https://www.cls.cn/detail/2350762",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            16,
-            12,
-            9,
-            7,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 21时44分]"
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时16分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -128,15 +140,17 @@
           "time_info": "[00时11分 ~ 05时50分]"
         },
         {
-          "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
-          "url": "https://www.cls.cn/detail/2350762",
-          "source": "财联社热门",
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            1
+            4,
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 23时16分]"
         },
         {
           "title": "爱奇艺再回应AI艺人库",
@@ -213,18 +227,6 @@
           "time_info": "07时44分"
         },
         {
-          "title": "你每天用的AI 可能被“投毒”了",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 21时44分]"
-        },
-        {
           "title": "在招聘页面放AI聚餐照",
           "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E6%8B%9B%E8%81%98%E9%A1%B5%E9%9D%A2%E6%94%BEAI%E8%81%9A%E9%A4%90%E7%85%A7&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -264,6 +266,17 @@
           "time_info": "[00时11分 ~ 04时50分]"
         },
         {
+          "title": "唐诡导演 真人能演为啥让AI演",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时16分]"
+        },
+        {
           "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
           "url": "https://www.zhihu.com/question/2029573487086362973",
           "source": "知乎",
@@ -301,17 +314,6 @@
           "time_info": "[05时50分 ~ 06时45分]"
         },
         {
-          "title": "唐诡导演 真人能演为啥让AI演",
-          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
-        },
-        {
           "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
           "url": "https://flash.jin10.com/detail/20260421060257230800",
           "source": "金十数据",
@@ -336,6 +338,17 @@
           "time_info": "[10时41分 ~ 13时29分]"
         },
         {
+          "title": "AI时代纸质阅读会被淘汰吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E7%BA%B8%E8%B4%A8%E9%98%85%E8%AF%BB%E4%BC%9A%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
           "url": "https://flash.jin10.com/detail/20260421043955367800",
           "source": "金十数据",
@@ -346,6 +359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时45分]"
+        },
+        {
+          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
+          "url": "https://www.zhihu.com/question/2027797621893244826",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "AI艺人库背后的商业逻辑",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E7%9A%84%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "工信部：一季度工业机器人产量同比增长33.2% 无人机、AI眼镜等日益丰富",
@@ -376,7 +411,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -387,7 +422,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -519,7 +554,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -548,8 +583,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 23时16分]"
         },
         {
           "title": "42种图书入选2025年度中国好书",
