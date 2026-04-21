@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T13:29:29.427228+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-21T15:53:32.386314+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时11分 ~ 15时53分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -36,20 +36,6 @@
           "time_info": "[00时11分 ~ 07时44分]"
         },
         {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 13时29分]"
-        },
-        {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
           "url": "https://wallstreetcn.com/articles/3770370",
           "source": "华尔街见闻",
@@ -59,8 +45,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时11分 ~ 15时53分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            11,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时11分 ~ 15时53分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -145,17 +146,6 @@
           "time_info": "[00时11分 ~ 07时44分]"
         },
         {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -211,11 +201,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时53分]"
+        },
+        {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时29分]"
+          "time_info": "[13时29分 ~ 15时53分]"
         },
         {
           "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
@@ -223,11 +226,25 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时53分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时53分]"
         },
         {
           "title": "曝王楚然早就融了AI",
@@ -290,18 +307,6 @@
           "time_info": "[05时50分 ~ 06时45分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时29分]"
-        },
-        {
           "title": "工信部：一季度工业机器人产量同比增长33.2% 无人机、AI眼镜等日益丰富",
           "url": "https://flash.jin10.com/detail/20260421101838075800",
           "source": "金十数据",
@@ -341,7 +346,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -368,6 +373,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "惠誉：能源担忧和AI数据中心布局推动储能需求 头部电芯厂商将受益",
+          "url": "https://wallstreetcn.com/livenews/3091614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "苏醒说AI艺人这方向真的对么",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4AI%E8%89%BA%E4%BA%BA%E8%BF%99%E6%96%B9%E5%90%91%E7%9C%9F%E7%9A%84%E5%AF%B9%E4%B9%88%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -382,7 +398,7 @@
     },
     {
       "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "42种图书入选2025年度中国好书",
@@ -391,9 +407,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 15时53分]"
+        },
+        {
+          "title": "如何看待北师大学生在图书馆犯困发现 CO₂ 超标，投诉后学校拆除检测仪？这种超标现象常见吗？怎样缓解？",
+          "url": "https://www.zhihu.com/question/2029587978876445987",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "15时53分"
         }
       ]
     }
