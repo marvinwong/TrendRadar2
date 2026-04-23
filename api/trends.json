@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-23T19:12:08.192217+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-04-23T21:46:16.213310+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 21时46分]"
+        },
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
           "url": "https://www.cls.cn/detail/2352317",
@@ -31,8 +43,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 21时46分]"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4,
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 21时46分]"
         },
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -61,18 +87,6 @@
           "time_info": "[01时03分 ~ 10时43分]"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 19时12分]"
-        },
-        {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
           "url": "https://www.cls.cn/detail/2352731",
           "source": "财联社热门",
@@ -83,19 +97,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 10时43分]"
-        },
-        {
-          "title": "受AI冲击 短剧霸总回家种地",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 19时12分]"
         },
         {
           "title": "用AI办了场车展",
@@ -124,6 +125,21 @@
           "time_info": "[07时47分 ~ 10时43分]"
         },
         {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 21时46分]"
+        },
+        {
           "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
           "url": "https://www.cls.cn/detail/2352843",
           "source": "财联社热门",
@@ -135,6 +151,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时47分 ~ 13时32分]"
+        },
+        {
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时46分 ~ 21时46分]"
         },
         {
           "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
@@ -184,18 +213,17 @@
           "time_info": "01时03分"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            15,
-            13,
-            11
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时32分 ~ 19时12分]"
+          "time_info": "[17时46分 ~ 21时46分]"
         },
         {
           "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
@@ -210,30 +238,6 @@
           "time_info": "[17时46分 ~ 19时12分]"
         },
         {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时12分]"
-        },
-        {
-          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
-          "url": "https://www.zhihu.com/question/2027998176116777421",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时12分]"
-        },
-        {
           "title": "AI再现黄海海战 福建舰北洋水师同框",
           "url": "https://www.toutiao.com/trending/7630692654993227818/",
           "source": "今日头条",
@@ -244,6 +248,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时46分 ~ 19时12分]"
+        },
+        {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
@@ -279,6 +294,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "AI演员还算不算演员",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E8%BF%98%E7%AE%97%E4%B8%8D%E7%AE%97%E6%BC%94%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
@@ -497,7 +523,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
