@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T07:41:28.284761+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-25T10:33:19.112687+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -76,11 +77,12 @@
             1,
             15,
             14,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -91,11 +93,41 @@
             10,
             14,
             4,
-            12
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            16,
+            12,
+            14,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
+        },
+        {
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            12,
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "time_info": "[01时55分 ~ 10时33分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -107,33 +139,48 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
-        },
-        {
-          "title": "实测DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2477701",
-          "source": "抖音",
-          "ranks": [
-            16,
-            12,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
+        },
+        {
+          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 10时33分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -147,32 +194,6 @@
             24,
             14,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
-        },
-        {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时41分]"
-        },
-        {
-          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -195,19 +216,6 @@
           "time_info": "[00时59分 ~ 07时41分]"
         },
         {
-          "title": "中方反对美方污蔑抹黑中国AI产业",
-          "url": "https://www.douyin.com/hot/2477525",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时55分 ~ 07时41分]"
-        },
-        {
           "title": "深度解读DeepSeek-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
           "source": "bilibili 热搜",
@@ -222,15 +230,63 @@
           "time_info": "[00时59分 ~ 06时41分]"
         },
         {
-          "title": "软银准备为AI数据中心制造电池",
-          "url": "https://wallstreetcn.com/livenews/3094321",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时33分"
+        },
+        {
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://www.toutiao.com/trending/7632491668544949786/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 10时33分]"
+        },
+        {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时50分 ~ 10时33分]"
+        },
+        {
+          "title": "Claude降智了吗",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -270,16 +326,16 @@
           "time_info": "[00时59分 ~ 01时55分]"
         },
         {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
+          "title": "软银准备为AI数据中心制造电池",
+          "url": "https://wallstreetcn.com/livenews/3094321",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时50分 ~ 07时41分]"
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 10时33分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -295,18 +351,6 @@
           "time_info": "[04时51分 ~ 06时41分]"
         },
         {
-          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时41分]"
-        },
-        {
           "title": "中国AI隐形王者股价一年翻10倍",
           "url": "https://www.toutiao.com/trending/7632244941749489179/",
           "source": "今日头条",
@@ -317,6 +361,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 04时51分]"
+        },
+        {
+          "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
+          "url": "https://wallstreetcn.com/articles/3770793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 10时33分]"
+        },
+        {
+          "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
+          "url": "https://wallstreetcn.com/articles/3770791",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 10时33分]"
+        },
+        {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 10时33分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -331,6 +410,18 @@
           "time_info": "[03时54分 ~ 04时51分]"
         },
         {
+          "title": "DeepSeek V4 发布",
+          "url": "https://www.douyin.com/hot/2477208",
+          "source": "抖音",
+          "ranks": [
+            28,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 10时33分]"
+        },
+        {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
           "url": "https://flash.jin10.com/detail/20260425022647112800",
           "source": "金十数据",
@@ -342,26 +433,15 @@
           "time_info": "02时55分"
         },
         {
-          "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
-          "url": "https://wallstreetcn.com/articles/3770791",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
-          "url": "https://wallstreetcn.com/articles/3770793",
-          "source": "华尔街见闻",
+          "title": "微软向「工龄与年龄之和达到 70 或以上」员工提供自愿退休方案，裁员能对冲巨头的长期 AI 资本支出问题么？",
+          "url": "https://www.zhihu.com/question/2030945051489083937",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时33分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -373,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "DeepSeek-V4“解锁”国产芯片",
+          "url": "https://www.toutiao.com/trending/7632342182602477065/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -408,17 +499,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "戛纳电影宫的中国AI时刻",
-          "url": "https://www.douyin.com/hot/2476611",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
           "title": "市场消息：美国司法部介入xAI就科罗拉多州法律提起的诉讼。",
           "url": "https://flash.jin10.com/detail/20260424235453969800",
           "source": "金十数据",
@@ -428,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "DeepSeek V4适配国产芯片",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "市场消息：谷歌将向Anthropic提供至少5吉瓦算力。",
@@ -463,22 +554,22 @@
           "time_info": "00时59分"
         },
         {
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "贝莱德：AI热潮中看好半导体和硬件股",
           "url": "https://wallstreetcn.com/livenews/3094185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "DeepSeek V4 发布",
-          "url": "https://www.douyin.com/hot/2477208",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
