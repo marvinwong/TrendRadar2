@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:39:21.875649+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-04-26T02:56:23.244776+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "Claude降智了吗",
@@ -60,8 +60,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -71,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -83,8 +83,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -95,8 +95,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -106,8 +106,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时56分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
