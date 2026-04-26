@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T10:50:02.462767+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-04-26T13:42:12.595727+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -68,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 13时42分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -77,11 +77,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 13时42分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -103,11 +104,12 @@
           "ranks": [
             21,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 13时42分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -122,15 +124,50 @@
           "time_info": "[00时43分 ~ 10时50分]"
         },
         {
-          "title": "DeepSeek V4评测解析",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E8%AF%84%E6%B5%8B%E8%A7%A3%E6%9E%90",
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "DeepSeek V4评测解析",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E8%AF%84%E6%B5%8B%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时42分]"
+        },
+        {
+          "title": "DeepSeek V4成OpenClaw默认模型",
+          "url": "https://wallstreetcn.com/livenews/3094445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时42分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -145,15 +182,15 @@
           "time_info": "[00时43分 ~ 07时40分]"
         },
         {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -187,6 +224,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
+          "url": "https://wallstreetcn.com/livenews/3094438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     }
