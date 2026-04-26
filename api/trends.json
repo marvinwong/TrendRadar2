@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T15:42:31.091048+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-04-26T17:03:06.139315+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -65,11 +65,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 15时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时03分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -79,11 +80,12 @@
             14,
             17,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时43分 ~ 15时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时43分 ~ 17时03分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -125,18 +127,6 @@
           "time_info": "[00时43分 ~ 10时50分]"
         },
         {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 15时42分]"
-        },
-        {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
           "source": "抖音",
@@ -146,20 +136,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 17时03分]"
         },
         {
-          "title": "DeepSeek V4成OpenClaw默认模型",
-          "url": "https://wallstreetcn.com/livenews/3094445",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            5
+            4,
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 15时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 17时03分]"
         },
         {
           "title": "DeepSeek V4评测解析",
@@ -174,15 +165,17 @@
           "time_info": "[10时49分 ~ 13时42分]"
         },
         {
-          "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
-          "url": "https://flash.jin10.com/detail/20260426150306413800",
-          "source": "金十数据",
+          "title": "DeepSeek V4成OpenClaw默认模型",
+          "url": "https://wallstreetcn.com/livenews/3094445",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3,
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 17时03分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -192,8 +185,32 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 17时03分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时41分 ~ 15时42分]"
+          "time_info": "[15时42分 ~ 17时03分]"
+        },
+        {
+          "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
+          "url": "https://flash.jin10.com/detail/20260426150306413800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时03分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -213,11 +230,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 17时03分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -230,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 15时42分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -254,6 +283,17 @@
           "time_info": "[10时49分 ~ 10时50分]"
         },
         {
+          "title": "DeepSeek V4会给行业带来哪些冲击",
+          "url": "https://www.toutiao.com/trending/7632956103281610283/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
           "url": "https://www.toutiao.com/trending/7632689902383009323/",
           "source": "今日头条",
@@ -263,17 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         }
       ]
     }
