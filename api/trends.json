@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T21:09:57.758680+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-04-26T22:45:16.881571+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -54,11 +54,12 @@
             6,
             2,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时49分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 22时45分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -70,8 +71,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 21时09分]"
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 22时45分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时42分 ~ 22时45分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -87,20 +102,6 @@
           "time_info": "[00时43分 ~ 10时50分]"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时42分 ~ 21时09分]"
-        },
-        {
           "title": "Claude降智了吗",
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -112,8 +113,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 21时09分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 22时45分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -129,8 +130,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时43分 ~ 21时09分]"
+          "appearance_count": 22,
+          "time_info": "[00时43分 ~ 22时45分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -207,11 +208,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 22时45分]"
         },
         {
           "title": "DeepSeek V4评测解析",
@@ -224,6 +226,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时49分 ~ 13时42分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 22时45分]"
+        },
+        {
+          "title": "一条视频看懂DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2479851",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -241,16 +266,16 @@
           "time_info": "[13时42分 ~ 19时40分]"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
           "ranks": [
-            20,
-            19
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时02分 ~ 19时40分]"
+          "time_info": "[18时46分 ~ 22时45分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -263,18 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 17时03分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时09分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -299,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 15时42分]"
+        },
+        {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时45分]"
         },
         {
           "title": "DeepSeek多位核心骨干离职去大厂",
@@ -356,15 +381,37 @@
           "time_info": "00时43分"
         },
         {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
+          "title": "龙虾官宣接入DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "22时45分"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "从英伟达市值看AI革命的激进超越",
@@ -381,8 +428,19 @@
     },
     {
       "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "鸿篇历史小说《金瓯缺》遭删减？人文社辟谣：无删减，系字数算法差异",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057643",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
         {
           "title": "金靖也走不出小说完结痛",
           "url": "https://www.douyin.com/hot/2479566",
