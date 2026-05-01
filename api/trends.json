@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T14:38:26.186355+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-05-01T17:02:37.223615+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -14,11 +14,24 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 17时02分]"
+        },
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 17时02分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -34,18 +47,6 @@
           "time_info": "[01时23分 ~ 07时55分]"
         },
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 14时38分]"
-        },
-        {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
           "url": "https://www.cls.cn/detail/2361477",
           "source": "财联社热门",
@@ -56,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 17时02分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -69,8 +70,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 17时02分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -85,6 +86,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时23分 ~ 07时55分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 17时02分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -111,20 +126,6 @@
           "time_info": "[01时23分 ~ 11时31分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 14时38分]"
-        },
-        {
           "title": "DeepSeek多模态模型来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -142,11 +143,23 @@
           "ranks": [
             10,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 17时02分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 17时02分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -174,17 +187,6 @@
           "time_info": "11时31分"
         },
         {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -202,11 +204,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 17时02分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -245,6 +248,31 @@
           "time_info": "[01时23分 ~ 05时03分]"
         },
         {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 17时02分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 17时02分]"
+        },
+        {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
           "url": "https://flash.jin10.com/detail/20260501054951579800",
           "source": "金十数据",
@@ -268,18 +296,6 @@
           "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
-          "url": "https://www.zhihu.com/question/2033115543276930640",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 14时38分]"
-        },
-        {
           "title": "人民日报：不能让AI生成内容误导公众",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
           "source": "百度热搜",
@@ -291,26 +307,26 @@
           "time_info": "11时31分"
         },
         {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "女子被AI误导闯入响尾蛇窝",
           "url": "https://www.toutiao.com/trending/7634484856417468470/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
@@ -498,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     }
