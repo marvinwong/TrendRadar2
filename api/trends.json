@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T18:06:23.867678+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-05-03T19:44:41.131474+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 18时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 19时44分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -53,11 +53,12 @@
             9,
             12,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 18时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 19时44分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -73,6 +74,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 10时59分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 19时44分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -105,15 +118,16 @@
           "time_info": "[00时52分 ~ 07时45分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 18时06分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时44分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -175,18 +189,6 @@
           "time_info": "[00时52分 ~ 07时45分]"
         },
         {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 18时06分]"
-        },
-        {
           "title": "误导女子闯入毒蛇窝AI道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -210,8 +212,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 18时06分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时44分]"
+        },
+        {
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "DeepSeek员工为何不加班",
@@ -219,11 +232,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 18时06分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时44分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -251,6 +265,29 @@
           "time_info": "[16时47分 ~ 18时06分]"
         },
         {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 19时44分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时44分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260503120602300800",
           "source": "金十数据",
@@ -264,17 +301,6 @@
           "time_info": "[14时11分 ~ 18时06分]"
         },
         {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 18时06分]"
-        },
-        {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
           "url": "https://wallstreetcn.com/articles/3771505",
           "source": "华尔街见闻",
@@ -282,8 +308,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 18时06分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时44分]"
         },
         {
           "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
@@ -377,17 +403,6 @@
           "time_info": "10时59分"
         },
         {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
           "title": "AI真正的意义",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -405,7 +420,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -427,7 +442,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
