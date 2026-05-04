@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T04:16:56.519459+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-05-05T06:02:59.213707+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -28,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -39,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -50,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -62,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -74,19 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时02分]"
         },
         {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
@@ -96,8 +97,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 06时02分]"
         },
         {
           "title": "DeepSeek员工为何不加班",
@@ -123,13 +124,24 @@
           "time_info": "00时47分"
         },
         {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
           "url": "https://wallstreetcn.com/livenews/3098613",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -140,7 +152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -162,7 +174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
