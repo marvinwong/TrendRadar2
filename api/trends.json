@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:49:19.708324+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-06T22:14:55.003772+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -28,11 +28,12 @@
             22,
             7,
             9,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 14时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时39分 ~ 22时14分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -43,8 +44,37 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时07分 ~ 22时14分]"
+        },
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26,
+            12,
+            28,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时39分 ~ 22时14分]"
+        },
+        {
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时07分 ~ 19时49分]"
+          "time_info": "[17时24分 ~ 22时14分]"
         },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
@@ -60,34 +90,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时39分 ~ 14时07分]"
-        },
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            26,
-            12,
-            28,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 19时49分]"
-        },
-        {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时49分]"
         },
         {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
@@ -193,6 +195,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时39分 ~ 07时53分]"
+        },
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时14分]"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
@@ -313,17 +327,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
           "title": "据英国金融时报：Deepseek的估值接近450亿美元。",
           "url": "https://flash.jin10.com/detail/20260506135328653800",
           "source": "金十数据",
@@ -333,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "OpenAI：我们已与 AMD、博通、英特尔、微软及英伟达达成合作，共同发布多路径可靠连接（MRC）。",
+          "url": "https://flash.jin10.com/detail/20260506220121812800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "Anthropic发布金融AI代理，FactSet等数据服务商遭到冲击",
@@ -374,7 +388,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
