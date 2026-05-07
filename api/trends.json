@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:15:47.301137+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-05-08T06:00:53.519295+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 06时00分]"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 06时00分]"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 04时15分]"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -93,7 +94,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
         }
