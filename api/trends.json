@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T15:43:27.778138+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-05-11T19:23:21.196095+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -54,11 +54,12 @@
             10,
             17,
             28,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 15时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 19时23分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -150,7 +151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -161,7 +162,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -191,6 +192,18 @@
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 19时23分]"
+        },
+        {
           "title": "给淘宝AI试穿评个夯",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%B7%98%E5%AE%9DAI%E8%AF%95%E7%A9%BF%E8%AF%84%E4%B8%AA%E5%A4%AF%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -200,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "阿里千问与淘宝全面打通，打通AI购物全链路",
@@ -213,13 +237,24 @@
           "time_info": "11时37分"
         },
         {
+          "title": "加速渗透！宠物AI手机交付订单达数万台 距离真正“人宠互通”还有多远",
+          "url": "https://www.cls.cn/detail/2367714",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！",
           "url": "https://www.cls.cn/detail/2367427",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -230,7 +265,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -246,26 +281,37 @@
           "time_info": "00时58分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
           "url": "https://www.zhihu.com/question/2037110129963661155",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "谷歌瞄准英伟达宝座：“全球股王”即将易主？",
+          "url": "https://www.cls.cn/detail/2367519",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "欧盟委员会：与Anthropic、OpenAI的谈判处于不同阶段。",
+          "url": "https://wallstreetcn.com/livenews/3101566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -285,7 +331,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -296,9 +342,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们与Anthropic保持着良好的沟通，目前尚无法对可能获取该AI模型一事进行推测。",
+          "url": "https://flash.jin10.com/detail/20260511183423552800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "机构：预计2027年AI服务器内存需求将占DRAM市场容量近50%",
+          "url": "https://wallstreetcn.com/livenews/3101547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "AI 掠夺水资源",
@@ -307,7 +375,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -327,11 +395,12 @@
             9,
             3,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 15时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 19时23分]"
         },
         {
           "title": "改编自紫金陈同名小说的犯罪剧《低智商犯罪》以抽象搞笑风格引发热议，如何评价这部作品？",
