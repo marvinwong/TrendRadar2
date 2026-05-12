@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T17:41:53.911967+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-05-12T20:17:13.692545+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -17,11 +17,24 @@
             7,
             1,
             2,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 20时17分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 20时17分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -33,11 +46,28 @@
             22,
             24,
             18,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 20时17分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            29,
+            26,
+            21,
+            18,
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 20时17分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -49,38 +79,24 @@
             20,
             15,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 20时17分]"
         },
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时41分]"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            29,
-            26,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 14时44分]"
+          "time_info": "[14时44分 ~ 20时17分]"
         },
         {
           "title": "OpenAI冲刺IPO之际 其CEO奥尔特曼恐面临严厉审查",
@@ -94,6 +110,19 @@
           "time_info": "12时00分"
         },
         {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 20时17分]"
+        },
+        {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2367918",
           "source": "财联社热门",
@@ -103,30 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 17时41分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 17时41分]"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -162,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时00分]"
+        },
+        {
+          "title": "专访硅谷AI大佬姚顺宇",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%93%E8%AE%BF%E7%A1%85%E8%B0%B7AI%E5%A4%A7%E4%BD%AC%E5%A7%9A%E9%A1%BA%E5%AE%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 20时17分]"
         },
         {
           "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
@@ -247,7 +263,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -313,7 +329,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -357,11 +373,12 @@
             18,
             30,
             27,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 17时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 20时17分]"
         }
       ]
     }
