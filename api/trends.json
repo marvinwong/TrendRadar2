@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T10:58:47.441476+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-05-16T14:05:26.097527+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -27,11 +27,25 @@
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 10时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 14时05分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 14时05分]"
         },
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -46,19 +60,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时40分 ~ 10时58分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 10时58分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -141,6 +142,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
           "url": "https://www.zhihu.com/question/2038779949444757193",
           "source": "知乎",
@@ -152,13 +164,24 @@
           "time_info": "06时56分"
         },
         {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
           "url": "https://www.zhihu.com/question/2038564529353839746",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -191,7 +214,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -213,7 +236,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
