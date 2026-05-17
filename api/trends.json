@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T07:54:42.884419+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-05-17T11:33:12.313426+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 11时33分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -49,11 +50,12 @@
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 11时33分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -62,11 +64,24 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 11时33分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 11时33分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -106,17 +121,6 @@
           "time_info": "[00时02分 ~ 07时54分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
-        },
-        {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
           "url": "https://flash.jin10.com/detail/20260516225206555800",
           "source": "金十数据",
@@ -133,11 +137,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 11时33分]"
+        },
+        {
+          "title": "境外间谍对我稀土AI等领域实施窃密",
+          "url": "https://www.toutiao.com/trending/7639950755486633515/",
+          "source": "今日头条",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
