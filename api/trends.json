@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T19:08:02.324619+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-17T21:23:14.847881+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 19时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 21时23分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -53,11 +54,12 @@
             5,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 19时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 21时23分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -81,11 +83,12 @@
             20,
             17,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 19时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 21时23分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -125,6 +128,18 @@
           "time_info": "[00时02分 ~ 07时54分]"
         },
         {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 21时23分]"
+        },
+        {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
           "url": "https://flash.jin10.com/detail/20260516225206555800",
           "source": "金十数据",
@@ -161,18 +176,6 @@
           "time_info": "[00时02分 ~ 14时45分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时08分]"
-        },
-        {
           "title": "境外间谍对我稀土AI等领域实施窃密",
           "url": "https://www.toutiao.com/trending/7639950755486633515/",
           "source": "今日头条",
@@ -183,6 +186,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 14时45分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
