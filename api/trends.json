@@ -1,507 +1,99 @@
 {
-  "generated_at": "2026-05-22T23:49:12.035128+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-05-23T01:52:57.087552+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 41,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时03分]"
-        },
-        {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时03分]"
-        },
-        {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时03分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19,
-            15,
-            14,
-            12,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时59分 ~ 23时49分]"
-        },
-        {
-          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
-          "url": "https://www.cls.cn/detail/2377977",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时03分]"
-        },
-        {
-          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
-          "url": "https://www.cls.cn/detail/2378186",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时03分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时03分]"
-        },
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
           "url": "https://www.zhihu.com/question/2041260640740927118",
           "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时48分 ~ 23时49分]"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 23时49分]"
-        },
-        {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 23时49分]"
-        },
-        {
-          "title": "星巴克在北美全线叫停AI库存盘点工具",
-          "url": "https://wallstreetcn.com/livenews/3107600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 20时20分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 23时49分]"
-        },
-        {
-          "title": "Kepler依托Claude构建金融服务业可验证AI架构",
-          "url": "https://wallstreetcn.com/livenews/3107573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 04时05分]"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 04时05分]"
-        },
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时20分 ~ 23时49分]"
-        },
-        {
-          "title": "朱自清《荷塘月色》AI率超60%",
-          "url": "https://www.toutiao.com/trending/7642580693547057188/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 20时20分]"
-        },
-        {
-          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
-          "url": "https://www.zhihu.com/question/2040949624073152492",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 20时20分]"
-        },
-        {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 17时27分]"
+          "time_info": "01时52分"
         },
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时48分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
-        },
-        {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 13时02分]"
-        },
-        {
-          "title": "AI浪潮提振全球股市，美股期指齐涨，存储芯片股走低，老虎证券盘前大跌40%，美伊僵局推升油价",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
+          "title": "印度成AI时代最大输家了吗",
+          "url": "https://www.toutiao.com/trending/7642712941673844275/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "01时52分"
         },
         {
-          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
-          "url": "https://flash.jin10.com/detail/20260522022949905800",
-          "source": "金十数据",
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时05分"
+          "time_info": "01时52分"
         },
         {
-          "title": "观想科技：子公司拟投资建设巴里坤AI科技成果转化总部基地项目，计划总投资约10亿元",
-          "url": "https://wallstreetcn.com/livenews/3108021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
-          "url": "https://flash.jin10.com/detail/20260522120616602800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "为何AI总会一本正经地胡说八道",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
-          "url": "https://flash.jin10.com/detail/20260522010324377800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
-          "url": "https://flash.jin10.com/detail/20260522022849271800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "报道：OpenAI在第一季度创造57亿美元收入",
-          "url": "https://wallstreetcn.com/livenews/3107589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "为何AI总会一本正经地胡说八道",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时52分"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850534&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/AvfN3oHf2GiPPlqjKJuGE.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260522120206890800",
-          "source": "金十数据",
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "01时52分"
         },
         {
-          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
-          "url": "https://www.zhihu.com/question/2037993874522629479",
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
-          "url": "https://wallstreetcn.com/livenews/3107583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "五角大楼加速Claude替代 正在测试多模型寻找新供应商体系",
-          "url": "https://flash.jin10.com/detail/20260522020816210800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
-          "url": "https://wallstreetcn.com/livenews/3107551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "据The Information：宁德时代计划投资DeepSeek。",
-          "url": "https://flash.jin10.com/detail/20260522195855222800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "水晶光电：公司AI光学业务相关产品有望年内实现交付",
-          "url": "https://flash.jin10.com/detail/20260522195700696800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "学生用AI降论文AIGC率",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%94%A8AI%E9%99%8D%E8%AE%BA%E6%96%87AIGC%E7%8E%87%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
-          "url": "https://flash.jin10.com/detail/20260522061919828800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁夏大学图书馆贴告示称「图书馆占座物品漂流，学生可免费领」，回应为避免浪费与占地，这种做法可行吗？",
-          "url": "https://www.zhihu.com/question/2040437590034227720",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 17时27分]"
+          "time_info": "01时52分"
         }
       ]
     }
