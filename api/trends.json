@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T13:02:26.589260+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-05-22T17:27:12.845749+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -54,6 +54,21 @@
           "time_info": "[01时59分 ~ 06时20分]"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 17时27分]"
+        },
+        {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
           "source": "澎湃新闻",
@@ -91,19 +106,26 @@
           "time_info": "[01时59分 ~ 08时03分]"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            19,
-            15,
-            14,
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 13时02分]"
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "星巴克在北美全线叫停AI库存盘点工具",
@@ -141,6 +163,74 @@
           "time_info": "[01时59分 ~ 04时05分]"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时27分]"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时27分]"
+        },
+        {
+          "title": "朱自清《荷塘月色》AI率超60%",
+          "url": "https://www.toutiao.com/trending/7642580693547057188/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "用上AI后工作时间反而更长了",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -164,24 +254,13 @@
           "time_info": "04时05分"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
           "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
           "url": "https://flash.jin10.com/detail/20260522120616602800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -192,7 +271,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -247,7 +326,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -285,17 +364,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
           "url": "https://wallstreetcn.com/livenews/3107551",
           "source": "华尔街见闻-快讯",
@@ -313,7 +381,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -339,11 +407,12 @@
           "url": "https://www.zhihu.com/question/2040437590034227720",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时27分]"
         }
       ]
     }
