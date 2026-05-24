@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T21:28:21.758435+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-05-24T23:05:37.422511+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 12时22分]"
+        },
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 23时05分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -49,20 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时28分]"
-        },
-        {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -125,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 23时05分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -137,11 +137,26 @@
             12,
             11,
             9,
-            29
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 23时05分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8,
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时22分 ~ 21时28分]"
+          "time_info": "[15时49分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -156,19 +171,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 21时28分]"
         },
         {
           "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
@@ -204,8 +206,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 23时05分]"
+        },
+        {
+          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
+          "url": "https://wallstreetcn.com/livenews/3108500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时18分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 23时05分]"
         },
         {
           "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
@@ -253,15 +267,15 @@
           "time_info": "[15时49分 ~ 15时50分]"
         },
         {
-          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
-          "url": "https://wallstreetcn.com/livenews/3108500",
-          "source": "华尔街见闻-快讯",
+          "title": "什么情况下，本轮AI大行情会结束？",
+          "url": "https://wallstreetcn.com/articles/3773004",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "23时05分"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
