@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T04:54:19.900950+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-27T06:21:13.466904+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 06时21分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 06时21分]"
+        },
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时54分]"
+          "time_info": "[06时20分 ~ 06时21分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -38,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 06时21分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -49,8 +60,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 06时21分]"
+        },
+        {
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时54分]"
+          "time_info": "[06时20分 ~ 06时21分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
@@ -71,7 +93,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
