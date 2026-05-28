@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T05:12:09.860338+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-05-29T07:19:12.975517+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -38,8 +38,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
+        },
+        {
+          "title": "AI算力需求增加，多家公司加速布局高端电子电路铜箔领域",
+          "url": "https://wallstreetcn.com/livenews/3110977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -50,19 +61,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -72,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -83,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -94,8 +106,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -106,19 +118,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
-        },
-        {
-          "title": "如何看待微软取消了 Claude Code 订阅？",
-          "url": "https://www.zhihu.com/question/2042203258689672770",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
@@ -128,8 +129,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -137,6 +138,28 @@
           "source": "贴吧",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
+        },
+        {
+          "title": "如何看待微软取消了 Claude Code 订阅？",
+          "url": "https://www.zhihu.com/question/2042203258689672770",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -155,15 +178,26 @@
           "time_info": "[02时40分 ~ 05时12分]"
         },
         {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
+          "url": "https://wallstreetcn.com/livenews/3110974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "亚马逊云服务(AWS)宣布在Amazon Bedrock和AWS上的Claude平台上推出Anthropic最先进的Opus模型Claude Opus 4.8。",
@@ -188,13 +222,24 @@
           "time_info": "02时40分"
         },
         {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3110924",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -205,7 +250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -249,7 +294,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -278,8 +323,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时19分]"
         }
       ]
     }
