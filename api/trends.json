@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T15:58:39.377723+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-05-29T19:35:40.328644+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -103,6 +103,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
           "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
@@ -124,6 +135,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 19时35分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
@@ -182,16 +205,16 @@
           "time_info": "[02时40分 ~ 07时19分]"
         },
         {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            13,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 15时58分]"
+          "time_info": "[15时58分 ~ 19时35分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -204,6 +227,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 15时58分]"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 19时35分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 19时35分]"
         },
         {
           "title": "如何看待微软取消了 Claude Code 订阅？",
@@ -229,27 +276,16 @@
           "time_info": "[02时40分 ~ 05时12分]"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 15时58分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
+            11,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 15时58分]"
+          "time_info": "[15时58分 ~ 19时35分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -262,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 15时58分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 19时35分]"
         },
         {
           "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
@@ -310,26 +357,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时58分"
+          "time_info": "19时35分"
         },
         {
           "title": "目前超级电容器、MLPC的规模、营收占比及其在AI服务器电源上的应用都较小！2连板PCB概念股发布异动公告|盘后公告集锦",
@@ -349,7 +385,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -398,15 +434,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时58分"
+          "time_info": "19时35分"
         },
         {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
@@ -420,6 +456,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
           "url": "https://wallstreetcn.com/livenews/3110921",
           "source": "华尔街见闻-快讯",
@@ -429,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "字节跳动AI4S团队调整，由杨震原负责管理",
+          "url": "https://wallstreetcn.com/livenews/3111381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "闪迪CTO：新型AI内存HBF将在年底送样，配备控制器的完整产品预计于明年正式推出。",
@@ -481,7 +539,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -503,7 +561,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -533,7 +591,7 @@
     },
     {
       "keyword_group": "图书 书籍 小说",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小说AI直出?8u评论区吵翻",
@@ -545,6 +603,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 07时19分]"
+        },
+        {
+          "title": "起点作者「我会修空调」联合阅文控诉番茄小说作者「三九音域」抄袭，会成功吗？",
+          "url": "https://www.zhihu.com/question/2043363054428194437",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     }
