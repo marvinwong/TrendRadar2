@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T05:14:35.690693+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-06-08T07:06:29.894330+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时06分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 05时14分]"
+        },
+        {
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     }
