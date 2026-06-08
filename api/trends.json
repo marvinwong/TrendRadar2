@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:06:29.894330+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-06-08T12:06:11.457026+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -25,11 +25,24 @@
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 12时06分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 12时06分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -55,18 +68,6 @@
           "time_info": "[01时17分 ~ 07时06分]"
         },
         {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时06分]"
-        },
-        {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
           "url": "https://www.cls.cn/detail/2392589",
           "source": "财联社热门",
@@ -82,11 +83,73 @@
           "url": "https://www.zhihu.com/question/1969653840065332479",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 12时06分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
+          "title": "ChatGPT转型",
+          "url": "https://s.weibo.com/weibo?q=%23ChatGPT%E8%BD%AC%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "图书 书籍 小说",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为啥《水浒传》这一部讲诉土匪的小说被神化成为四大名著呢？",
+          "url": "https://www.zhihu.com/question/2016045154721621230",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
         }
       ]
     }
