@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T08:15:58.270307+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-06-10T13:20:27.954881+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时08分 ~ 08时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时08分 ~ 13时20分]"
         },
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -72,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -107,7 +107,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -117,11 +117,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 08时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时42分 ~ 13时20分]"
         },
         {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
@@ -146,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 08时15分]"
+        },
+        {
+          "title": "用AI复原孔子与苏格拉底教育之辩",
+          "url": "https://www.douyin.com/hot/2528746",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
@@ -181,6 +193,17 @@
           "time_info": "06时42分"
         },
         {
+          "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
+          "url": "https://www.cls.cn/detail/2395511",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "Anthropic：面向一小部分网络安全防御人员与基础设施提供商，同时发布Claude Mythos 5。",
           "url": "https://flash.jin10.com/detail/20260610010437968800",
           "source": "金十数据",
@@ -192,6 +215,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "夏奇拉邀请你来跳daida",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3daida",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "Anthropic：计划通过更广泛的“可信访问计划”扩大Claude Mythos 5的使用范围。",
           "url": "https://flash.jin10.com/detail/20260610010242800800",
           "source": "金十数据",
@@ -201,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "Siri AI将如何改变苹果",
+          "url": "https://search.bilibili.com/all?keyword=Siri%20AI%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%8B%B9%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "Anthropic：Claude Mythos 5最初将通过“Glasswing项目”部署，并与美国政府合作，作为Claude Mythos预览版的升级版本。",
@@ -223,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "狂揽70亿美元：超微电脑拟启动巨额股权融资，全力囤货抢购AI芯片与关键组件",
@@ -253,7 +309,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
