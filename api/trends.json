@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T13:20:27.954881+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-06-10T18:03:07.192055+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -31,6 +31,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时08分 ~ 08时15分]"
+        },
+        {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
+          "url": "https://wallstreetcn.com/articles/3774243",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 18时03分]"
         },
         {
           "title": "亚马逊(AMZN.O)：Claude Fable 5现已在亚马逊云服务(AWS)上线。",
@@ -112,19 +137,6 @@
           "time_info": "08时15分"
         },
         {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 13时20分]"
-        },
-        {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
           "url": "https://www.cls.cn/detail/2395176",
           "source": "财联社热门",
@@ -137,6 +149,62 @@
           "time_info": "[02时08分 ~ 06时42分]"
         },
         {
+          "title": "用AI复原孔子与苏格拉底教育之辩",
+          "url": "https://www.douyin.com/hot/2528746",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 18时03分]"
+        },
+        {
+          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 18时03分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "AI热潮催生“芯”需求！三星考虑新建先进芯片封装厂",
+          "url": "https://www.cls.cn/detail/2395630",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
           "title": "谷歌英伟达",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -147,17 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 08时15分]"
-        },
-        {
-          "title": "用AI复原孔子与苏格拉底教育之辩",
-          "url": "https://www.douyin.com/hot/2528746",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
@@ -199,7 +256,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -221,7 +278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -243,7 +300,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -268,17 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
-        },
-        {
-          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "狂揽70亿美元：超微电脑拟启动巨额股权融资，全力囤货抢购AI芯片与关键组件",
@@ -314,6 +360,17 @@
           "time_info": "08时15分"
         },
         {
+          "title": "海尔智慧家庭首批接入微信AI生态，打造智慧家电“超级入口”",
+          "url": "https://wallstreetcn.com/livenews/3117358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "Meta：将针对欧盟的WhatsApp AI命令提出上诉。",
           "url": "https://wallstreetcn.com/livenews/3116943",
           "source": "华尔街见闻-快讯",
@@ -323,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "微盟宣布接入微信AI生态",
+          "url": "https://wallstreetcn.com/livenews/3117351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     }
