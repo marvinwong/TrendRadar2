@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:46:19.912146+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-06-13T07:18:36.542644+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 07时18分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时18分]"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -65,24 +77,13 @@
           "time_info": "00时19分"
         },
         {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "用AI打开七时吉祥原著",
           "url": "https://www.douyin.com/hot/2532352",
           "source": "抖音",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -113,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 07时18分]"
         }
       ]
     }
