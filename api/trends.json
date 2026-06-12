@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-13T00:19:38.682467+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:06:32.981932+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时06分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时06分]"
         },
         {
           "title": "我们真的需要又一个 DeepSeek V5 吗？",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时06分]"
         },
         {
           "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
@@ -61,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "作家自曝用AI写作",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     },
@@ -73,11 +85,12 @@
           "url": "https://www.zhihu.com/question/2048119455473988854",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时06分]"
         }
       ]
     }
