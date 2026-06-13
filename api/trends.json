@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T03:27:28.084280+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-06-14T05:17:41.689425+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时17分]"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时17分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -50,8 +51,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时17分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时17分]"
+        },
+        {
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时17分]"
         },
         {
           "title": "美国突然限用Claude 5说明了什么",
@@ -66,27 +90,16 @@
           "time_info": "[01时23分 ~ 03时27分]"
         },
         {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
+          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
+          "url": "https://www.zhihu.com/question/1997586495188521827",
+          "source": "知乎",
           "ranks": [
-            13,
-            10
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时27分]"
-        },
-        {
-          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时27分]"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 05时17分]"
         },
         {
           "title": "ARCRaiders国服首测PV",
@@ -109,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
-          "url": "https://www.zhihu.com/question/1997586495188521827",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
         }
       ]
     },
@@ -135,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时17分]"
         }
       ]
     }
