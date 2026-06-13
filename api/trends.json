@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T15:50:15.003627+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-06-13T18:32:13.003581+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时32分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时32分]"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            20,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 18时32分]"
         },
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -40,18 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 05时46分]"
-        },
-        {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 15时50分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -70,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 15时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 18时32分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -176,7 +179,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -220,7 +223,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -259,11 +262,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33373040",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时32分]"
         }
       ]
     }
