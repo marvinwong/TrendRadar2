@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T05:44:22.084320+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-16T07:46:52.293212+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 07时46分]"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 07时46分]"
         },
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 07时46分]"
         },
         {
           "title": "AI为何成为能源之战",
@@ -49,22 +50,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 07时46分]"
         },
         {
           "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 07时46分]"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -73,7 +76,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -87,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
