@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T14:25:56.985573+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-06-15T21:15:43.345833+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -95,6 +95,17 @@
           "time_info": "[00时23分 ~ 08时11分]"
         },
         {
+          "title": "全国首个冶金领域国家级AI中试基地启动",
+          "url": "https://flash.jin10.com/detail/20260615204524856800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
           "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
@@ -117,15 +128,59 @@
           "time_info": "[00时23分 ~ 04时19分]"
         },
         {
+          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
+          "url": "https://wallstreetcn.com/articles/3774655",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2400118",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "80年前就有的AI，为什么现在才爆发？半导体老兵：算力便宜了！",
           "url": "https://finance.ifeng.com/c/8tyVXqs6ntv",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "【午报】创业板指半日涨超3.5%，科技股全线回暖，PCB、MLCC等AI硬件细分领涨",
+          "url": "https://www.cls.cn/detail/2399807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "AI为何成为能源之战",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
@@ -139,13 +194,35 @@
           "time_info": "08时11分"
         },
         {
+          "title": "王俊凯董子健合照被判AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%91%A3%E5%AD%90%E5%81%A5%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "AI革命和进口替代为国产芯片带来前景",
+          "url": "https://www.toutiao.com/trending/7651565836057972243/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "郝景芳承认用AI写作",
           "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
