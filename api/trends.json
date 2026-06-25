@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T15:43:34.863401+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-06-25T18:43:24.446433+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 07时04分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            15,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 18时43分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -34,18 +49,16 @@
           "time_info": "[01时05分 ~ 07时04分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            10,
-            15,
-            18
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 18时43分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -58,6 +71,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 15时43分]"
+        },
+        {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 18时43分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -86,28 +111,6 @@
           "time_info": "[01时05分 ~ 07时04分]"
         },
         {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 15时43分]"
-        },
-        {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 15时43分]"
-        },
-        {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
           "url": "https://wallstreetcn.com/articles/3775422",
           "source": "华尔街见闻",
@@ -116,8 +119,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时48分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[03时48分 ~ 18时43分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时43分]"
         },
         {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
@@ -179,15 +194,15 @@
           "time_info": "[01时05分 ~ 07时04分]"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "链博会把AI全产业链搬来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%8A%8AAI%E5%85%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%90%AC%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "18时43分"
         },
         {
           "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
@@ -207,9 +222,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "建议大家不要和AI太好了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
@@ -219,8 +245,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 18时43分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -258,6 +284,29 @@
           "time_info": "[03时48分 ~ 05时24分]"
         },
         {
+          "title": "AI时代计算机专业怎么选",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时43分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时43分]"
+        },
+        {
           "title": "韩乔生七旬老汉大战AI",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E4%B8%83%E6%97%AC%E8%80%81%E6%B1%89%E5%A4%A7%E6%88%98AI%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -280,6 +329,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
           "url": "https://flash.jin10.com/detail/20260625045426358800",
           "source": "金十数据",
@@ -291,15 +351,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
+          "title": "利和兴：30个交易日涨幅偏离值超200% MLCC暂未用于AI服务器",
+          "url": "https://flash.jin10.com/detail/20260625183025111800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "18时43分"
         },
         {
           "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。 Meta计划在其数据中心使用C1000 CPU。 计划2027年推出第三代AI芯片。",
@@ -311,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -330,7 +401,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -344,17 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "AI时代计算机专业怎么选",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
@@ -407,7 +467,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -462,7 +522,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
