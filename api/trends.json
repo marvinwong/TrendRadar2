@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T04:09:30.341528+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-06-28T06:03:54.794852+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -38,8 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -55,18 +67,6 @@
           "time_info": "[00时06分 ~ 04时09分]"
         },
         {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -85,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -96,8 +96,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 06时03分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -105,11 +105,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 06时03分]"
         }
       ]
     }
