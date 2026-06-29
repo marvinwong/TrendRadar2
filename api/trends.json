@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T04:00:27.018060+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-30T05:42:04.223610+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -51,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -63,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
         },
         {
           "title": "AI手机进入Agent时代",
@@ -72,11 +73,25 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
+        },
+        {
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 05时42分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -85,18 +100,6 @@
           "ranks": [
             20,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 04时00分]"
-        },
-        {
-          "title": "吴启华自曝卖肖像权拍AI电影",
-          "url": "https://www.douyin.com/hot/2552172",
-          "source": "抖音",
-          "ranks": [
-            30,
-            22
           ],
           "is_new": false,
           "appearance_count": 3,
