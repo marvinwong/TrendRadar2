@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:15:24.512068+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-01T11:59:00.181226+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -33,24 +33,25 @@
           "time_info": "[01时55分 ~ 07时15分]"
         },
         {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时59分]"
+        },
+        {
           "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
           "url": "https://flash.jin10.com/detail/20260701070002377800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -72,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -94,7 +95,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -146,6 +147,39 @@
           "time_info": "[01时55分 ~ 04时01分]"
         },
         {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "为什么有人愿意花百万买一个AI恋人",
+          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：发布适用于macOS的Gemini Spark，并扩展了应用程序集成。",
           "url": "https://flash.jin10.com/detail/20260701050716207800",
           "source": "金十数据",
@@ -163,7 +197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -177,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "Anthropic宣布Fable 5 将于明天在Claude平台全球上线",
+          "url": "https://flash.jin10.com/detail/20260701112635319800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
@@ -196,7 +241,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -207,9 +252,53 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "AWS：Anthropic的Claude Fable 5模型将于明天在Bedrock上再次向客户提供。",
+          "url": "https://flash.jin10.com/detail/20260701111917615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
+          "url": "https://flash.jin10.com/detail/20260701111702765800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
+          "url": "https://flash.jin10.com/detail/20260701111504167800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "Anthropic：Fable 5 将于明天在Claude平台全球上线。",
+          "url": "https://flash.jin10.com/detail/20260701111339492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "Anthropic推出Claude Sonnet 5，低价策略冲刺IPO",
