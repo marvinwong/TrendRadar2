@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:33:12.796765+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-07-03T22:06:39.032762+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -45,6 +45,19 @@
           "time_info": "[00时50分 ~ 12时42分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 22时06分]"
+        },
+        {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
           "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
@@ -54,6 +67,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 06时07分]"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 22时06分]"
         },
         {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
@@ -85,30 +111,6 @@
           "time_info": "[00时50分 ~ 08时07分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时33分]"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 19时33分]"
-        },
-        {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
@@ -138,24 +140,13 @@
           "time_info": "[00时50分 ~ 08时07分]"
         },
         {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 19时33分]"
-        },
-        {
           "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
           "url": "https://wallstreetcn.com/livenews/3128681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -174,6 +165,17 @@
           "time_info": "[02时25分 ~ 08时07分]"
         },
         {
+          "title": "曝阿里7月10日起全面禁用Claude",
+          "url": "https://www.toutiao.com/trending/7658254613019102783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3128176",
           "source": "华尔街见闻-快讯",
@@ -183,6 +185,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时06分]"
         },
         {
           "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块",
@@ -217,6 +231,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 22时06分]"
+        },
+        {
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时06分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 22时06分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -256,18 +308,6 @@
           "time_info": "[00时50分 ~ 04时19分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时33分]"
-        },
-        {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3128155",
           "source": "华尔街见闻-快讯",
@@ -278,19 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 02时26分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时33分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -342,15 +369,28 @@
           "time_info": "[16时09分 ~ 19时33分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 19时33分]"
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时06分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时06分]"
         },
         {
           "title": "微软高管：微软可以帮助企业改进AI使用方式",
@@ -399,26 +439,15 @@
           "time_info": "[06时07分 ~ 12时42分]"
         },
         {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260703213623637800",
+          "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 19时33分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 19时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
@@ -452,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "特朗普重塑外交准则：以AI实力重新定义盟友",
@@ -562,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "AI拍剧成常态 人真的会被取代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8B%8D%E5%89%A7%E6%88%90%E5%B8%B8%E6%80%81+%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "谷歌(GOOG.O)：已禁用NetNut用于恶意软件指挥和控制的谷歌账户。",
