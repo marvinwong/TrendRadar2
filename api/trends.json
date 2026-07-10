@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T18:55:33.763887+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-07-10T21:13:09.556493+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -33,6 +33,20 @@
           "time_info": "[01时57分 ~ 05时25分]"
         },
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 21时13分]"
+        },
+        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -43,6 +57,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 05时25分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 21时13分]"
         },
         {
           "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
@@ -108,23 +134,12 @@
           "url": "https://www.cls.cn/detail/2422609",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时23分 ~ 18时55分]"
+          "time_info": "[18时55分 ~ 21时13分]"
         },
         {
           "title": "一条AI短片演绎杨戬劈山",
@@ -138,19 +153,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时50分 ~ 07时13分]"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 18时55分]"
         },
         {
           "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
@@ -174,8 +176,42 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 21时13分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时13分]"
+        },
+        {
+          "title": "听障人士用AI做了款反诈应用",
+          "url": "https://www.toutiao.com/trending/7660363750279086121/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时13分]"
+        },
+        {
+          "title": "五大AI预测世界杯4强名单",
+          "url": "https://www.toutiao.com/trending/7659706463520997419/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时55分]"
+          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -195,7 +231,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -206,18 +242,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -239,18 +264,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "听障人士用AI做了款反诈应用",
-          "url": "https://www.toutiao.com/trending/7660363750279086121/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -319,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "瑞银：AI热潮料将提振股市长期收益",
+          "url": "https://flash.jin10.com/detail/20260710204626461800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "OpenAI：GPT‑5.6的定价以每百万个tokens为单位，分为三档模型：SOL输入为5美元，输出为30美元；TERRA输入为2.50美元，输出为15美元；LUNA输入为1美元，输出为6美元。",
@@ -437,7 +462,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
