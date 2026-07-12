@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T19:10:34.376207+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-07-12T21:21:12.530685+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 21时21分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 21时21分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -95,6 +96,18 @@
           "time_info": "[04时49分 ~ 07时56分]"
         },
         {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时21分]"
+        },
+        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -135,6 +148,19 @@
           "time_info": "[10时49分 ~ 17时03分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时21分]"
+        },
+        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
           "source": "百度热搜",
@@ -169,16 +195,26 @@
           "time_info": "[10时49分 ~ 17时03分]"
         },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时03分 ~ 19时10分]"
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "A股AI算力服务链为何突然爆发",
+          "url": "https://www.toutiao.com/trending/7661579639684337194/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -190,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
-        },
-        {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "商业航天“DeepSeek时刻”到了吗",
