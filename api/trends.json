@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:21:12.530685+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-07-12T22:57:47.535041+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 21时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 22时57分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 21时21分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 22时57分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -83,6 +83,18 @@
           "time_info": "[01时02分 ~ 04时49分]"
         },
         {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时57分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
@@ -96,16 +108,16 @@
           "time_info": "[04时49分 ~ 07时56分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时21分]"
+          "time_info": "[21时20分 ~ 22时57分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -119,6 +131,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时56分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 22时57分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -146,19 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 17时03分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 21时21分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -193,17 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 17时03分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "A股AI算力服务链为何突然爆发",
