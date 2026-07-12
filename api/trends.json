@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-13T06:50:52.889639+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-07-13T07:56:02.100130+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
           "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时56分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时56分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时56分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -62,8 +63,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时56分]"
+        },
+        {
+          "title": "AI是如何“杀死”印度IT行业的",
+          "url": "https://www.toutiao.com/trending/7661654432722980388/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 07时56分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -79,17 +93,15 @@
           "time_info": "[01时59分 ~ 04时50分]"
         },
         {
-          "title": "AI是如何“杀死”印度IT行业的",
-          "url": "https://www.toutiao.com/trending/7661654432722980388/",
-          "source": "今日头条",
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            27,
-            25,
-            26
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时50分]"
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 07时56分]"
         }
       ]
     }
