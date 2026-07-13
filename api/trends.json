@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:28:05.230695+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-13T21:25:04.701176+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -84,11 +84,26 @@
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时25分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 21时25分]"
         },
         {
           "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
@@ -115,19 +130,6 @@
           "time_info": "[14时20分 ~ 18时28分]"
         },
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 18时28分]"
-        },
-        {
           "title": "AI是如何“杀死”印度IT行业的",
           "url": "https://www.toutiao.com/trending/7661654432722980388/",
           "source": "今日头条",
@@ -152,6 +154,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 04时50分]"
+        },
+        {
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
+        },
+        {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -270,9 +294,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "AI明星股痛斥“丢单”谣言！PCB产品需求旺盛，在手订单持续增长 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260713210955886800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "英特尔将斥资50亿欧元扩建爱尔兰工厂，以保持在AI芯片竞赛中的竞争力",
+          "url": "https://wallstreetcn.com/livenews/3132915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "韩国政府与执政党承诺加大芯片集群及AI投资项目支持力度",
@@ -308,6 +354,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "DeepTalk：最懂AI的那批人，已经悄悄出逃了？",
+          "url": "https://flash.jin10.com/detail/20260713210111775800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
           "url": "https://wallstreetcn.com/livenews/3132618",
           "source": "华尔街见闻-快讯",
@@ -319,6 +376,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "阶跃星辰AI手机STEPX Neo正式亮相，同步发布大模型原生终端品牌",
+          "url": "https://wallstreetcn.com/livenews/3132900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "韩国央行预计AI驱动的芯片“超级周期”将持续，驳斥见顶担忧",
           "url": "https://flash.jin10.com/detail/20260713102553289800",
           "source": "金十数据",
@@ -328,6 +396,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "【生益电子：预计上半年净利润10.82亿元到11.37亿元，同比增加104%到114%】受益于AI算力及高速通信等下游领域的高景气需求，公司紧扣战略定位，深入实施“市场引领，双轮驱动”方针，持续聚焦高端市场的结构性增长机会，优化产品结构，有序推进增资扩产项目建设，尤其是智能算力中心高多层高密互连电路板项目按计划高效落地并快速释放效益。同时公司在技术演进与供应链重构中持续构建经营韧性，不断夯实质量管理根基，市场竞争优势进一步巩固。2026年半年度营业收入和净利润较上年同期实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3132894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "【胜宏科技：网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实】1、网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。 2、当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。 3、公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027–2028年长期需求，公司对后续生产经营及效益实现充满信心。",
+          "url": "https://wallstreetcn.com/livenews/3132888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     },
@@ -340,11 +430,12 @@
           "url": "https://www.douyin.com/hot/2569736",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时25分]"
         }
       ]
     }
