@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T21:45:32.622319+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-07-14T23:24:25.522978+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -66,21 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 21时45分]"
-        },
-        {
-          "title": "疑AI照片拿了摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 23时24分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -90,11 +77,26 @@
             17,
             14,
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 23时24分]"
+        },
+        {
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 23时24分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -103,11 +105,12 @@
           "ranks": [
             12,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 23时24分]"
         },
         {
           "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
@@ -126,11 +129,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 23时24分]"
         },
         {
           "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
@@ -188,8 +192,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 23时24分]"
         },
         {
           "title": "AI生成图片被评摄影一等奖 官方通报",
@@ -197,11 +201,23 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 23时24分]"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时26分 ~ 21时45分]"
+          "time_info": "[21时45分 ~ 23时24分]"
         },
         {
           "title": "加拿大银行监管部门从在4月份邮件中警告众多金融机构关于Anthropic旗下Claude Mythos的诸多风险。（路透）",
@@ -214,6 +230,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 04时16分]"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 23时24分]"
         },
         {
           "title": "看陈泽AI跳舞是一种挑战",
@@ -274,17 +302,6 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
           "url": "https://wallstreetcn.com/livenews/3133128",
           "source": "华尔街见闻-快讯",
@@ -302,7 +319,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -329,15 +346,15 @@
           "time_info": "08时02分"
         },
         {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
+          "title": "印度接近接受Fairfax对IDBI银行的加价收购要约",
+          "url": "https://wallstreetcn.com/livenews/3133724",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时45分"
+          "time_info": "23时24分"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -379,7 +396,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -401,7 +418,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -423,7 +440,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -456,7 +473,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
