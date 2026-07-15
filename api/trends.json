@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:54:40.582423+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-07-15T10:32:00.858681+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -31,19 +31,6 @@
           "time_info": "[01时16分 ~ 07时54分]"
         },
         {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时54分]"
-        },
-        {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
           "url": "https://wallstreetcn.com/articles/3776903",
           "source": "华尔街见闻",
@@ -51,6 +38,19 @@
             7,
             6,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时32分]"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时32分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -77,11 +77,12 @@
             8,
             10,
             13,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时32分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -89,11 +90,23 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时32分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -193,6 +206,28 @@
           "time_info": "[05时02分 ~ 06时08分]"
         },
         {
+          "title": "ChatGPT出现故障",
+          "url": "https://www.baidu.com/s?wd=ChatGPT%E5%87%BA%E7%8E%B0%E6%95%85%E9%9A%9C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
           "url": "https://flash.jin10.com/detail/20260715004912134800",
           "source": "金十数据",
@@ -210,7 +245,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -221,7 +256,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -254,7 +289,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -287,7 +322,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -298,7 +333,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
