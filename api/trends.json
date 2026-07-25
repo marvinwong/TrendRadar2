@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T18:28:05.386934+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-07-25T20:03:44.933972+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 20时03分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -41,11 +41,12 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 20时03分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -120,6 +121,19 @@
           "time_info": "[01时38分 ~ 01时39分]"
         },
         {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时07分 ~ 20时03分]"
+        },
+        {
           "title": "Claude：Opus 5 也非常高效，在每个任务的成本相似或更低的情况下，其表现优于其他模型。",
           "url": "https://flash.jin10.com/detail/20260725010617849800",
           "source": "金十数据",
@@ -129,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
-        },
-        {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "Claude：在多项编程和知识工作评测中，Opus 5 达到了新的最先进水平。",
@@ -162,6 +165,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 20时03分]"
         },
         {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
@@ -197,30 +214,18 @@
           "time_info": "03时26分"
         },
         {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 18时28分]"
-        },
-        {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
           "url": "https://wallstreetcn.com/livenews/3139723",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 20时03分]"
         },
         {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
@@ -229,11 +234,24 @@
           "ranks": [
             3,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 20时03分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时03分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -245,18 +263,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 05时04分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时07分 ~ 18时28分]"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -282,6 +288,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时38分 ~ 05时04分]"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时03分]"
         },
         {
           "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
@@ -406,17 +424,6 @@
           "time_info": "13时46分"
         },
         {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "谷歌：正设法符合欧盟数字市场法案（DMA）的要求。",
           "url": "https://flash.jin10.com/detail/20260725030013507800",
           "source": "金十数据",
@@ -426,6 +433,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "谷歌：对近期欧盟委员会相关决定的影响表示担忧；对美国政府的参与表达感谢。",
@@ -481,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -559,11 +599,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356496&amp;topic_name=%E5%A4%B1%E5%8E%BB%E4%BA%B2%E4%BA%BA%E5%90%8E%2C%E8%BD%BB%E5%B0%8F%E8%AF%B4%E4%BD%9C%E8%80%85%E6%94%B6%E5%9B%9E%E5%88%80%E7%89%87",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 20时03分]"
         }
       ]
     }
