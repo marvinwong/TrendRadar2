@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T04:59:12.375659+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-27T06:05:50.007535+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -24,22 +24,12 @@
           "source": "微博",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
-        },
-        {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
         },
         {
           "title": "AI还要跌多久",
@@ -49,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -58,11 +48,50 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            23,
+            25,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
+        },
+        {
+          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
+          "url": "https://flash.jin10.com/detail/20260727043919947800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时05分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -77,41 +106,17 @@
           "time_info": "[01时02分 ~ 03时12分]"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
-        },
-        {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
           "url": "https://www.toutiao.com/trending/7665929964277006363/",
           "source": "今日头条",
           "ranks": [
             25,
-            21
+            21,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 06时05分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -129,22 +134,24 @@
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时05分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时05分]"
         },
         {
           "title": "观众为何不能容忍长剧片头用AI",
@@ -172,8 +179,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时05分]"
         }
       ]
     }
