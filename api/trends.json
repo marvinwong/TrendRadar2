@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-29T08:06:04.223108+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-07-29T12:13:48.489493+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
-          "url": "https://www.cls.cn/detail/2439291",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 08时06分]"
-        },
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
           "url": "https://wallstreetcn.com/articles/3778131",
@@ -25,7 +14,19 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 12时13分]"
+        },
+        {
+          "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
+          "url": "https://www.cls.cn/detail/2439291",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -45,6 +46,33 @@
           "time_info": "[03时25分 ~ 08时06分]"
         },
         {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 12时13分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 12时13分]"
+        },
+        {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -57,29 +85,29 @@
           "time_info": "[01时28分 ~ 07时01分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            9,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 08时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 12时13分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
-            8,
-            7,
-            3
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 08时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 12时13分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜”",
@@ -93,40 +121,29 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "真逗,DeepSeek说要去吃饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 08时06分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 08时06分]"
-        },
-        {
           "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
           "url": "https://www.cls.cn/detail/2439413",
           "source": "财联社热门",
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时25分 ~ 08时06分]"
+          "appearance_count": 6,
+          "time_info": "[03时25分 ~ 12时13分]"
+        },
+        {
+          "title": "AI剧 一本万利",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "SK海力士：利润得到应用于AI服务器和ESSD销售的HBM、DRAM的支撑。",
@@ -149,8 +166,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 08时06分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 12时13分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 12时13分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -164,18 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 07时01分]"
-        },
-        {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时09分]"
         },
         {
           "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
@@ -207,9 +225,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "AI帮他69次投递拿下工作",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BB%9669%E6%AC%A1%E6%8A%95%E9%80%92%E6%8B%BF%E4%B8%8B%E5%B7%A5%E4%BD%9C&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "AI热潮推动数据存储需求，希捷科技第四财季利润飙升",
@@ -240,7 +280,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -278,6 +318,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "AI重现被困师生救援事件",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%87%8D%E7%8E%B0%E8%A2%AB%E5%9B%B0%E5%B8%88%E7%94%9F%E6%95%91%E6%8F%B4%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
@@ -306,9 +357,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近10亿。（Information）",
+          "url": "https://wallstreetcn.com/livenews/3141393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -320,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "报道：OceanBase寻求筹集高达30亿元人民币用于AI研发",
+          "url": "https://wallstreetcn.com/livenews/3141392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "美国千名AI公司员工发联名信 寻求建立协同放缓前沿AI发展的机制",
@@ -375,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "暑假年轻人开始用美团小团AI预订",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E5%81%87%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%94%A8%E7%BE%8E%E5%9B%A2%E5%B0%8F%E5%9B%A2AI%E9%A2%84%E8%AE%A2%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
