@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T03:09:21.093246+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-08-02T04:54:58.121794+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时54分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -84,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -95,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -107,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -118,8 +118,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时54分]"
+        },
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            14,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时09分]"
+          "time_info": "[00时02分 ~ 04时54分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -132,18 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时11分]"
-        },
-        {
-          "title": "美两家AI巨头承认自家大模型“失控”",
-          "url": "https://www.toutiao.com/trending/7668948314036899378/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 03时09分]"
         },
         {
           "title": "OpenAI 价格战",
