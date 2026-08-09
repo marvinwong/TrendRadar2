@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:56:14.519910+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-08-09T16:44:08.489610+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 15时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时44分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 16时44分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -73,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 15时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时44分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -103,20 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 15时56分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时44分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -131,8 +132,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 15时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 16时44分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -171,8 +172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 16时44分]"
         },
         {
           "title": "AI推理前瞻——从基础设施建设到商业化变现",
@@ -183,8 +184,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 15时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 16时44分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
