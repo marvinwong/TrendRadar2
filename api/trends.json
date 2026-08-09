@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:36:17.667220+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-08-09T19:29:49.849480+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时43分 ~ 18时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 19时29分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -44,6 +44,17 @@
           "time_info": "[00时34分 ~ 06时31分]"
         },
         {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时55分 ~ 19时29分]"
+        },
+        {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
           "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
           "source": "澎湃新闻",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时30分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 18时36分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
@@ -82,8 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 18时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 19时29分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -112,11 +112,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 18时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 19时29分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -129,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 18时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 19时29分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
