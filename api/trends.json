@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:28:06.626599+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-08-10T15:44:26.870344+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 谷歌 google gemini Qwen chatgpt openai Claude AI Coding",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -48,11 +48,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 15时44分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -108,6 +109,18 @@
           "time_info": "[00时36分 ~ 06时32分]"
         },
         {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时44分]"
+        },
+        {
           "title": "毛宁向世界分享AI“中式天庭”",
           "url": "https://www.toutiao.com/trending/7671660224529825833/",
           "source": "今日头条",
@@ -126,11 +139,12 @@
           "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 15时44分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -138,11 +152,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 15时44分]"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -155,17 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时28分]"
-        },
-        {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
@@ -190,6 +194,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
           "url": "https://m.thepaper.cn/newsDetail_forward_33749121",
           "source": "澎湃新闻",
@@ -199,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "第一批用AI租房的受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "Academy Securities：AI股票承受资本开支压力，AI债券却出现另一种机会",
